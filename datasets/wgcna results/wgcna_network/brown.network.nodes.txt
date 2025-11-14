@@ -1,0 +1,240 @@
+id	name	connectivity	gene_id	kme	module	TN_corr	Temperature_corr	NH3N_corr	TP_corr	TUB_corr	DO_corr	pH_corr	COD_corr	EC_corr	V_corr
+g__Achromobacter	g__Achromobacter	27.9487800855027	g__Achromobacter	0.8187	brown	-0.0904	0.166	0.0065	-0.0071	-0.0175	-0.184	-0.074	0.109	0.0487	0.352
+g__Actinomycetospora	g__Actinomycetospora	8.67572056709967	g__Actinomycetospora	0.6655	brown	0.175	0.0999	-0.0459	0.0872	0.36	-0.0791	-0.0342	0.0537	-0.0423	0.139
+g__Aeromicrobium	g__Aeromicrobium	0.6263221872702671	g__Aeromicrobium	0.3706	brown	-0.163	-0.0053	-0.0287	-0.176	-0.106	0.166	0.0631	-0.18	-0.0206	-0.169
+g__Amoeboaphelidium	g__Amoeboaphelidium	3.9592069096860296	g__Amoeboaphelidium	0.5994	brown	-0.203	0.0338	-0.0169	-0.0689	-0.0034	0.0385	0.16	-0.078	0.0663	0.287
+g__Ascochyta	g__Ascochyta	1.3024972791571898	g__Ascochyta	0.4803	brown	-0.114	-0.292	-0.0712	-0.176	-0.176	0.178	0.0872	-0.281	0.14	-0.261
+g__Beauveria	g__Beauveria	5.19835890729256	g__Beauveria	0.6328	brown	-0.186	-0.256	-0.0709	-0.232	-0.222	0.178	0.232	-0.358	0.267	0.0441
+g__Biomphalaria	g__Biomphalaria	0.7134993450098579	g__Biomphalaria	0.3764	brown	-0.481	0.27	-0.139	-0.252	-0.26	-0.0781	0.0975	-0.0518	-0.0186	0.24
+g__Boletus	g__Boletus	3.4548424077394504	g__Boletus	0.5646	brown	-0.0633	-0.175	-0.0343	-0.128	-0.0772	0.0965	0.0376	-0.132	0.16	-0.137
+g__Candidatus_Captivus	g__Candidatus_Captivus	0.976597598812484	g__Candidatus_Captivus	0.4443	brown	0.145	0.183	-0.0374	-0.0354	0.0479	-0.253	-0.112	0.0092	-0.0163	0.0927
+g__Carpomitra	g__Carpomitra	2.94069962970125	g__Carpomitra	0.5531	brown	0.0443	0.127	-0.0434	0.345	0.409	-0.07	0.0541	0.134	0.0539	0.253
+g__Cellulomonas	g__Cellulomonas	3.94532289364707	g__Cellulomonas	0.5856	brown	0.0641	-0.0773	-0.0491	-0.107	0.0335	-0.001	-0.0367	-0.079	0.0918	-0.0833
+g__Centropyxis	g__Centropyxis	1.02991597870502	g__Centropyxis	0.4462	brown	-0.18	0.225	-0.0516	-0.0256	-0.0623	0.0956	0.124	-0.11	-0.008	0.254
+g__Cephaloflexa	g__Cephaloflexa	27.904615078291897	g__Cephaloflexa	0.8324	brown	-0.0904	0.134	-0.0342	-0.0223	-0.0251	-0.046	0.0117	-0.0578	0.011	0.287
+g__Chaetosphaeridium	g__Chaetosphaeridium	3.2989086323089905	g__Chaetosphaeridium	0.5731	brown	-0.0596	-0.319	-0.0375	-0.111	-0.269	0.065	-0.0627	-0.19	0.139	-0.225
+g__Chloroparvula	g__Chloroparvula	0.463398175456128	g__Chloroparvula	0.3989	brown	0.0465	-0.101	-0.0669	-0.117	-0.0334	0.0597	0.0407	0.0144	-0.0442	-0.285
+g__Choreocolax	g__Choreocolax	1.79309163090227	g__Choreocolax	0.5029	brown	-0.0593	0.152	0.0027	-0.0191	-0.0876	-0.167	-0.0565	-0.0246	0.058	-0.0916
+g__Chroogomphus	g__Chroogomphus	10.1423441714142	g__Chroogomphus	0.6888	brown	-0.193	-0.175	-0.0193	-0.0683	-0.0619	0.14	0.08	-0.212	0.198	0.0911
+g__Cladothele	g__Cladothele	0.172148012396091	g__Cladothele	0.3187	brown	-0.305	-0.657	-0.0943	-0.336	-0.358	0.358	0.142	-0.386	0.467	-0.212
+g__Clibanarius	g__Clibanarius	53.658797335074304	g__Clibanarius	0.9145	brown	0.13	0.0407	-0.0319	0.181	0.222	-0.0618	0.0482	0.0642	-0.0457	-0.0721
+g__Cnuella	g__Cnuella	6.3838927032244195	g__Cnuella	0.6418	brown	0.0115	0.167	-0.0439	-0.064	0.0111	-0.208	-0.0181	-0.108	-0.0022	-0.156
+g__Coelocladia	g__Coelocladia	0.51242986768093	g__Coelocladia	0.4067	brown	-0.323	0.0113	-0.0546	-0.157	-0.105	-0.024	-0.0499	-0.003	0.156	0.248
+g__Coniferiporia	g__Coniferiporia	0.239338589762212	g__Coniferiporia	0.3149	brown	0.114	-0.549	0.0065	-0.0925	-0.256	0.357	0.123	-0.24	0.16	-0.27
+g__Cordyceps	g__Cordyceps	0.742358283884969	g__Cordyceps	0.4275	brown	-0.259	-0.431	-0.0628	-0.254	-0.223	0.146	0.183	-0.168	0.383	-0.133
+g__Coscinodiscus	g__Coscinodiscus	2.97958881363608	g__Coscinodiscus	0.573	brown	-0.0272	-0.29	-0.079	-0.119	-0.143	0.0566	-0.0492	-0.0051	0.0253	-0.45
+g__Cosmospora	g__Cosmospora	1.07964225229108	g__Cosmospora	0.3929	brown	-0.1	0.196	0.0125	-0.0761	-0.116	-0.0544	-0.156	-0.0487	-0.0972	0.205
+g__Ctenochauliodes	g__Ctenochauliodes	3.0632324644905697	g__Ctenochauliodes	0.5537	brown	-0.117	-0.295	0.0154	-0.233	-0.129	0.215	-0.0745	-0.155	0.0291	-0.0534
+g__Cymathaere	g__Cymathaere	2.11591928064188	g__Cymathaere	0.5296	brown	-0.0487	-0.185	-0.032	-0.14	-0.112	0.123	0.105	-0.15	0.162	-0.105
+g__Dactylosiphon	g__Dactylosiphon	0.627303248655968	g__Dactylosiphon	0.4322	brown	0.112	-0.0792	-0.0421	-0.0814	-0.0836	-0.0715	-0.236	0.127	-0.005	-0.0829
+g__Dendrobium	g__Dendrobium	0.79821351913835	g__Dendrobium	0.4298	brown	-0.154	0.154	-0.0475	-0.0558	-0.0171	-0.0928	0.0854	-0.106	-0.0314	0.13
+g__Digenea	g__Digenea	0.16617552894999402	g__Digenea	0.3238	brown	0.164	0.117	-0.0582	-0.0227	-0.131	-0.0017	0.0599	-0.139	-0.0091	0.0222
+g__Diogenes	g__Diogenes	1.87062751458865	g__Diogenes	0.5283	brown	-0.279	0.0282	-0.0895	-0.243	-0.178	-0.0445	0.105	-0.306	0.184	-0.0022
+g__Dyadobacter	g__Dyadobacter	7.21863213594794	g__Dyadobacter	0.6571	brown	-0.0401	0.141	-0.0425	0.0023	0.109	-0.147	0.0218	-0.0557	-0.0024	-0.142
+g__Echinogammarus	g__Echinogammarus	3.8043103748054397	g__Echinogammarus	0.5837	brown	0.236	0.131	-0.0414	0.0143	-0.0113	-0.0767	0.0287	0.123	-0.0647	-0.103
+g__Edaphobaculum	g__Edaphobaculum	2.42447574620643	g__Edaphobaculum	0.5203	brown	-0.181	0.0994	-0.058	-0.104	-0.0699	0.012	0.169	-0.16	0.0522	-0.234
+g__Edenia	g__Edenia	1.22942748387214	g__Edenia	0.4682	brown	-0.179	-0.228	-0.0938	-0.141	-0.147	0.0695	0.0942	-0.246	0.129	0.07
+g__Elattoneura	g__Elattoneura	0.646352984225542	g__Elattoneura	0.3768	brown	-0.15	0.175	-0.0112	-0.0568	-0.13	-0.332	-0.28	0.219	-0.0057	-0.0968
+g__Emericellopsis	g__Emericellopsis	3.35340979555133	g__Emericellopsis	0.5867	brown	-0.0217	-0.296	-0.0036	-0.119	-0.292	0.164	-0.0169	-0.191	0.118	-0.0125
+g__Empedobacter	g__Empedobacter	18.387354789352397	g__Empedobacter	0.7631	brown	0.0699	0.108	-0.0423	-0.0212	0.0308	-0.105	-0.0642	-0.0611	-0.0323	-0.102
+g__Erythrobacter	g__Erythrobacter	22.3178381185148	g__Erythrobacter	0.7848	brown	0.0928	0.0663	-0.0306	0.127	0.353	-0.016	0.0322	0.0468	-0.0231	0.156
+g__Eugorgia	g__Eugorgia	4.16635655938087	g__Eugorgia	0.5928	brown	-0.101	0.24	-0.0472	-0.0305	-0.0384	0.0553	0.147	-0.0912	-0.0687	-0.178
+g__FFCH7168	g__FFCH7168	14.384888580104999	g__FFCH7168	0.7177	brown	-0.0084	0.227	0.0587	-0.0615	-0.0936	-0.0875	-0.208	0.0816	-0.171	0.156
+g__Filimonas	g__Filimonas	4.69777803676687	g__Filimonas	0.5982	brown	-0.0559	0.203	-0.0321	0.0152	-0.0942	0.211	0.199	-0.048	-0.109	-0.124
+g__Flavitalea	g__Flavitalea	3.02497160751431	g__Flavitalea	0.5577	brown	0.0292	0.154	-0.0483	-0.0582	0.112	-0.171	-0.0513	-0.0478	-0.0129	-0.0843
+g__Galaxaura	g__Galaxaura	5.66477674818396	g__Galaxaura	0.5996	brown	-0.0084	0.227	0.0587	-0.0615	-0.0936	-0.0875	-0.208	0.0816	-0.171	0.156
+g__Gloeochaete	g__Gloeochaete	1.62475682305149	g__Gloeochaete	0.4456	brown	-0.336	0.278	-0.065	-0.105	-0.0723	-0.0781	0.117	-0.113	-0.0116	0.446
+g__Gongronella	g__Gongronella	4.989001635548361	g__Gongronella	0.6233	brown	-0.245	-0.297	0.287	-0.269	-0.265	0.164	-0.0172	-0.229	0.423	0.0089
+g__Goniomonas	g__Goniomonas	1.2316153575985702	g__Goniomonas	0.4665	brown	-0.233	0.223	-0.0487	-0.0798	-0.0675	-0.177	-0.0824	0.0086	-0.0701	0.244
+g__Herpetosiphon	g__Herpetosiphon	22.3301381355278	g__Herpetosiphon	0.7841	brown	-0.0524	0.277	0.0385	-0.0696	-0.111	-0.0111	-0.109	0.0929	-0.207	0.182
+g__Himanthalia	g__Himanthalia	2.44502290022112	g__Himanthalia	0.5419	brown	-0.11	-0.0704	-0.0375	-0.0984	-0.135	0.156	0.147	-0.176	0.103	0.128
+g__Kappaphycus	g__Kappaphycus	5.9095699721464	g__Kappaphycus	0.6153	brown	-0.086	0.136	-0.0429	0.0271	-0.0041	0.0156	-0.0233	-0.102	0.0277	0.325
+g__Klebsiella	g__Klebsiella	2.00084070754924	g__Klebsiella	0.4973	brown	0.214	0.189	0.32	-0.0094	0.0098	-0.132	-0.143	-0.0812	-0.0674	-0.106
+g__Laevapex	g__Laevapex	2.6249703858631097	g__Laevapex	0.5569	brown	-0.135	0.171	-0.0448	-0.0416	-0.0517	-0.141	0.0468	-0.108	-0.0655	0.0478
+g__Leptolyngbya_ANT.L52.2	g__Leptolyngbya_ANT.L52.2	5.735155560970111	g__Leptolyngbya_ANT.L52.2	0.6199	brown	0.141	0.152	0.732	0.0351	-0.0401	-0.0398	-0.127	-0.0753	-0.0372	-0.0347
+g__Leptospira	g__Leptospira	1.32850731970342	g__Leptospira	0.4423	brown	-0.172	0.325	-0.0536	-0.0627	-0.0654	-0.185	-0.0362	-0.0757	-0.0611	0.485
+g__Lozekia	g__Lozekia	6.39749059565282	g__Lozekia	0.6454	brown	-0.273	0.188	-0.0573	-0.0837	-0.0263	-0.0405	0.14	-0.145	0.046	0.462
+g__Lychnorhiza	g__Lychnorhiza	1.64109565016166	g__Lychnorhiza	0.4619	brown	-0.371	0.223	-0.0607	-0.136	-0.122	-0.188	-0.159	0.0863	-0.0346	0.451
+g__Macromia	g__Macromia	0.23833531600691799	g__Macromia	0.3379	brown	0.157	0.254	-0.0866	-0.0131	-0.0686	-0.12	-0.0124	0.0041	-0.261	-0.0603
+g__Marmoricola	g__Marmoricola	6.86329310866679	g__Marmoricola	0.6471	brown	-0.0559	0.203	-0.0321	0.0152	-0.0942	0.211	0.199	-0.048	-0.109	-0.124
+g__Mazzaella	g__Mazzaella	3.40122468584027	g__Mazzaella	0.5284	brown	-0.152	0.108	-0.0321	-0.0324	-0.0113	0.0034	0.0267	-0.0849	0.0503	0.287
+g__MD3-55	g__MD3-55	1.37263011136724	g__MD3-55	0.4816	brown	-0.123	-0.0498	-0.0239	-0.115	-0.0874	0.031	-0.0072	-0.0369	0.149	0.308
+g__Menetus	g__Menetus	9.40826751042394	g__Menetus	0.7013	brown	-0.0904	0.134	-0.0342	-0.0223	-0.0251	-0.046	0.0117	-0.0578	0.011	0.287
+g__Metarhizium	g__Metarhizium	4.68413101703933	g__Metarhizium	0.6006	brown	-0.0799	-0.3	0.0066	-0.272	-0.155	0.22	0.17	-0.147	0.146	-0.0097
+g__Minibiotus	g__Minibiotus	1.7502969973562101	g__Minibiotus	0.5084	brown	-0.0821	0.0428	0.0037	0.551	0.512	-0.0858	0.12	0.24	-0.0254	0.287
+g__Mucochytrium	g__Mucochytrium	4.0982815648810105	g__Mucochytrium	0.5888	brown	-0.106	-0.0298	-0.0488	-0.133	-0.0262	-0.0265	0.0317	-0.152	0.124	-0.187
+g__Myrothecium	g__Myrothecium	5.3907945647268605	g__Myrothecium	0.6321	brown	-0.0084	0.227	0.0587	-0.0615	-0.0936	-0.0875	-0.208	0.0816	-0.171	0.156
+g__Myxotrichum	g__Myxotrichum	0.135451917618438	g__Myxotrichum	0.3205	brown	0.198	-0.106	-0.0727	0.0362	-0.0607	0.171	-0.0813	-0.156	0.0612	-0.0084
+g__Naegleria	g__Naegleria	0.129444675934341	g__Naegleria	0.3031	brown	-0.129	0.197	-0.0862	-0.137	-0.111	0.195	0.268	-0.0594	-0.108	-0.15
+g__Niesslia	g__Niesslia	9.25983586664865	g__Niesslia	0.6902	brown	-0.152	0.108	-0.0321	-0.0324	-0.0113	0.0034	0.0267	-0.0849	0.0503	0.287
+g__norank_f__Candidatus_Hepatincola	g__norank_f__Candidatus_Hepatincola	0.6175807753748249	g__norank_f__Candidatus_Hepatincola	0.4126	brown	-0.0183	0.169	0.0061	0.383	0.205	-0.374	-0.167	0.424	-0.0155	0.398
+g__norank_f__Neisseriaceae	g__norank_f__Neisseriaceae	0.15222868167891598	g__norank_f__Neisseriaceae	0.3229	brown	-0.0845	0.222	-0.0527	0.0732	0.0743	0.0991	0.276	0.118	-0.203	-0.0949
+g__norank_f__Simkaniaceae	g__norank_f__Simkaniaceae	0.24810760499225798	g__norank_f__Simkaniaceae	0.3258	brown	0.408	0.24	0.274	0.214	0.178	-0.0914	-0.0857	0.0212	-0.169	-0.171
+g__norank_f__Synechococcaceae	g__norank_f__Synechococcaceae	0.310770670551909	g__norank_f__Synechococcaceae	0.3794	brown	0.243	0.492	-0.0591	0.385	0.328	-0.435	-0.206	0.331	-0.247	0.304
+g__norank_o__Oligoflexales	g__norank_o__Oligoflexales	0.51026657073091	g__norank_o__Oligoflexales	0.4181	brown	0.0662	-0.166	-0.0878	-0.131	-0.0738	0.0882	0.0867	-0.0923	-0.0422	-0.228
+g__norank_o__S-BQ2-57_soil_group	g__norank_o__S-BQ2-57_soil_group	4.517849172953571	g__norank_o__S-BQ2-57_soil_group	0.6124	brown	-0.0633	-0.175	-0.0343	-0.128	-0.0772	0.0965	0.0376	-0.132	0.16	-0.137
+g__norank_o__Vampirovibrionales	g__norank_o__Vampirovibrionales	3.4872575673068704	g__norank_o__Vampirovibrionales	0.5741	brown	-0.0046	0.0342	-0.0269	0.0501	0.0547	0.0093	-0.173	0.2	-0.478	-0.0721
+g__Odontella	g__Odontella	0.119820989717541	g__Odontella	0.314	brown	-0.19	-0.0419	-0.0576	-0.141	-0.142	0.174	0.244	-0.0972	0.0436	-0.048
+g__Ohtaekwangia	g__Ohtaekwangia	2.7160082008466695	g__Ohtaekwangia	0.5486	brown	-0.0385	-0.12	-0.0457	-0.151	-0.0245	0.0761	-0.0605	-0.106	0.202	0.123
+g__Olivibacter	g__Olivibacter	9.32723637327618	g__Olivibacter	0.6511	brown	-0.0084	0.227	0.0587	-0.0615	-0.0936	-0.0875	-0.208	0.0816	-0.171	0.156
+g__Ophiostoma	g__Ophiostoma	0.872491580623904	g__Ophiostoma	0.4565	brown	-0.114	-0.0468	-0.0485	-0.0951	-0.0815	0.0019	0.0399	-0.133	0.0662	0.0719
+g__Paenibacillus	g__Paenibacillus	0.21425540828245104	g__Paenibacillus	0.3274	brown	0.195	0.301	0.111	-0.0228	-0.0133	-0.158	0.0323	-0.0755	-0.144	-0.174
+g__Pantoea	g__Pantoea	8.68306263209666	g__Pantoea	0.6841	brown	-0.0559	0.203	-0.0321	0.0152	-0.0942	0.211	0.199	-0.048	-0.109	-0.124
+g__Parasegetibacter	g__Parasegetibacter	0.19256751673622102	g__Parasegetibacter	0.299	brown	-0.0997	0.15	-0.0197	-0.142	-0.137	0.052	0.0432	-0.111	-0.0248	-0.0973
+g__Parengyodontium	g__Parengyodontium	0.7820098847875241	g__Parengyodontium	0.4184	brown	-0.144	0.0951	-0.0315	-0.0323	-0.0576	-0.272	-0.407	0.424	-0.306	-0.0704
+g__Peyssonneliopsis	g__Peyssonneliopsis	33.492080840929106	g__Peyssonneliopsis	0.8545	brown										
+g__Phrix	g__Phrix	1.83916354902533	g__Phrix	0.505	brown	0.237	0.0715	-0.0213	0.103	-0.0717	-0.324	-0.273	0.295	-0.0948	-0.033
+g__Physa	g__Physa	0.449743065641298	g__Physa	0.4021	brown	-0.114	0.289	-0.0697	-0.0347	-0.0494	-0.155	-0.0032	0.12	-0.168	-0.0358
+g__Placida	g__Placida	15.2039424913835	g__Placida	0.7558	brown	-0.0371	0.0141	-0.0422	0.0103	0.0278	-0.013	-0.131	0.144	-0.458	-0.134
+g__Planocarina	g__Planocarina	37.1154660168446	g__Planocarina	0.8721	brown	0.184	0.0406	-0.0295	-0.0569	-0.0374	-0.0943	-0.0763	0.0113	-0.0693	-0.0721
+g__Pleuractis	g__Pleuractis	2.9223898332409197	g__Pleuractis	0.5507	brown	0.0846	0.0633	-0.0465	0.405	0.478	-0.0111	0.12	0.111	0.02	0.123
+g__Pleurocordyceps	g__Pleurocordyceps	0.9559919634751558	g__Pleurocordyceps	0.4597	brown	0.0269	0.0488	-0.075	0.0932	0.181	-0.0526	0.0546	0.0079	-0.115	0.108
+g__Podila	g__Podila	7.36773352410804	g__Podila	0.6616	brown	-0.221	-0.0322	-0.0836	-0.187	-0.174	0.282	0.128	-0.0704	0.143	0.062
+g__Pseudocercospora	g__Pseudocercospora	10.738294186373698	g__Pseudocercospora	0.6913	brown	0.13	0.0407	-0.0319	0.181	0.222	-0.0618	0.0482	0.0642	-0.0457	-0.0721
+g__Pseudoxanthomonas	g__Pseudoxanthomonas	1.9050278160075802	g__Pseudoxanthomonas	0.5044	brown	-0.0852	0.247	-0.0562	-0.0116	-0.0014	0.053	0.109	-0.0847	-0.0333	-0.14
+g__Ptilophora	g__Ptilophora	0.44626370407447596	g__Ptilophora	0.3789	brown	0.136	0.164	-0.0664	0.0129	0.0203	-0.234	0.0023	0.0925	-0.135	-0.082
+g__Rhodococcus	g__Rhodococcus	0.13597533706911	g__Rhodococcus	0.3086	brown	0.127	-0.144	-0.0656	-0.0255	-0.0841	0.134	-0.0246	-0.171	0.157	-0.0681
+g__Rhodotorula	g__Rhodotorula	0.567589529000621	g__Rhodotorula	0.4029	brown	-0.362	-0.434	-0.0884	-0.38	-0.364	0.21	-0.0122	-0.323	0.386	-0.0542
+g__Ripella	g__Ripella	0.900579695967742	g__Ripella	0.445	brown	0.145	0.0232	0.108	-0.0838	-0.0273	-0.133	-0.0666	-0.13	0.0096	-0.157
+g__Rudanella	g__Rudanella	5.41826223004115	g__Rudanella	0.5622	brown	-0.0084	0.227	0.0587	-0.0615	-0.0936	-0.0875	-0.208	0.0816	-0.171	0.156
+g__Sarocladium	g__Sarocladium	18.9767312772012	g__Sarocladium	0.7662	brown	-0.0615	-0.152	-0.0343	-0.116	-0.115	0.0295	-0.0215	-0.0993	0.135	-0.105
+g__Shiraia	g__Shiraia	2.8196723115023303	g__Shiraia	0.5558	brown	-0.143	-0.345	-0.061	-0.238	-0.197	0.22	0.0597	-0.273	0.313	-0.0594
+g__Sphingobacterium	g__Sphingobacterium	1.0408852144251899	g__Sphingobacterium	0.4721	brown	-0.201	0.0816	-0.0518	-0.168	-0.142	-0.22	-0.311	0.126	-0.0367	-0.0579
+g__Sphingobium	g__Sphingobium	0.505216090170377	g__Sphingobium	0.3955	brown	-0.094	-0.394	-0.0789	-0.245	-0.232	0.243	0.108	-0.321	0.267	-0.207
+g__Sporisorium	g__Sporisorium	1.10430406666977	g__Sporisorium	0.4696	brown	0.161	0.236	-0.0831	0.237	0.347	0.0405	0.0893	0.35	-0.4	-0.0479
+g__Sporobolomyces	g__Sporobolomyces	1.4747141396759	g__Sporobolomyces	0.4876	brown	-0.111	-0.471	-0.0428	-0.179	-0.231	0.177	0.0477	-0.111	0.27	-0.184
+g__Stenotrophobacter	g__Stenotrophobacter	0.22439797070835898	g__Stenotrophobacter	0.3545	brown	0.143	-0.0503	-0.0627	0.0157	0.166	-0.0265	0.046	-0.04	0.0757	-0.023
+g__Stenotrophomonas	g__Stenotrophomonas	0.637330424914215	g__Stenotrophomonas	0.3961	brown	0.166	0.238	0.0905	0.202	0.156	-0.213	-0.368	0.234	-0.136	0.191
+g__Stephanopyxis	g__Stephanopyxis	0.5742993812813979	g__Stephanopyxis	0.4174	brown	0.146	0.34	0.23	-0.062	-0.0629	-0.316	-0.137	-0.143	-0.0441	0.0592
+g__Stictyosiphon	g__Stictyosiphon	1.1686715963711	g__Stictyosiphon	0.4615	brown	-0.0632	0.108	-0.0343	-0.0457	-0.0127	-0.133	0.0927	-0.0641	-0.0943	-0.105
+g__Streptomyces	g__Streptomyces	5.29621172409509	g__Streptomyces	0.6238	brown	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__Synchytrium	g__Synchytrium	0.11154441910091	g__Synchytrium	0.3023	brown	0.0736	-0.29	-0.0802	-0.208	-0.23	0.0184	0.0412	-0.179	0.157	-0.25
+g__Tedania	g__Tedania	0.13092815928853999	g__Tedania	0.3113	brown	0.0866	0.0826	-0.0581	0.0046	0.123	-0.149	-0.0093	0.0626	-0.305	-0.18
+g__Tetracladium	g__Tetracladium	0.257413093110893	g__Tetracladium	0.3117	brown	-0.16	-0.224	-0.091	-0.212	-0.215	0.103	0.0886	-0.327	0.201	-0.111
+g__Thoracosphaera	g__Thoracosphaera	10.053569135902	g__Thoracosphaera	0.6874	brown	0.0552	0.0845	-0.0228	0.19	0.205	-0.0448	0.0192	0.394	-0.472	-0.118
+g__Tryblionella	g__Tryblionella	0.227978386806035	g__Tryblionella	0.3261	brown	-0.13	-0.486	-0.0527	-0.301	-0.358	0.28	0.105	-0.424	0.327	-0.347
+g__Verticiella	g__Verticiella	13.0262270228166	g__Verticiella	0.713	brown	0.0596	-0.0469	-0.0521	0.0637	0.0316	-0.218	-0.0674	0.119	0.0916	-0.0862
+g__Volvulina	g__Volvulina	2.4273378862251898	g__Volvulina	0.5438	brown										
+g__Xerocomus	g__Xerocomus	0.33112403914536	g__Xerocomus	0.3757	brown	-0.0596	-0.184	-0.0329	-0.123	-0.0992	0.0833	0.0738	-0.137	0.12	-0.105
+g__Xestospongia	g__Xestospongia	0.51589554794499	g__Xestospongia	0.4034	brown	-0.343	-0.239	-0.117	0.052	0.169	0.16	0.218	-0.133	0.416	0.422
+g__Xingyurella	g__Xingyurella	1.8239124659025499	g__Xingyurella	0.4936	brown	0.08	0.232	0.0226	-0.065	-0.0895	-0.178	-0.175	0.0076	-0.135	0.0463
+g__Xiphinema	g__Xiphinema	3.40185747907113	g__Xiphinema	0.5841	brown	0.0775	0.0254	-0.0441	-0.132	-0.0736	-0.177	-0.0955	-0.104	0.0018	-0.063
+g__Yonagunia	g__Yonagunia	2.2754231933355498	g__Yonagunia	0.5184	brown	-0.161	0.0889	-0.0206	-0.065	-0.0964	-0.314	-0.366	0.369	-0.0789	-0.0394
+s__Ochetobius_elongatus	s__Ochetobius_elongatus	2.01489506641422	s__Ochetobius_elongatus	0.5263	brown	0.37	0.0702	-0.0647	0.0242	-0.0121	-0.115	-0.185	-0.0651	-0.0696	-0.189
+g__Nostoc_PCC-8976	g__Nostoc_PCC-8976	84.4638805089365	g__Nostoc_PCC-8976	0.9897	brown										
+g__Leptolyngbya_FYG	g__Leptolyngbya_FYG	84.4638805089365	g__Leptolyngbya_FYG	0.9897	brown										
+g__CENA518	g__CENA518	84.4638805089365	g__CENA518	0.9897	brown										
+g__Leptolyngbya_VRUC_135	g__Leptolyngbya_VRUC_135	84.4638805089365	g__Leptolyngbya_VRUC_135	0.9897	brown										
+g__norank_f__unclassified_o__Oxyphotobacteria_Incertae_Sedis	g__norank_f__unclassified_o__Oxyphotobacteria_Incertae_Sedis	12.4578151770866	g__norank_f__unclassified_o__Oxyphotobacteria_Incertae_Sedis	0.7193	brown										
+g__Synechococcus_PCC-7942	g__Synechococcus_PCC-7942	84.4638805089365	g__Synechococcus_PCC-7942	0.9897	brown										
+g__Amborella	g__Amborella	20.6797786166802	g__Amborella	0.7826	brown										
+g__Trifolium	g__Trifolium	45.7588364409125	g__Trifolium	0.8999	brown										
+g__Wilsonosiphonia	g__Wilsonosiphonia	12.765891581198598	g__Wilsonosiphonia	0.7227	brown										
+g__Colaconema	g__Colaconema	84.4638805089365	g__Colaconema	0.9897	brown										
+g__Porolithon	g__Porolithon	84.4638805089365	g__Porolithon	0.9897	brown										
+g__Hennedya	g__Hennedya	84.4638805089365	g__Hennedya	0.9897	brown										
+g__Leiomenia	g__Leiomenia	19.8793364814224	g__Leiomenia	0.7796	brown										
+g__Actinotrichia	g__Actinotrichia	84.4638805089365	g__Actinotrichia	0.9897	brown										
+g__Scinaia	g__Scinaia	61.0411947750527	g__Scinaia	0.9395	brown										
+g__Ramicrusta	g__Ramicrusta	16.4749173265762	g__Ramicrusta	0.7553	brown										
+g__Myagropsis	g__Myagropsis	35.352101312898604	g__Myagropsis	0.8671	brown										
+g__Phyllospora	g__Phyllospora	84.4638805089365	g__Phyllospora	0.9897	brown										
+g__Halosiphon	g__Halosiphon	25.3243986971748	g__Halosiphon	0.8124	brown										
+g__Protoperidinium	g__Protoperidinium	84.4638805089365	g__Protoperidinium	0.9897	brown										
+g__Cryptosporangium	g__Cryptosporangium	84.4638805089365	g__Cryptosporangium	0.9897	brown										
+g__Kineococcus	g__Kineococcus	84.4638805089365	g__Kineococcus	0.9897	brown										
+g__Quadrisphaera	g__Quadrisphaera	84.4638805089365	g__Quadrisphaera	0.9897	brown										
+g__Curtobacterium	g__Curtobacterium	27.273249478634895	g__Curtobacterium	0.8236	brown										
+g__Isoptericola	g__Isoptericola	84.4638805089365	g__Isoptericola	0.9897	brown										
+g__Actinoplanes	g__Actinoplanes	84.4638805089365	g__Actinoplanes	0.9897	brown										
+g__Patulibacter	g__Patulibacter	84.4638805089365	g__Patulibacter	0.9897	brown										
+g__Niabella	g__Niabella	84.4638805089365	g__Niabella	0.9897	brown										
+g__Pseudoflavitalea	g__Pseudoflavitalea	84.4638805089365	g__Pseudoflavitalea	0.9897	brown										
+g__Taibaiella	g__Taibaiella	84.4638805089365	g__Taibaiella	0.9897	brown										
+g__UTBCD1	g__UTBCD1	84.4638805089365	g__UTBCD1	0.9897	brown										
+g__Siphonobacter	g__Siphonobacter	84.4638805089365	g__Siphonobacter	0.9897	brown										
+g__Adhaeribacter	g__Adhaeribacter	27.594524144836	g__Adhaeribacter	0.822	brown										
+g__Larkinella	g__Larkinella	84.4638805089365	g__Larkinella	0.9897	brown										
+g__Moheibacter	g__Moheibacter	84.4638805089365	g__Moheibacter	0.9897	brown										
+g__Arcticibacter	g__Arcticibacter	84.4638805089365	g__Arcticibacter	0.9897	brown										
+g__Mucilaginibacter	g__Mucilaginibacter	84.4638805089365	g__Mucilaginibacter	0.9897	brown										
+g__Parapedobacter	g__Parapedobacter	84.4638805089365	g__Parapedobacter	0.9897	brown										
+g__Pseudopedobacter	g__Pseudopedobacter	84.4638805089365	g__Pseudopedobacter	0.9897	brown										
+g__Rubrivirga	g__Rubrivirga	84.4638805089365	g__Rubrivirga	0.9897	brown										
+g__Saccharibacillus	g__Saccharibacillus	47.554239026095296	g__Saccharibacillus	0.9053	brown										
+g__norank_c__Clostridia	g__norank_c__Clostridia	84.4638805089365	g__norank_c__Clostridia	0.9897	brown										
+g__Longimicrobium	g__Longimicrobium	84.4638805089365	g__Longimicrobium	0.9897	brown										
+g__norank_f__27F-1492R	g__norank_f__27F-1492R	84.4638805089365	g__norank_f__27F-1492R	0.9897	brown										
+g__norank_c__Pla4_lineage	g__norank_c__Pla4_lineage	84.4638805089365	g__norank_c__Pla4_lineage	0.9897	brown										
+g__norank_f__D05-2	g__norank_f__D05-2	21.0828023466986	g__norank_f__D05-2	0.7845	brown										
+g__Aureimonas	g__Aureimonas	67.5563699439764	g__Aureimonas	0.9626	brown										
+g__Agaricicola	g__Agaricicola	84.4638805089365	g__Agaricicola	0.9897	brown										
+g__Falsirhodobacter	g__Falsirhodobacter	84.4638805089365	g__Falsirhodobacter	0.9897	brown										
+g__Aliidiomarina	g__Aliidiomarina	84.4638805089365	g__Aliidiomarina	0.9897	brown										
+g__Ideonella	g__Ideonella	17.4545005625354	g__Ideonella	0.756	brown										
+g__Pseudorhodoferax	g__Pseudorhodoferax	27.002722612658	g__Pseudorhodoferax	0.823	brown										
+g__norank_f__Cellvibrionaceae	g__norank_f__Cellvibrionaceae	19.758566355760102	g__norank_f__Cellvibrionaceae	0.7869	brown										
+g__Mannheimia	g__Mannheimia	84.4638805089365	g__Mannheimia	0.9897	brown										
+g__Polycyclovorans	g__Polycyclovorans	6.98015370472455	g__Polycyclovorans	0.6217	brown										
+g__Aquimonas	g__Aquimonas	14.0914449041226	g__Aquimonas	0.7282	brown										
+g__Xanthomonas	g__Xanthomonas	17.733945008385998	g__Xanthomonas	0.7745	brown										
+s__Acheilognathus_macropterus	s__Acheilognathus_macropterus	11.383992244991	s__Acheilognathus_macropterus	0.7137	brown										
+g__Phaeoplaca	g__Phaeoplaca	6.62728973113277	g__Phaeoplaca	0.6232	brown										
+g__Podosphaera	g__Podosphaera	14.497970550281101	g__Podosphaera	0.7368	brown										
+g__Varicosporium	g__Varicosporium	84.4638805089365	g__Varicosporium	0.9897	brown										
+g__Clonostachys	g__Clonostachys	2.4186468603738502	g__Clonostachys	0.5406	brown										
+g__Pochonia	g__Pochonia	64.1491888181218	g__Pochonia	0.9533	brown										
+g__Samsoniella	g__Samsoniella	30.8858360437357	g__Samsoniella	0.8546	brown										
+g__Microbotryum	g__Microbotryum	48.612510055756395	g__Microbotryum	0.9201	brown										
+g__Cutaneotrichosporon	g__Cutaneotrichosporon	84.4638805089365	g__Cutaneotrichosporon	0.9897	brown										
+g__Allomyces	g__Allomyces	22.577164814952503	g__Allomyces	0.8042	brown										
+g__Enochrus	g__Enochrus	15.0331180306206	g__Enochrus	0.7345	brown										
+g__Limnometra	g__Limnometra	84.4638805089365	g__Limnometra	0.9897	brown										
+g__Wormaldia	g__Wormaldia	84.4638805089365	g__Wormaldia	0.9897	brown										
+g__Oncosclera	g__Oncosclera	4.09022086482456	g__Oncosclera	0.6007	brown										
+g__Trochospongilla	g__Trochospongilla	84.4638805089365	g__Trochospongilla	0.9897	brown										
+g__Urobenus	g__Urobenus	5.27501363785476	g__Urobenus	0.6045	brown										
+g__Eulalia	g__Eulalia	84.4638805089365	g__Eulalia	0.9897	brown										
+g__Owenia	g__Owenia	84.4638805089365	g__Owenia	0.9897	brown										
+g__Hydroides	g__Hydroides	84.4638805089365	g__Hydroides	0.9897	brown										
+g__Caenoplana	g__Caenoplana	84.4638805089365	g__Caenoplana	0.9897	brown										
+g__Pseudosesarma	g__Pseudosesarma	84.4638805089365	g__Pseudosesarma	0.9897	brown										
+g__Orocladosoma	g__Orocladosoma	84.4638805089365	g__Orocladosoma	0.9897	brown										
+g__Schizoturanius	g__Schizoturanius	84.4638805089365	g__Schizoturanius	0.9897	brown										
+g__Parafontaria	g__Parafontaria	46.4285304738562	g__Parafontaria	0.9049	brown										
+g__Paraminabea	g__Paraminabea	6.39948464080312	g__Paraminabea	0.6363	brown										
+g__Dipsastraea	g__Dipsastraea	84.4638805089365	g__Dipsastraea	0.9897	brown										
+g__Rhabdias	g__Rhabdias	84.4638805089365	g__Rhabdias	0.9897	brown										
+g__Tropiometra	g__Tropiometra	84.4638805089365	g__Tropiometra	0.9897	brown										
+g__Leptosynapta	g__Leptosynapta	65.2126505511658	g__Leptosynapta	0.9485	brown										
+g__Parachloritis	g__Parachloritis	5.9208779478970195	g__Parachloritis	0.6106	brown										
+g__Marmorana	g__Marmorana	3.03821664473351	g__Marmorana	0.5594	brown										
+g__Otala	g__Otala	84.4638805089365	g__Otala	0.9897	brown										
+g__Hydrichthys	g__Hydrichthys	2.9792028472370498	g__Hydrichthys	0.5585	brown										
+g__Amphinema	g__Amphinema	14.2215273712786	g__Amphinema	0.7406	brown										
+g__Helgicirrha	g__Helgicirrha	14.7091517858332	g__Helgicirrha	0.7287	brown										
+g__Trochoidea	g__Trochoidea	63.1022202427589	g__Trochoidea	0.9591	brown										
+g__Haploptychius	g__Haploptychius	10.977919441681001	g__Haploptychius	0.7056	brown										
+g__Madeirovitrina	g__Madeirovitrina	84.4638805089365	g__Madeirovitrina	0.9897	brown										
+g__Campeloma	g__Campeloma	84.4638805089365	g__Campeloma	0.9897	brown										
+g__Philine	g__Philine	84.4638805089365	g__Philine	0.9897	brown										
+g__Pyropelta	g__Pyropelta	65.9029737593664	g__Pyropelta	0.9583	brown										
+g__Peronia	g__Peronia	44.344868441548904	g__Peronia	0.8907	brown										
+g__Platevindex	g__Platevindex	84.4638805089365	g__Platevindex	0.9897	brown										
+g__Nacella	g__Nacella	84.4638805089365	g__Nacella	0.9897	brown										
+g__Phyllodiaptomus	g__Phyllodiaptomus	84.4638805089365	g__Phyllodiaptomus	0.9897	brown										
+g__Homidia	g__Homidia	70.1312254060238	g__Homidia	0.9655	brown										
+g__Folsomia	g__Folsomia	49.2269001388608	g__Folsomia	0.9291	brown										
+g__Callyntrura	g__Callyntrura	35.526769800268	g__Callyntrura	0.8604	brown										
+g__Ceratophysella	g__Ceratophysella	56.643794341047204	g__Ceratophysella	0.9279	brown										
+g__Crossodonthina	g__Crossodonthina	84.4638805089365	g__Crossodonthina	0.9897	brown										
+g__Tetramitus	g__Tetramitus	14.0914449041226	g__Tetramitus	0.7282	brown										
+g__Vallentinia	g__Vallentinia	84.4638805089365	g__Vallentinia	0.9897	brown										
+g__Erenna	g__Erenna	6.702815079761799	g__Erenna	0.6377	brown										
+g__Botrynema	g__Botrynema	84.4638805089365	g__Botrynema	0.9897	brown										
+g__Habrotrocha	g__Habrotrocha	12.426140666252598	g__Habrotrocha	0.7235	brown										
+g__Pleuretra	g__Pleuretra	84.4638805089365	g__Pleuretra	0.9897	brown										
+g__Lagena	g__Lagena	84.4638805089365	g__Lagena	0.9897	brown										
+g__Didymium	g__Didymium	12.080039864691601	g__Didymium	0.7289	brown										
+g__Stemonitis	g__Stemonitis	84.4638805089365	g__Stemonitis	0.9897	brown										
+g__Tamoya	g__Tamoya	52.534792421697	g__Tamoya	0.9153	brown										

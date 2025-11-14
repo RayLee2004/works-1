@@ -1,0 +1,37 @@
+id	name	connectivity	gene_id	kme	module	TN_corr	Temperature_corr	NH3N_corr	TP_corr	TUB_corr	DO_corr	pH_corr	COD_corr	EC_corr	V_corr
+g__Cystoseira	g__Cystoseira	2.32298673697377	g__Cystoseira	0.693	darkgreen										
+g__Iberobathynella	g__Iberobathynella	0.7249388134017819	g__Iberobathynella	0.5485	darkgreen	-0.0672	-0.11	-0.0611	-0.155	-0.174	-0.102	0.0071	-0.159	0.201	-0.248
+g__Pallenopsis	g__Pallenopsis	2.7692772313791503	g__Pallenopsis	0.7031	darkgreen	-0.316	-0.395	-0.0762	-0.261	-0.238	0.225	0.205	-0.312	0.369	-0.0191
+s__Liobagrus_marginatoides	s__Liobagrus_marginatoides	6.4311086945500895	s__Liobagrus_marginatoides	0.7891	darkgreen	-0.179	0.166	-0.0462	-0.0397	-0.0237	-0.0234	0.029	-0.104	0.0483	0.403
+g__Yamagishiella	g__Yamagishiella	14.6470300323039	g__Yamagishiella	0.9546	darkgreen										
+g__Ulva	g__Ulva	18.2956465419728	g__Ulva	0.9747	darkgreen										
+g__Coccotylus	g__Coccotylus	18.2956465419728	g__Coccotylus	0.9747	darkgreen										
+g__Lithothamnion	g__Lithothamnion	4.39324408383874	g__Lithothamnion	0.787	darkgreen										
+g__Rugulopteryx	g__Rugulopteryx	11.6469233220885	g__Rugulopteryx	0.9261	darkgreen										
+g__Cystophora	g__Cystophora	18.2956465419728	g__Cystophora	0.9747	darkgreen										
+g__Pelagophycus	g__Pelagophycus	18.2956465419728	g__Pelagophycus	0.9747	darkgreen										
+g__norank_f__Izemoplasmataceae	g__norank_f__Izemoplasmataceae	18.2956465419728	g__norank_f__Izemoplasmataceae	0.9747	darkgreen										
+g__Desulfurispora	g__Desulfurispora	18.2956465419728	g__Desulfurispora	0.9747	darkgreen										
+g__norank_f__GWF2-44-16	g__norank_f__GWF2-44-16	18.2956465419728	g__norank_f__GWF2-44-16	0.9747	darkgreen										
+s__Squalidus_argentatus	s__Squalidus_argentatus	6.3632590954273	s__Squalidus_argentatus	0.7652	darkgreen										
+s__Squalidus_iijimae	s__Squalidus_iijimae	2.3112755570099397	s__Squalidus_iijimae	0.5525	darkgreen										
+s__Xiphias_gladius	s__Xiphias_gladius	6.72047925855115	s__Xiphias_gladius	0.7882	darkgreen										
+s__Plectropomus_leopardus	s__Plectropomus_leopardus	8.588228932492111	s__Plectropomus_leopardus	0.866	darkgreen										
+s__Liobagrus_styani	s__Liobagrus_styani	3.8879383269721903	s__Liobagrus_styani	0.7664	darkgreen										
+s__Tachysurus_fulvidraco	s__Tachysurus_fulvidraco	6.6319437751734105	s__Tachysurus_fulvidraco	0.7764	darkgreen										
+s__Mugil_cephalus	s__Mugil_cephalus	6.217739628777361	s__Mugil_cephalus	0.7582	darkgreen										
+s__Planiliza_macrolepis	s__Planiliza_macrolepis	3.2532817153896803	s__Planiliza_macrolepis	0.7557	darkgreen										
+g__Tolypocladium	g__Tolypocladium	5.69417748188977	g__Tolypocladium	0.8294	darkgreen										
+g__Fuscoporia	g__Fuscoporia	3.08238352003773	g__Fuscoporia	0.7442	darkgreen										
+g__Kempnyia	g__Kempnyia	18.2956465419728	g__Kempnyia	0.9747	darkgreen										
+g__Neopodospongia	g__Neopodospongia	18.2956465419728	g__Neopodospongia	0.9747	darkgreen										
+g__Eucrate	g__Eucrate	1.64639114237437	g__Eucrate	0.6577	darkgreen										
+g__Scopelocheirus	g__Scopelocheirus	18.2956465419728	g__Scopelocheirus	0.9747	darkgreen										
+g__Palauastrea	g__Palauastrea	18.2956465419728	g__Palauastrea	0.9747	darkgreen										
+g__Caledonicrinus	g__Caledonicrinus	4.51211201243425	g__Caledonicrinus	0.7836	darkgreen										
+g__Pteroclava	g__Pteroclava	18.2956465419728	g__Pteroclava	0.9747	darkgreen										
+g__Proboscidactyla	g__Proboscidactyla	2.55251179709646	g__Proboscidactyla	0.7257	darkgreen										
+g__Bullacta	g__Bullacta	18.2956465419728	g__Bullacta	0.9747	darkgreen										
+g__Pollia	g__Pollia	18.2956465419728	g__Pollia	0.9747	darkgreen										
+g__Cosmioconcha	g__Cosmioconcha	18.2956465419728	g__Cosmioconcha	0.9747	darkgreen										
+g__Laspionchis	g__Laspionchis	18.2956465419728	g__Laspionchis	0.9747	darkgreen										

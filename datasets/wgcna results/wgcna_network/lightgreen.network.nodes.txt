@@ -1,0 +1,42 @@
+id	name	connectivity	gene_id	kme	module	TN_corr	Temperature_corr	NH3N_corr	TP_corr	TUB_corr	DO_corr	pH_corr	COD_corr	EC_corr	V_corr
+g__Allochorema	g__Allochorema	21.6784580416266	g__Allochorema	0.9929	lightgreen										
+g__Antennella	g__Antennella	1.04945539920727	g__Antennella	0.5902	lightgreen	-0.103	0.0581	-0.0504	-0.178	-0.153	0.214	0.0839	0.115	-0.103	-0.23
+g__Apoglossum	g__Apoglossum	3.71677584863375	g__Apoglossum	0.7442	lightgreen										
+g__Besa	g__Besa	21.6784580416266	g__Besa	0.9929	lightgreen										
+g__Candidatus_Trichorickettsia	g__Candidatus_Trichorickettsia	21.6784580416266	g__Candidatus_Trichorickettsia	0.9929	lightgreen										
+g__Chamaebotrys	g__Chamaebotrys	2.6580840679685096	g__Chamaebotrys	0.705	lightgreen										
+g__Choanomphalus	g__Choanomphalus	0.350103168099705	g__Choanomphalus	0.4865	lightgreen	-0.207	0.453	-0.114	0.0826	0.0505	-0.245	0.0571	0.114	-0.299	0.193
+g__Cirriformia	g__Cirriformia	2.70102133613016	g__Cirriformia	0.7125	lightgreen	-0.152	0.108	-0.0321	-0.0324	-0.0113	0.0034	0.0267	-0.0849	0.0503	0.287
+g__Colponema	g__Colponema	16.2643413688716	g__Colponema	0.9467	lightgreen										
+g__Coscinaraea	g__Coscinaraea	3.5021385714105695	g__Coscinaraea	0.7388	lightgreen	0.12	0.0981	-0.0271	-0.0294	-0.0316	-0.161	-0.0362	-0.071	-0.0188	-0.0916
+g__Cycloteuthis	g__Cycloteuthis	15.205339788134902	g__Cycloteuthis	0.9349	lightgreen	-0.0781	-0.181	-0.0174	-0.156	-0.105	0.14	0.36	-0.139	0.271	0.0911
+g__Dorymenia	g__Dorymenia	3.18988251158201	g__Dorymenia	0.7177	lightgreen	-0.178	0.19	-0.0698	-0.0898	-0.128	0.211	0.282	-0.0722	-0.0836	0.0299
+g__Euphysa	g__Euphysa	0.138408340760108	g__Euphysa	0.3949	lightgreen	-0.247	0.263	-0.07	-0.0347	-0.0278	-0.106	0.135	-0.0547	-0.143	0.25
+g__Forskalia	g__Forskalia	0.969913045230981	g__Forskalia	0.6047	lightgreen	-0.256	0.165	-0.0852	-0.149	-0.125	0.0675	0.188	-0.118	-0.176	-0.104
+g__Fortimesus	g__Fortimesus	3.2289341872094703	g__Fortimesus	0.7222	lightgreen	-0.0632	0.108	-0.0343	-0.0457	-0.0127	-0.133	0.0927	-0.0641	-0.0943	-0.105
+g__Gardinerosergia	g__Gardinerosergia	21.6784580416266	g__Gardinerosergia	0.9929	lightgreen										
+g__Glabraster	g__Glabraster	21.6784580416266	g__Glabraster	0.9929	lightgreen										
+g__Gloiosaccion	g__Gloiosaccion	21.6784580416266	g__Gloiosaccion	0.9929	lightgreen										
+g__Halicephalobus	g__Halicephalobus	21.6784580416266	g__Halicephalobus	0.9929	lightgreen										
+g__Leptolyngbya_BN43	g__Leptolyngbya_BN43	21.6784580416266	g__Leptolyngbya_BN43	0.9929	lightgreen										
+g__Litostrophus	g__Litostrophus	17.513699851582903	g__Litostrophus	0.9675	lightgreen	-0.102	0.237	-0.046	-0.0061	-0.113	0.124	0.192	-0.0896	-0.122	-0.057
+g__Navanax	g__Navanax	2.65192603657297	g__Navanax	0.7018	lightgreen	-0.0615	-0.152	-0.0343	-0.116	-0.115	0.0295	-0.0215	-0.0993	0.135	-0.105
+g__norank_f__Phormidiaceae	g__norank_f__Phormidiaceae	1.02879496026497	g__norank_f__Phormidiaceae	0.604	lightgreen	-0.157	0.348	0.179	-0.0272	-0.135	0.0367	0.118	-0.0537	-0.0767	0.0088
+g__Noumeaella	g__Noumeaella	16.4771091255388	g__Noumeaella	0.9558	lightgreen	-0.129	0.0086	-0.0245	-0.188	-0.0773	-0.0407	-0.0442	-0.139	-0.0642	-0.0813
+g__Ototyphlonemertes	g__Ototyphlonemertes	21.6784580416266	g__Ototyphlonemertes	0.9929	lightgreen										
+g__Pagurixus	g__Pagurixus	14.319896604512401	g__Pagurixus	0.9373	lightgreen	-0.1	0.12	-0.0343	-0.0355	-0.0599	-0.104	0.0409	-0.0902	-0.0548	0.0911
+g__Parcipromus	g__Parcipromus	21.6784580416266	g__Parcipromus	0.9929	lightgreen										
+g__Parietichytrium	g__Parietichytrium	2.97093930048918	g__Parietichytrium	0.7268	lightgreen	-0.103	0.161	-0.0343	-0.0315	-0.06	0.158	0.186	0.043	-0.119	0.0911
+g__Phallomedusa	g__Phallomedusa	21.6784580416266	g__Phallomedusa	0.9929	lightgreen										
+g__Pheretima	g__Pheretima	10.6784565600873	g__Pheretima	0.8894	lightgreen	-0.0859	0.174	-0.0279	-0.0493	-0.058	-0.204	0.0487	-0.068	-0.0493	-0.139
+g__Phormidium_ETS-05	g__Phormidium_ETS-05	21.6784580416266	g__Phormidium_ETS-05	0.9929	lightgreen										
+g__Proschkinia	g__Proschkinia	6.2900418399911295	g__Proschkinia	0.8175	lightgreen	-0.0884	0.286	-0.0643	-0.0613	-0.104	0.147	0.254	0.0261	-0.184	-0.0399
+g__Protatlanta	g__Protatlanta	21.6784580416266	g__Protatlanta	0.9929	lightgreen										
+g__Salinator	g__Salinator	2.08321668568674	g__Salinator	0.6842	lightgreen	-0.175	0.035	-0.0467	-0.141	-0.167	0.0199	-0.0076	-0.207	-0.127	0.0521
+g__Schileykula	g__Schileykula	21.6784580416266	g__Schileykula	0.9929	lightgreen										
+g__Sigaloeista	g__Sigaloeista	4.505096217283151	g__Sigaloeista	0.7671	lightgreen										
+g__Slabberia	g__Slabberia	1.13565978431129	g__Slabberia	0.6153	lightgreen	-0.0559	0.203	-0.0321	0.0152	-0.0942	0.211	0.199	-0.048	-0.109	-0.124
+g__Sonderopelta	g__Sonderopelta	21.6784580416266	g__Sonderopelta	0.9929	lightgreen										
+g__Stereonephthya	g__Stereonephthya	21.6784580416266	g__Stereonephthya	0.9929	lightgreen										
+g__Synechocystis_CCALA_700	g__Synechocystis_CCALA_700	15.874877990261801	g__Synechocystis_CCALA_700	0.9426	lightgreen	-0.0477	0.0946	0.98	-0.006	0.0323	-0.115	-0.186	-0.0444	-0.0219	-0.0394
+s__Nibea_albiflora	s__Nibea_albiflora	8.20182863861307	s__Nibea_albiflora	0.857	lightgreen	-0.251	0.107	-0.0698	-0.0907	-0.113	0.11	0.184	-0.244	0.0475	-0.0011

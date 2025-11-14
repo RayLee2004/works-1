@@ -1,0 +1,276 @@
+id	name	connectivity	gene_id	kme	module	TN_corr	Temperature_corr	NH3N_corr	TP_corr	TUB_corr	DO_corr	pH_corr	COD_corr	EC_corr	V_corr
+g__Acrasis	g__Acrasis	9.185181808698461	g__Acrasis	0.6839	blue	-0.214	-0.0168	-0.0473	-0.0861	-0.0629	0.0084	0.119	-0.217	0.0957	0.113
+g__Adalaria	g__Adalaria	28.578995505198804	g__Adalaria	0.7898	blue	-0.0248	0.0815	-0.0438	0.521	0.547	-0.0361	0.172	0.128	-0.0345	0.311
+g__Agelas	g__Agelas	6.692709351256401	g__Agelas	0.616	blue	-0.0663	-0.245	-0.0404	-0.0936	-0.137	0.155	0.0069	-0.192	0.102	-0.0729
+g__Alloprevotella	g__Alloprevotella	30.261271136506902	g__Alloprevotella	0.8028	blue	-0.0781	-0.181	-0.0174	-0.156	-0.105	0.14	0.36	-0.139	0.271	0.0911
+g__Amansia	g__Amansia	9.629698050035529	g__Amansia	0.6644	blue	-0.116	0.289	-0.0475	-0.0087	-0.11	0.45	0.379	0.0917	-0.209	-0.173
+g__Amoebidium	g__Amoebidium	2.31088738414735	g__Amoebidium	0.5089	blue	-0.231	0.12	-0.0405	-0.0971	-0.0358	-0.142	0.0837	-0.004	-0.0352	0.128
+g__Amphiplicatus	g__Amphiplicatus	2.9631813001103198	g__Amphiplicatus	0.5352	blue	-0.15	-0.099	-0.0586	-0.13	-0.0778	-0.0723	-0.196	0.0296	0.134	-0.16
+g__Anabaena_XPORK15F	g__Anabaena_XPORK15F	1.45705960461398	g__Anabaena_XPORK15F	0.4766	blue	0.22	0.189	-0.0373	0.169	0.066	-0.384	-0.244	0.356	-0.189	0.112
+g__Annularia	g__Annularia	10.892140946545998	g__Annularia	0.6857	blue	-0.103	0.161	-0.0343	-0.0315	-0.06	0.158	0.186	0.043	-0.119	0.0911
+g__Aphanizomenon_MDT14a	g__Aphanizomenon_MDT14a	1.9303848114371598	g__Aphanizomenon_MDT14a	0.4843	blue	0.176	0.143	0.566	-0.0158	0.139	-0.209	-0.213	0.0137	-0.0509	0.0048
+g__Aridibacter	g__Aridibacter	12.0428545588429	g__Aridibacter	0.7109	blue	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__Asparagopsis	g__Asparagopsis	5.50802250748801	g__Asparagopsis	0.6149	blue	-0.141	0.189	-0.0478	-0.0473	-0.0835	-0.0034	0.135	-0.0539	-0.111	0.127
+g__Asteronema	g__Asteronema	7.86598339790607	g__Asteronema	0.6657	blue	-0.226	-0.0312	-0.075	-0.156	-0.112	0.0263	0.0836	-0.234	0.19	0.0869
+g__Attheya	g__Attheya	2.7877315832808702	g__Attheya	0.5455	blue	0.192	-0.0504	-0.0652	-0.0233	0.0714	-0.0507	0.0072	-0.04	0.0043	-0.147
+g__Bauldia	g__Bauldia	3.16876966762779	g__Bauldia	0.5512	blue	0.368	0.105	-0.0385	0.148	0.134	-0.0646	-0.197	0.0192	-0.0749	-0.0287
+g__Botrydium	g__Botrydium	39.310722220216604	g__Botrydium	0.836	blue	-0.123	-0.183	-0.0568	-0.143	-0.145	-0.0197	-0.128	-0.006	0.123	-0.147
+g__Bythotiara	g__Bythotiara	0.975905966877945	g__Bythotiara	0.4393	blue	-0.151	-0.0545	-0.0464	-0.111	-0.079	0.062	0.0719	-0.159	0.122	0.13
+g__Candidatus_Alysiosphaera	g__Candidatus_Alysiosphaera	8.87990369965796	g__Candidatus_Alysiosphaera	0.6553	blue	0.109	0.119	0.415	-0.0001	0.143	-0.136	-0.226	0.075	-0.217	-0.0232
+g__Candidatus_Udaeobacter	g__Candidatus_Udaeobacter	8.74602281925239	g__Candidatus_Udaeobacter	0.6625	blue	0.39	0.125	-0.0583	0.241	0.253	-0.0732	-0.165	0.0517	-0.0611	-0.0368
+g__Candidatus_Xiphinematobacter	g__Candidatus_Xiphinematobacter	6.81053240374299	g__Candidatus_Xiphinematobacter	0.5883	blue	0.268	0.116	-0.0508	0.0714	0.178	-0.098	-0.0575	0.0324	-0.0605	-0.0075
+g__Cheilosporum	g__Cheilosporum	12.273891479869098	g__Cheilosporum	0.6959	blue	0.13	0.0407	-0.0319	0.181	0.222	-0.0618	0.0482	0.0642	-0.0457	-0.0721
+g__Christensenellaceae_R-7_group	g__Christensenellaceae_R-7_group	4.61121969054765	g__Christensenellaceae_R-7_group	0.4964	blue	0.203	0.0964	-0.0486	-0.0134	0.142	-0.11	-0.127	0.0308	-0.0266	0.0339
+g__Chryseolinea	g__Chryseolinea	2.56031058782541	g__Chryseolinea	0.5167	blue	0.169	0.0931	-0.0381	0.138	0.27	-0.147	-0.0686	0.101	-0.0601	0.0948
+g__Citrifermentans	g__Citrifermentans	5.0868223625147095	g__Citrifermentans	0.571	blue	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__Cliona	g__Cliona	2.0010114289881797	g__Cliona	0.5163	blue	0.0401	0.218	-0.0436	0.0147	-0.0577	0.129	0.149	-0.0223	-0.111	-0.103
+g__Clostridium_sensu_stricto_12	g__Clostridium_sensu_stricto_12	10.206648682889	g__Clostridium_sensu_stricto_12	0.6883	blue	0.344	0.136	-0.0537	-0.0125	0.0298	-0.0881	-0.0952	-0.0056	-0.0779	-0.0199
+g__Cohnella	g__Cohnella	12.492399013892902	g__Cohnella	0.6882	blue	-0.0084	0.227	0.0587	-0.0615	-0.0936	-0.0875	-0.208	0.0816	-0.171	0.156
+g__Cormocephalus	g__Cormocephalus	7.675709819627559	g__Cormocephalus	0.633	blue	-0.142	0.106	-0.0421	-0.0057	-0.0319	0.0155	-0.0119	-0.103	-0.0121	0.362
+g__Corynoneura	g__Corynoneura	9.029561649908759	g__Corynoneura	0.6487	blue	-0.0854	-0.179	-0.0337	-0.135	-0.0937	0.168	0.0439	-0.123	0.146	0.124
+g__Cyclocybe	g__Cyclocybe	6.53474061383756	g__Cyclocybe	0.6435	blue	0.13	0.0407	-0.0319	0.181	0.222	-0.0618	0.0482	0.0642	-0.0457	-0.0721
+g__Dechlorobacter	g__Dechlorobacter	1.36156201428027	g__Dechlorobacter	0.4551	blue	-0.0217	0.309	-0.0486	-0.0725	-0.0084	-0.354	-0.0929	-0.0647	0.0164	-0.0149
+g__Deefgea	g__Deefgea	5.6342628366449	g__Deefgea	0.6131	blue	0.166	0.0726	-0.0184	0.394	0.199	-0.325	-0.172	0.407	-0.0663	0.0702
+g__Delftia	g__Delftia	0.9501130907890519	g__Delftia	0.4207	blue	-0.0062	0.228	0.0247	-0.0563	-0.0902	-0.11	-0.176	0.0091	-0.142	0.0366
+g__Denitratisoma	g__Denitratisoma	5.17910725732028	g__Denitratisoma	0.5378	blue	0.154	0.121	0.421	0.0392	0.196	-0.162	-0.15	0.0223	-0.057	-0.0198
+g__Desulfatiglans	g__Desulfatiglans	2.49755940361708	g__Desulfatiglans	0.5054	blue	0.161	0.104	-0.0505	0.107	0.375	-0.0666	-0.0673	0.104	-0.161	0.125
+g__Desulfomicrobium	g__Desulfomicrobium	5.07870802492332	g__Desulfomicrobium	0.5498	blue	0.114	0.0176	-0.0433	-0.0681	0.0951	-0.0561	-0.0951	-0.0159	0.0409	0.0637
+g__DEV008	g__DEV008	1.5854095968559798	g__DEV008	0.4881	blue	-0.0852	0.134	-0.0339	-0.0579	0.0405	-0.134	0.0068	-0.0797	0.0127	-0.124
+g__Ditylum	g__Ditylum	0.55270227416149	g__Ditylum	0.3906	blue	-0.0862	-0.386	-0.0623	-0.18	-0.26	0.0694	-0.192	-0.0699	0.22	-0.253
+g__Earleria	g__Earleria	5.6362940682055696	g__Earleria	0.5951	blue	-0.128	-0.0006	-0.0695	-0.14	-0.135	0.158	0.151	-0.176	0.045	-0.264
+g__Euthora	g__Euthora	12.0139003631707	g__Euthora	0.6934	blue	0.0376	0.0589	-0.0343	0.0616	0.0968	0.0342	-0.0793	0.0108	0.0886	0.0911
+g__Flavisolibacter	g__Flavisolibacter	1.64374212770268	g__Flavisolibacter	0.4747	blue	0.0143	0.143	-0.026	-0.0521	0.053	-0.0986	-0.071	0.115	-0.224	-0.0786
+g__Frustulia	g__Frustulia	0.31904983566330897	g__Frustulia	0.3663	blue	-0.0651	-0.28	-0.0842	-0.2	-0.0946	0.09	0.0795	-0.263	0.211	-0.301
+g__Geothrix	g__Geothrix	4.18604592615955	g__Geothrix	0.5538	blue	0.215	-0.0242	-0.0654	0.0788	0.0608	-0.0254	-0.21	0.156	0.0128	-0.052
+g__Haliangium	g__Haliangium	1.63016921923787	g__Haliangium	0.4231	blue	0.265	0.147	0.113	0.0915	0.33	-0.132	-0.107	0.0219	-0.143	-0.0305
+g__Halichaetonotus	g__Halichaetonotus	56.7034075842815	g__Halichaetonotus	0.9216	blue	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__Hydractinia	g__Hydractinia	0.691590692644467	g__Hydractinia	0.4068	blue	-0.0644	-0.249	-0.0234	-0.122	-0.172	0.191	0.0691	-0.204	0.253	0.156
+g__Hyocrinus	g__Hyocrinus	13.7718669394686	g__Hyocrinus	0.6945	blue	-0.0724	-0.309	-0.0514	-0.165	-0.18	0.166	0.094	-0.25	0.182	-0.213
+g__Ignavibacterium	g__Ignavibacterium	1.7405333484893901	g__Ignavibacterium	0.4728	blue	0.24	0.103	-0.0623	0.149	0.332	-0.084	-0.0279	0.0691	-0.049	0.0509
+g__Ilyonectria	g__Ilyonectria	1.19281283144774	g__Ilyonectria	0.4458	blue	0.0239	-0.198	-0.0529	-0.0109	-0.0115	0.0905	0.0868	-0.147	0.1	-0.198
+g__Laurenciella	g__Laurenciella	5.05568167706927	g__Laurenciella	0.5861	blue	0.275	0.0773	-0.0329	0.0227	0.0057	-0.201	-0.0662	0.0763	-0.0139	-0.0721
+g__Lentimicrobium	g__Lentimicrobium	12.916972772743001	g__Lentimicrobium	0.692	blue	0.153	0.162	0.541	0.0683	0.0182	-0.0045	-0.142	-0.0568	0.0211	0.0265
+g__Leuckartiara	g__Leuckartiara	1.15489346523004	g__Leuckartiara	0.4477	blue	-0.199	-0.222	-0.0507	0.187	0.141	0.0438	-0.179	0.23	0.148	0.121
+g__Levilinea	g__Levilinea	1.27318979393783	g__Levilinea	0.4655	blue	-0.109	-0.0665	-0.0479	-0.121	-0.0448	-0.0455	0.0385	-0.149	0.0709	-0.207
+g__Malacobdella	g__Malacobdella	8.379493522866982	g__Malacobdella	0.6283	blue	-0.0852	0.134	-0.0339	-0.0579	0.0405	-0.134	0.0068	-0.0797	0.0127	-0.124
+g__Mesophyllum	g__Mesophyllum	3.6777770875776703	g__Mesophyllum	0.455	blue	0.148	0.102	-0.0445	-0.0334	0.12	-0.114	-0.0953	0.0091	-0.0355	0.0778
+g__Microvirga	g__Microvirga	2.25476983160051	g__Microvirga	0.4504	blue	0.122	0.178	-0.0564	-0.0611	0.0923	-0.231	-0.077	-0.0654	-0.0279	-0.102
+g__Mitsuaria	g__Mitsuaria	8.385992530670741	g__Mitsuaria	0.641	blue	-0.0852	0.134	-0.0339	-0.0579	0.0405	-0.134	0.0068	-0.0797	0.0127	-0.124
+g__mle1-7	g__mle1-7	20.1809034932681	g__mle1-7	0.758	blue	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__Myriogramme	g__Myriogramme	2.19824022253809	g__Myriogramme	0.5075	blue	0.395	0.0	-0.0621	0.165	0.105	-0.0702	-0.111	-0.0448	-0.104	-0.213
+g__Neritilia	g__Neritilia	36.821146568618495	g__Neritilia	0.8332	blue	-0.0084	0.227	0.0587	-0.0615	-0.0936	-0.0875	-0.208	0.0816	-0.171	0.156
+g__Neurospora	g__Neurospora	13.8793503489153	g__Neurospora	0.7056	blue	0.217	0.0762	-0.0336	0.0018	0.0681	-0.152	-0.0796	0.0515	-0.0259	0.0258
+g__Niastella	g__Niastella	15.0610023988657	g__Niastella	0.7146	blue										
+g__norank_c__AD3	g__norank_c__AD3	21.6650667900869	g__norank_c__AD3	0.7622	blue	0.368	0.0712	-0.0187	0.242	0.0533	0.0213	-0.189	-0.0015	-0.069	-0.0721
+g__norank_c__AT-s3-28	g__norank_c__AT-s3-28	13.2212074729339	g__norank_c__AT-s3-28	0.6954	blue	0.184	0.0406	-0.0295	-0.0569	-0.0374	-0.0943	-0.0763	0.0113	-0.0693	-0.0721
+g__norank_c__Lineage_IIb	g__norank_c__Lineage_IIb	7.3323258062393	g__norank_c__Lineage_IIb	0.6476	blue	0.27	0.121	-0.0275	0.0601	-0.0983	0.0727	0.0236	-0.0627	-0.031	-0.0068
+g__norank_c__MB-A2-108	g__norank_c__MB-A2-108	1.9770190947304198	g__norank_c__MB-A2-108	0.4783	blue	0.226	0.0569	-0.0806	0.0702	0.198	-0.194	-0.111	0.0113	-0.0149	-0.127
+g__norank_c__MVP-15	g__norank_c__MVP-15	3.4508958063421695	g__norank_c__MVP-15	0.5488	blue	0.151	0.258	0.0322	-0.0154	-0.135	-0.0294	-0.158	0.0304	-0.159	0.125
+g__norank_c__P9X2b3D02	g__norank_c__P9X2b3D02	3.04201239269701	g__norank_c__P9X2b3D02	0.5093	blue	0.0808	0.0342	-0.0264	-0.0585	0.164	-0.0022	0.13	-0.0222	0.0838	0.207
+g__norank_c__RBG-16-55-12	g__norank_c__RBG-16-55-12	15.6436087275375	g__norank_c__RBG-16-55-12	0.7155	blue	0.368	0.0712	-0.0187	0.242	0.0533	0.0213	-0.189	-0.0015	-0.069	-0.0721
+g__norank_c__S0134_terrestrial_group	g__norank_c__S0134_terrestrial_group	12.226109953915902	g__norank_c__S0134_terrestrial_group	0.6877	blue	0.27	0.121	-0.0275	0.0601	-0.0983	0.0727	0.0236	-0.0627	-0.031	-0.0068
+g__norank_c__SJA-28	g__norank_c__SJA-28	3.4163906716897703	g__norank_c__SJA-28	0.4951	blue	0.307	0.167	0.184	0.258	0.25	-0.137	-0.168	0.0498	0.001	0.0261
+g__norank_c__Subgroup_11	g__norank_c__Subgroup_11	9.99131340969357	g__norank_c__Subgroup_11	0.6785	blue	0.287	0.0865	-0.0449	-0.0319	0.0341	-0.181	-0.11	0.049	-0.0619	-0.021
+g__norank_c__Subgroup_25	g__norank_c__Subgroup_25	6.25293183745286	g__norank_c__Subgroup_25	0.6131	blue	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__norank_c__Subgroup_5	g__norank_c__Subgroup_5	22.3227719124833	g__norank_c__Subgroup_5	0.7837	blue	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__norank_c__TK10	g__norank_c__TK10	2.33995867649642	g__norank_c__TK10	0.3683	blue	0.176	0.115	0.308	0.0639	0.221	-0.156	-0.123	0.0356	-0.0604	-0.0251
+g__norank_f__Barnesiellaceae	g__norank_f__Barnesiellaceae	5.261903085412491	g__norank_f__Barnesiellaceae	0.5905	blue	0.336	0.115	-0.0421	0.128	0.131	-0.367	-0.174	0.25	-0.0947	-0.0042
+g__norank_f__BSV26	g__norank_f__BSV26	2.33119481587438	g__norank_f__BSV26	0.4917	blue	0.426	0.226	-0.078	0.329	0.391	-0.254	-0.0715	0.213	-0.0897	0.134
+g__norank_f__Cyclobacteriaceae	g__norank_f__Cyclobacteriaceae	1.57612700671799	g__norank_f__Cyclobacteriaceae	0.4818	blue	-0.122	0.0543	-0.0463	-0.0866	-0.134	0.254	0.146	-0.12	0.0658	-0.0219
+g__norank_f__DEV007	g__norank_f__DEV007	2.7649612823566603	g__norank_f__DEV007	0.5063	blue	0.169	0.11	-0.0827	0.0922	0.194	-0.0602	0.101	0.0039	-0.0362	-0.127
+g__norank_f__Diplorickettsiaceae	g__norank_f__Diplorickettsiaceae	1.100789000464	g__norank_f__Diplorickettsiaceae	0.4458	blue	0.274	0.331	0.166	-0.0299	0.0603	-0.237	-0.0826	0.0053	-0.232	-0.175
+g__norank_f__Prolixibacteraceae	g__norank_f__Prolixibacteraceae	1.57645732955272	g__norank_f__Prolixibacteraceae	0.4475	blue	0.109	0.222	-0.0688	0.244	0.411	-0.237	-0.0886	0.227	-0.153	0.237
+g__norank_f__SM2D12	g__norank_f__SM2D12	1.2310266650888	g__norank_f__SM2D12	0.4442	blue	-0.0942	-0.0468	-0.0737	-0.12	0.0746	0.0196	0.228	-0.177	0.197	0.174
+g__norank_f__Synergistaceae	g__norank_f__Synergistaceae	17.6726007402937	g__norank_f__Synergistaceae	0.7465	blue	-0.0084	0.227	0.0587	-0.0615	-0.0936	-0.0875	-0.208	0.0816	-0.171	0.156
+g__norank_f__Syntrophobacteraceae	g__norank_f__Syntrophobacteraceae	3.6462609036977	g__norank_f__Syntrophobacteraceae	0.5358	blue	-0.015	-0.0851	-0.0491	-0.11	0.0139	-0.0569	0.0334	-0.0916	0.107	-0.0983
+g__norank_f__WD2101_soil_group	g__norank_f__WD2101_soil_group	6.78937877320141	g__norank_f__WD2101_soil_group	0.6021	blue	0.208	0.0854	-0.047	0.0927	0.239	-0.122	-0.047	0.0602	-0.0583	-0.022
+g__norank_f__Zavarziniaceae	g__norank_f__Zavarziniaceae	1.3194364646245902	g__norank_f__Zavarziniaceae	0.4535	blue	-0.12	0.255	-0.0247	-0.0336	-0.104	0.215	0.219	0.12	-0.104	-0.151
+g__norank_o__Acidobacteriales	g__norank_o__Acidobacteriales	12.9733459921434	g__norank_o__Acidobacteriales	0.7198	blue	0.324	0.216	0.0098	0.137	0.0277	-0.0727	-0.299	0.0574	-0.168	0.0497
+g__norank_o__Aminicenantales	g__norank_o__Aminicenantales	3.00976376700899	g__norank_o__Aminicenantales	0.535	blue	0.191	0.133	-0.0444	0.418	0.6	-0.237	-0.0231	0.276	-0.0862	0.249
+g__norank_o__Candidatus_Nomurabacteria	g__norank_o__Candidatus_Nomurabacteria	0.21236435381598898	g__norank_o__Candidatus_Nomurabacteria	0.327	blue	0.0981	-0.0454	0.232	-0.0846	-0.0108	-0.0824	-0.0581	-0.0703	0.0576	-0.0646
+g__norank_o__DS-100	g__norank_o__DS-100	2.542604640625	g__norank_o__DS-100	0.487	blue	0.102	0.0851	0.382	-0.113	0.0408	-0.112	-0.039	-0.0344	0.046	0.101
+g__norank_o__Lineage_IV	g__norank_o__Lineage_IV	5.10262596009686	g__norank_o__Lineage_IV	0.6039	blue	0.0979	0.213	0.0322	-0.0837	-0.0994	-0.127	-0.217	0.0745	-0.182	0.0894
+g__norank_o__MVP-88	g__norank_o__MVP-88	0.318973534629153	g__norank_o__MVP-88	0.3528	blue	0.171	-0.0018	-0.0618	0.0781	0.0199	0.0431	-0.0186	0.0123	-0.21	-0.163
+g__norank_o__OPB41	g__norank_o__OPB41	3.1755946962001	g__norank_o__OPB41	0.5305	blue	0.0501	-0.0262	-0.0411	-0.0638	0.0684	-0.0327	0.206	-0.0317	0.176	0.162
+g__norank_o__Rokubacteriales	g__norank_o__Rokubacteriales	10.7100844707064	g__norank_o__Rokubacteriales	0.6818	blue	0.136	0.253	0.36	0.0901	0.279	-0.167	-0.195	0.0926	-0.156	0.149
+g__norank_o__SM1A07	g__norank_o__SM1A07	4.08616991734096	g__norank_o__SM1A07	0.5627	blue	0.27	0.121	-0.0275	0.0601	-0.0983	0.0727	0.0236	-0.0627	-0.031	-0.0068
+g__norank_o__Subgroup_2	g__norank_o__Subgroup_2	10.0472478512028	g__norank_o__Subgroup_2	0.6814	blue	0.0928	0.0663	-0.0306	0.127	0.353	-0.016	0.0322	0.0468	-0.0231	0.156
+g__norank_p__FCPU426	g__norank_p__FCPU426	3.6481023134087	g__norank_p__FCPU426	0.5697	blue	0.171	0.0874	-0.0298	0.215	0.262	-0.175	-0.0278	0.141	-0.0339	0.135
+g__norank_p__TA06	g__norank_p__TA06	4.1926989695139305	g__norank_p__TA06	0.5656	blue	0.0928	0.0663	-0.0306	0.127	0.353	-0.016	0.0322	0.0468	-0.0231	0.156
+g__norank_p__WS2	g__norank_p__WS2	5.523143095760481	g__norank_p__WS2	0.4836	blue	0.262	0.101	-0.0453	-0.0079	0.122	-0.18	-0.113	0.0566	-0.0406	-0.0066
+g__norank_p__Zixibacteria	g__norank_p__Zixibacteria	1.74991671447018	g__norank_p__Zixibacteria	0.4695	blue	0.136	-0.0052	0.202	-0.0655	-0.0045	-0.0828	-0.233	0.0638	-0.121	-0.121
+g__Ochlerotatus	g__Ochlerotatus	12.719648804035199	g__Ochlerotatus	0.6842	blue	-0.0904	0.166	0.0065	-0.0071	-0.0175	-0.184	-0.074	0.109	0.0487	0.352
+g__Orthemis	g__Orthemis	17.161328372883197	g__Orthemis	0.7216	blue	-0.0111	0.147	-0.0199	0.294	0.331	-0.152	0.0705	0.162	0.0189	0.317
+g__Otostigmus	g__Otostigmus	11.7395748988724	g__Otostigmus	0.7145	blue	-0.0109	-0.12	-0.0409	0.24	0.293	0.0523	0.251	0.0303	0.188	0.0441
+g__Pagurus	g__Pagurus	5.4966258978612	g__Pagurus	0.5995	blue	0.0521	-0.0305	-0.044	0.34	0.409	0.018	0.201	0.0542	0.0393	0.0465
+g__Pelolinea	g__Pelolinea	19.4149242440004	g__Pelolinea	0.7468	blue										
+g__Phaeodactylibacter	g__Phaeodactylibacter	2.8991301124621702	g__Phaeodactylibacter	0.481	blue	0.294	0.0167	-0.065	0.0475	0.113	-0.0312	-0.167	-0.0305	0.0387	0.0115
+g__Phycodrys	g__Phycodrys	6.14448176633433	g__Phycodrys	0.6487	blue	-0.0103	-0.0343	-0.0775	0.0922	0.215	0.0154	-0.0286	-0.0427	0.216	-0.0119
+g__Phyllariopsis	g__Phyllariopsis	16.6529435575921	g__Phyllariopsis	0.7387	blue	-0.0852	0.134	-0.0339	-0.0579	0.0405	-0.134	0.0068	-0.0797	0.0127	-0.124
+g__Plakina	g__Plakina	1.62268506538005	g__Plakina	0.4489	blue										
+g__Plasmopara	g__Plasmopara	27.455892769778103	g__Plasmopara	0.7887	blue	0.12	0.0981	-0.0271	-0.0294	-0.0316	-0.161	-0.0362	-0.071	-0.0188	-0.0916
+g__Podosira	g__Podosira	1.5269219001320902	g__Podosira	0.4627	blue	-0.12	-0.402	-0.0731	-0.249	-0.238	0.272	0.113	-0.295	0.251	-0.191
+g__Polypylis	g__Polypylis	11.666859319377	g__Polypylis	0.6815	blue	0.147	0.0594	-0.0004	0.202	-0.0628	-0.359	-0.305	0.401	-0.0633	0.0258
+g__Propionivibrio	g__Propionivibrio	5.69657480081802	g__Propionivibrio	0.6059	blue	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__Proteiniclasticum	g__Proteiniclasticum	1.5863434310868898	g__Proteiniclasticum	0.4792	blue	-0.206	-0.315	-0.0485	-0.141	-0.155	0.0367	-0.17	0.0787	0.218	-0.141
+g__Pterocladiella	g__Pterocladiella	2.2973586659738903	g__Pterocladiella	0.515	blue	-0.229	-0.512	-0.0767	-0.349	-0.274	0.309	0.319	-0.27	0.482	-0.149
+g__Pyrgulopsis	g__Pyrgulopsis	25.8311940544102	g__Pyrgulopsis	0.808	blue	0.13	0.0407	-0.0319	0.181	0.222	-0.0618	0.0482	0.0642	-0.0457	-0.0721
+g__Ralfsia	g__Ralfsia	49.1036529419709	g__Ralfsia	0.8699	blue										
+g__RB41	g__RB41	5.27651621364566	g__RB41	0.5882	blue	0.286	0.188	-0.0686	0.209	0.309	-0.0913	-0.0994	0.0214	-0.0699	0.191
+g__RBG-16-58-14	g__RBG-16-58-14	1.16389943774542	g__RBG-16-58-14	0.4581	blue	-0.0109	0.067	-0.0488	0.2	0.332	-0.18	0.0818	0.0506	0.0654	0.189
+g__Rhodoluna	g__Rhodoluna	1.50759708525398	g__Rhodoluna	0.428	blue	0.0137	-0.116	0.0036	-0.0323	0.0612	0.0919	-0.0764	0.227	-0.378	-0.159
+g__Rhodoplanes	g__Rhodoplanes	3.60760066501956	g__Rhodoplanes	0.5434	blue	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__Riquetophycus	g__Riquetophycus	2.10594779674057	g__Riquetophycus	0.5295	blue	-0.0957	0.303	-0.0851	0.0743	0.149	0.0871	0.208	-0.0234	-0.104	-0.0028
+g__Roseimicrobium	g__Roseimicrobium	6.719297804120719	g__Roseimicrobium	0.5785	blue	0.205	0.0861	-0.046	0.073	0.225	-0.122	-0.0579	0.0553	-0.056	-0.013
+g__Rubramoena	g__Rubramoena	0.833719248837534	g__Rubramoena	0.4278	blue	-0.0512	0.145	-0.0446	-0.0245	-0.038	-0.0807	-0.0151	-0.0995	-0.0083	0.0597
+g__Schimmelmannia	g__Schimmelmannia	0.6660849707939649	g__Schimmelmannia	0.4015	blue	0.189	-0.354	0.0323	0.0028	-0.219	0.232	0.0848	-0.124	0.0767	-0.282
+g__Schizochytrium	g__Schizochytrium	25.659567734147	g__Schizochytrium	0.7778	blue	-0.0459	-0.185	-0.0341	-0.112	-0.0933	0.199	0.108	-0.114	0.0479	-0.157
+g__Schlesneria	g__Schlesneria	36.7229760741129	g__Schlesneria	0.8301	blue	-0.0477	0.0946	0.98	-0.006	0.0323	-0.115	-0.186	-0.0444	-0.0219	-0.0394
+g__Schuchertinia	g__Schuchertinia	0.820271045184501	g__Schuchertinia	0.445	blue	-0.124	-0.0796	-0.0874	-0.213	-0.153	0.0503	0.147	-0.234	0.092	0.0526
+g__Sepia	g__Sepia	31.179834048557	g__Sepia	0.8032	blue	-0.0904	0.166	0.0065	-0.0071	-0.0175	-0.184	-0.074	0.109	0.0487	0.352
+g__Setacea	g__Setacea	1.5944617296547299	g__Setacea	0.4671	blue	-0.121	-0.176	-0.0279	-0.199	-0.148	0.105	0.313	-0.147	0.317	0.151
+g__Sheathia	g__Sheathia	1.02275433163523	g__Sheathia	0.4354	blue	0.03	0.262	-0.0302	-0.057	-0.0845	0.0614	0.0955	0.048	-0.154	-0.0633
+g__Stelligera	g__Stelligera	6.58045803016034	g__Stelligera	0.623	blue	-0.0459	-0.185	-0.0341	-0.112	-0.0933	0.199	0.108	-0.114	0.0479	-0.157
+g__Stenostomum	g__Stenostomum	1.43107624183304	g__Stenostomum	0.4781	blue	-0.0804	0.11	-0.003	-0.0734	-0.14	-0.154	-0.0905	-0.051	0.0832	-0.104
+g__Sumerlaea	g__Sumerlaea	2.40725181162483	g__Sumerlaea	0.4699	blue	0.279	0.235	-0.0289	0.103	0.228	-0.121	-0.119	0.0808	-0.144	0.104
+g__Sva0081_sediment_group	g__Sva0081_sediment_group	1.77900494133428	g__Sva0081_sediment_group	0.3881	blue	0.113	-0.0229	-0.0582	-0.0094	0.218	-0.0515	-0.0202	-0.0311	0.0086	0.0024
+g__Syntrophus	g__Syntrophus	2.3967661134501697	g__Syntrophus	0.4739	blue	0.229	0.134	-0.0526	0.18	0.303	-0.214	-0.2	0.225	-0.0281	0.159
+g__Taphrina	g__Taphrina	4.13608408395304	g__Taphrina	0.5758	blue	-0.11	-0.245	-0.0336	-0.065	-0.107	0.0267	-0.357	0.248	0.12	-0.0394
+g__Terrisporobacter	g__Terrisporobacter	2.41383318159304	g__Terrisporobacter	0.5046	blue	0.428	0.129	-0.05	0.133	0.153	-0.127	-0.213	0.0405	-0.0793	-0.0138
+g__Tethya	g__Tethya	1.88052223916222	g__Tethya	0.4943	blue	0.0128	0.0606	0.461	0.0783	0.135	-0.085	-0.0319	-0.0438	-0.0161	-0.0049
+g__Turritopsis	g__Turritopsis	6.07448047602584	g__Turritopsis	0.6351	blue	0.368	0.0712	-0.0187	0.242	0.0533	0.0213	-0.189	-0.0015	-0.069	-0.0721
+g__UKL13-1	g__UKL13-1	12.2351053846839	g__UKL13-1	0.7229	blue	0.108	0.216	0.0174	-0.0575	0.0264	-0.137	-0.215	0.0774	-0.149	0.13
+g__WCHB1-32	g__WCHB1-32	7.78315450868384	g__WCHB1-32	0.607	blue	0.233	0.108	-0.0411	-0.0007	0.0968	-0.0791	-0.0826	0.0074	-0.0456	0.0229
+g__Zasmidium	g__Zasmidium	6.0746043375243195	g__Zasmidium	0.5986	blue	-0.171	-0.146	-0.0639	-0.14	-0.137	0.0907	0.017	-0.226	0.177	0.0216
+g__Zavrelimyia	g__Zavrelimyia	6.223021300819499	g__Zavrelimyia	0.6079	blue	-0.125	-0.172	-0.0333	-0.159	-0.0941	0.138	-0.0198	-0.132	0.245	0.124
+g__Zygonemertes	g__Zygonemertes	7.729609265471599	g__Zygonemertes	0.6356	blue	-0.0852	0.134	-0.0339	-0.0579	0.0405	-0.134	0.0068	-0.0797	0.0127	-0.124
+g__Merismopedia_0BB39S01	g__Merismopedia_0BB39S01	37.12114267349679	g__Merismopedia_0BB39S01	0.8348	blue										
+g__Visia	g__Visia	96.40637455844809	g__Visia	0.9776	blue										
+g__Wrangelia	g__Wrangelia	96.40637455844809	g__Wrangelia	0.9776	blue										
+g__Gelidiophycus	g__Gelidiophycus	96.40637455844809	g__Gelidiophycus	0.9776	blue										
+g__Aphanta	g__Aphanta	96.40637455844809	g__Aphanta	0.9776	blue										
+g__Dicranema	g__Dicranema	96.40637455844809	g__Dicranema	0.9776	blue										
+g__Reptataxis	g__Reptataxis	96.40637455844809	g__Reptataxis	0.9776	blue										
+g__Dilsea	g__Dilsea	12.4282939175093	g__Dilsea	0.666	blue										
+g__Thamnophyllis	g__Thamnophyllis	28.9507203239809	g__Thamnophyllis	0.8188	blue										
+g__Titanophycus	g__Titanophycus	96.40637455844809	g__Titanophycus	0.9776	blue										
+g__Rhodowynnea	g__Rhodowynnea	96.40637455844809	g__Rhodowynnea	0.9776	blue										
+g__Lomentaria	g__Lomentaria	46.0673595005674	g__Lomentaria	0.8763	blue										
+g__Drouetia	g__Drouetia	22.2293073597165	g__Drouetia	0.7697	blue										
+g__Trachynema	g__Trachynema	19.5075726851206	g__Trachynema	0.7664	blue										
+g__Stephanocystis	g__Stephanocystis	96.40637455844809	g__Stephanocystis	0.9776	blue										
+g__Schizostauron	g__Schizostauron	62.63591918487229	g__Schizostauron	0.9115	blue										
+g__Schizocladia	g__Schizocladia	17.007443393556002	g__Schizocladia	0.7385	blue										
+g__Terriglobus	g__Terriglobus	96.40637455844809	g__Terriglobus	0.9776	blue										
+g__norank_o__Subgroup_12	g__norank_o__Subgroup_12	39.9973371040433	g__norank_o__Subgroup_12	0.8483	blue										
+g__norank_o__Subgroup_13	g__norank_o__Subgroup_13	37.134086105706395	g__norank_o__Subgroup_13	0.8303	blue										
+g__Nakamurella	g__Nakamurella	53.650881030584	g__Nakamurella	0.9138	blue										
+g__norank_o__Frankiales	g__norank_o__Frankiales	35.3741008799323	g__norank_o__Frankiales	0.8318	blue										
+g__Oerskovia	g__Oerskovia	96.40637455844809	g__Oerskovia	0.9776	blue										
+g__Brachybacterium	g__Brachybacterium	96.40637455844809	g__Brachybacterium	0.9776	blue										
+g__norank_f__Micromonosporaceae	g__norank_f__Micromonosporaceae	96.40637455844809	g__norank_f__Micromonosporaceae	0.9776	blue										
+g__Olsenella	g__Olsenella	96.40637455844809	g__Olsenella	0.9776	blue										
+g__Raoultibacter	g__Raoultibacter	96.40637455844809	g__Raoultibacter	0.9776	blue										
+g__Rubrobacter	g__Rubrobacter	96.40637455844809	g__Rubrobacter	0.9776	blue										
+g__dgA-11_gut_group	g__dgA-11_gut_group	11.2572908032242	g__dgA-11_gut_group	0.6968	blue										
+g__Hydrotalea	g__Hydrotalea	30.367661955103102	g__Hydrotalea	0.8027	blue										
+g__Arcicella	g__Arcicella	96.40637455844809	g__Arcicella	0.9776	blue										
+g__norank_o__C0119	g__norank_o__C0119	34.222998896939	g__norank_o__C0119	0.845	blue										
+g__BacC-u-018	g__BacC-u-018	96.40637455844809	g__BacC-u-018	0.9776	blue										
+g__norank_f__Ktedonobacteraceae	g__norank_f__Ktedonobacteraceae	96.40637455844809	g__norank_f__Ktedonobacteraceae	0.9776	blue										
+g__norank_c__NLS2-31	g__norank_c__NLS2-31	96.40637455844809	g__norank_c__NLS2-31	0.9776	blue										
+g__norank_c__BRH-c20a	g__norank_c__BRH-c20a	96.40637455844809	g__norank_c__BRH-c20a	0.9776	blue										
+g__Clostridium_sensu_stricto_7	g__Clostridium_sensu_stricto_7	96.40637455844809	g__Clostridium_sensu_stricto_7	0.9776	blue										
+g__Acetitomaculum	g__Acetitomaculum	96.40637455844809	g__Acetitomaculum	0.9776	blue										
+g__NK4A214_group	g__NK4A214_group	96.40637455844809	g__NK4A214_group	0.9776	blue										
+g__Acidaminobacter	g__Acidaminobacter	2.30445050402072	g__Acidaminobacter	0.5062	blue										
+g__Ercella	g__Ercella	96.40637455844809	g__Ercella	0.9776	blue										
+g__Fastidiosipila	g__Fastidiosipila	96.40637455844809	g__Fastidiosipila	0.9776	blue										
+g__Sporomusa	g__Sporomusa	96.40637455844809	g__Sporomusa	0.9776	blue										
+g__MIZ17	g__MIZ17	96.40637455844809	g__MIZ17	0.9776	blue										
+g__wb1-A12	g__wb1-A12	96.40637455844809	g__wb1-A12	0.9776	blue										
+g__Stella	g__Stella	96.40637455844809	g__Stella	0.9776	blue										
+g__norank_o__Ferrovibrionales	g__norank_o__Ferrovibrionales	96.40637455844809	g__norank_o__Ferrovibrionales	0.9776	blue										
+g__Amaricoccus	g__Amaricoccus	96.40637455844809	g__Amaricoccus	0.9776	blue										
+g__Parablastomonas	g__Parablastomonas	96.40637455844809	g__Parablastomonas	0.9776	blue										
+g__Rhizorhapis	g__Rhizorhapis	96.40637455844809	g__Rhizorhapis	0.9776	blue										
+g__norank_f__Arenicellaceae	g__norank_f__Arenicellaceae	9.00283218426898	g__norank_f__Arenicellaceae	0.6227	blue										
+g__Chitinimonas	g__Chitinimonas	25.6254910765859	g__Chitinimonas	0.7854	blue										
+g__Leptothrix	g__Leptothrix	31.4911199748523	g__Leptothrix	0.8242	blue										
+g__norank_o__Burkholderiales	g__norank_o__Burkholderiales	6.3951237705735995	g__norank_o__Burkholderiales	0.5783	blue										
+g__Porticoccus	g__Porticoccus	28.9067302499656	g__Porticoccus	0.8089	blue										
+g__Crenothrix	g__Crenothrix	17.3360638030355	g__Crenothrix	0.7365	blue										
+g__Thioalkalimicrobium	g__Thioalkalimicrobium	96.40637455844809	g__Thioalkalimicrobium	0.9776	blue										
+g__Spirochaeta_2	g__Spirochaeta_2	96.40637455844809	g__Spirochaeta_2	0.9776	blue										
+g__RS25G	g__RS25G	25.174065876592103	g__RS25G	0.7612	blue										
+g__Akkermansia	g__Akkermansia	96.40637455844809	g__Akkermansia	0.9776	blue										
+s__Sardinella_gibbosa	s__Sardinella_gibbosa	1.5739195152755503	s__Sardinella_gibbosa	0.4794	blue										
+s__Nipponocypris_temminckii	s__Nipponocypris_temminckii	25.174065876592103	s__Nipponocypris_temminckii	0.7612	blue										
+s__Sebastes_inermis	s__Sebastes_inermis	25.174065876592103	s__Sebastes_inermis	0.7612	blue										
+g__Trichophyton	g__Trichophyton	96.40637455844809	g__Trichophyton	0.9776	blue										
+g__Blastobotrys	g__Blastobotrys	96.40637455844809	g__Blastobotrys	0.9776	blue										
+g__Clavulinopsis	g__Clavulinopsis	96.40637455844809	g__Clavulinopsis	0.9776	blue										
+g__Sterigmatomyces	g__Sterigmatomyces	96.40637455844809	g__Sterigmatomyces	0.9776	blue										
+g__Acricotopus	g__Acricotopus	96.40637455844809	g__Acricotopus	0.9776	blue										
+g__Haemagogus	g__Haemagogus	96.40637455844809	g__Haemagogus	0.9776	blue										
+g__Cinygmina	g__Cinygmina	96.40637455844809	g__Cinygmina	0.9776	blue										
+g__Tricorythodes	g__Tricorythodes	96.40637455844809	g__Tricorythodes	0.9776	blue										
+g__Isostenosmylus	g__Isostenosmylus	24.5235513638939	g__Isostenosmylus	0.7787	blue										
+g__Ceriagrion	g__Ceriagrion	14.4896371885744	g__Ceriagrion	0.7104	blue										
+g__Trithemis	g__Trithemis	6.388452542294299	g__Trithemis	0.5736	blue										
+g__Copera	g__Copera	96.40637455844809	g__Copera	0.9776	blue										
+g__Neofibularia	g__Neofibularia	96.40637455844809	g__Neofibularia	0.9776	blue										
+g__Metaphire	g__Metaphire	96.40637455844809	g__Metaphire	0.9776	blue										
+g__Deltocyathus	g__Deltocyathus	66.7348896910903	g__Deltocyathus	0.9358	blue										
+g__Uroptychus	g__Uroptychus	96.40637455844809	g__Uroptychus	0.9776	blue										
+g__Neotroglocarcinus	g__Neotroglocarcinus	96.40637455844809	g__Neotroglocarcinus	0.9776	blue										
+g__Galathea	g__Galathea	25.174065876592103	g__Galathea	0.7612	blue										
+g__Kiwa	g__Kiwa	96.40637455844809	g__Kiwa	0.9776	blue										
+g__Palaemon	g__Palaemon	96.40637455844809	g__Palaemon	0.9776	blue										
+g__Charybdis	g__Charybdis	18.1926788588887	g__Charybdis	0.7393	blue										
+g__Allosergestes	g__Allosergestes	64.3514270422612	g__Allosergestes	0.9242	blue										
+g__Valettietta	g__Valettietta	87.60142793751899	g__Valettietta	0.9711	blue										
+g__Asellus	g__Asellus	17.3023301220172	g__Asellus	0.7226	blue										
+g__Oxidus	g__Oxidus	11.6858159351555	g__Oxidus	0.6905	blue										
+g__Aulactinia	g__Aulactinia	96.40637455844809	g__Aulactinia	0.9776	blue										
+g__Swiftia	g__Swiftia	96.40637455844809	g__Swiftia	0.9776	blue										
+g__Parahubrechtia	g__Parahubrechtia	49.23906534725389	g__Parahubrechtia	0.8723	blue										
+g__Pericelis	g__Pericelis	96.40637455844809	g__Pericelis	0.9776	blue										
+g__Ophiocymbium	g__Ophiocymbium	96.40637455844809	g__Ophiocymbium	0.9776	blue										
+g__Rhagada	g__Rhagada	48.130085511142596	g__Rhagada	0.8811	blue										
+g__Basidiophora	g__Basidiophora	59.5714445448651	g__Basidiophora	0.8992	blue										
+g__Chilostoma	g__Chilostoma	72.8022108654165	g__Chilostoma	0.9309	blue										
+g__Polyorchis	g__Polyorchis	17.3023301220172	g__Polyorchis	0.7226	blue										
+g__Staurodiscus	g__Staurodiscus	96.40637455844809	g__Staurodiscus	0.9776	blue										
+g__Plumalecium	g__Plumalecium	96.40637455844809	g__Plumalecium	0.9776	blue										
+g__Dyakia	g__Dyakia	57.9409818900174	g__Dyakia	0.9253	blue										
+g__Gulella	g__Gulella	46.875177721377405	g__Gulella	0.8748	blue										
+g__Parhedyle	g__Parhedyle	96.40637455844809	g__Parhedyle	0.9776	blue										
+g__Cyclotus	g__Cyclotus	23.1716822961093	g__Cyclotus	0.7856	blue										
+g__Parachondria	g__Parachondria	96.40637455844809	g__Parachondria	0.9776	blue										
+g__Opisthosiphon	g__Opisthosiphon	96.40637455844809	g__Opisthosiphon	0.9776	blue										
+g__Cantharus	g__Cantharus	96.40637455844809	g__Cantharus	0.9776	blue										
+g__Zafra	g__Zafra	37.1592272516398	g__Zafra	0.8336	blue										
+g__Conus	g__Conus	15.4716787871051	g__Conus	0.7367	blue										
+g__Hyalina	g__Hyalina	96.40637455844809	g__Hyalina	0.9776	blue										
+g__Concholepas	g__Concholepas	96.40637455844809	g__Concholepas	0.9776	blue										
+g__Oliva	g__Oliva	96.40637455844809	g__Oliva	0.9776	blue										
+g__Eubranchus	g__Eubranchus	71.2321905075629	g__Eubranchus	0.9562	blue										
+g__Tergiposacca	g__Tergiposacca	96.40637455844809	g__Tergiposacca	0.9776	blue										
+g__Omphalius	g__Omphalius	17.4939524096325	g__Omphalius	0.7302	blue										
+g__Gibbula	g__Gibbula	43.171693409379905	g__Gibbula	0.8785	blue										
+g__Uncancylus	g__Uncancylus	96.40637455844809	g__Uncancylus	0.9776	blue										
+g__Bosellia	g__Bosellia	60.683299529934104	g__Bosellia	0.9204	blue										
+g__Ercolania	g__Ercolania	96.40637455844809	g__Ercolania	0.9776	blue										
+g__Ladislavella	g__Ladislavella	40.9484334210228	g__Ladislavella	0.8705	blue										
+g__Myxas	g__Myxas	96.40637455844809	g__Myxas	0.9776	blue										
+g__Pyrgiscus	g__Pyrgiscus	78.2964830162218	g__Pyrgiscus	0.9586	blue										
+g__Marshallora	g__Marshallora	24.5235513638939	g__Marshallora	0.7787	blue										
+g__Solmissus	g__Solmissus	96.40637455844809	g__Solmissus	0.9776	blue										
+g__Liriope	g__Liriope	0.558722678006271	g__Liriope	0.3541	blue										
+g__Abrochtha	g__Abrochtha	96.40637455844809	g__Abrochtha	0.9776	blue										
+g__Hoilungia	g__Hoilungia	96.40637455844809	g__Hoilungia	0.9776	blue										
+g__Ostrea	g__Ostrea	96.40637455844809	g__Ostrea	0.9776	blue										
+g__Polyschismium	g__Polyschismium	96.40637455844809	g__Polyschismium	0.9776	blue										
+g__Alatina	g__Alatina	17.4939524096325	g__Alatina	0.7302	blue										
+g__Botryochytrium	g__Botryochytrium	25.3702826881861	g__Botryochytrium	0.7928	blue										

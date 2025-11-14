@@ -1,0 +1,142 @@
+id	name	connectivity	gene_id	kme	module	TN_corr	Temperature_corr	NH3N_corr	TP_corr	TUB_corr	DO_corr	pH_corr	COD_corr	EC_corr	V_corr
+g__Abyssocladia	g__Abyssocladia	8.80117448688364	g__Abyssocladia	0.7287	black	-0.164	0.208	-0.0603	-0.0387	-0.133	0.345	0.246	-0.0669	-0.081	0.0245
+g__Aglaja	g__Aglaja	14.6407286781927	g__Aglaja	0.8036	black	-0.152	0.108	-0.0321	-0.0324	-0.0113	0.0034	0.0267	-0.0849	0.0503	0.287
+g__Aliterella	g__Aliterella	0.41454124212555893	g__Aliterella	0.4163	black	-0.0767	-0.263	-0.0462	-0.189	-0.152	0.149	0.129	-0.205	0.203	-0.149
+g__Ancylus	g__Ancylus	6.8670044143982505	g__Ancylus	0.6914	black	0.13	0.0407	-0.0319	0.181	0.222	-0.0618	0.0482	0.0642	-0.0457	-0.0721
+g__Blumeria	g__Blumeria	0.898349121217025	g__Blumeria	0.4048	black	-0.312	-0.0737	-0.0613	-0.211	-0.147	0.113	0.0861	-0.237	0.233	0.35
+g__Caloglossa	g__Caloglossa	5.389307993385309	g__Caloglossa	0.6825	black	-0.106	-0.253	-0.0486	-0.188	-0.122	0.189	0.0583	-0.182	0.219	-0.0097
+g__Candidatus_Nucleicultrix	g__Candidatus_Nucleicultrix	2.09610850900435	g__Candidatus_Nucleicultrix	0.5623	black	0.239	0.0849	-0.0422	0.0448	0.0321	-0.172	-0.144	0.166	-0.249	-0.0991
+g__Cassiopea	g__Cassiopea	4.4778600326268	g__Cassiopea	0.6514	black	-0.0904	0.0138	-0.0472	-0.0654	-0.129	0.182	0.172	-0.124	-0.0218	-0.206
+g__Cladotanytarsus	g__Cladotanytarsus	4.08944034122423	g__Cladotanytarsus	0.6432	black	0.308	-0.19	0.0857	0.22	-0.061	0.157	-0.0781	0.133	-0.322	-0.0811
+g__Colletotrichum	g__Colletotrichum	0.665725894047906	g__Colletotrichum	0.4623	black	-0.277	-0.413	-0.0982	-0.316	-0.259	0.339	0.145	-0.322	0.366	-0.106
+g__Conasprella	g__Conasprella	8.01220599544372	g__Conasprella	0.7032	black	-0.152	0.108	-0.0321	-0.0324	-0.0113	0.0034	0.0267	-0.0849	0.0503	0.287
+g__Crocinitomix	g__Crocinitomix	0.7040742493629101	g__Crocinitomix	0.47	black	0.262	0.173	0.415	0.0311	0.013	-0.0557	-0.119	-0.0522	-0.0533	-0.0094
+g__Cryptopleura	g__Cryptopleura	4.811596870395481	g__Cryptopleura	0.6395	black	-0.143	-0.0021	-0.0414	-0.0407	-0.0643	0.0434	0.0122	-0.152	0.0578	0.157
+g__Cyclocanna	g__Cyclocanna	0.9998958414100699	g__Cyclocanna	0.4852	black	-0.101	0.067	-0.0206	-0.148	-0.0631	-0.0608	-0.0574	-0.106	0.043	-0.107
+g__Danarma	g__Danarma	4.803467180445639	g__Danarma	0.672	black	-0.0904	0.134	-0.0342	-0.0223	-0.0251	-0.046	0.0117	-0.0578	0.011	0.287
+g__Darwinula	g__Darwinula	2.68352603702697	g__Darwinula	0.5899	black	-0.0632	0.108	-0.0343	-0.0457	-0.0127	-0.133	0.0927	-0.0641	-0.0943	-0.105
+g__Doto	g__Doto	8.66125103206711	g__Doto	0.7255	black	-0.0559	0.203	-0.0321	0.0152	-0.0942	0.211	0.199	-0.048	-0.109	-0.124
+g__Dunaliella	g__Dunaliella	0.333354345259366	g__Dunaliella	0.3909	black	0.0354	-0.17	-0.0161	0.273	0.25	0.0388	0.224	-0.0069	0.0928	-0.0777
+g__Eudendrium	g__Eudendrium	0.456326179694456	g__Eudendrium	0.4276	black	-0.0295	-0.132	-0.0359	-0.109	-0.243	0.162	0.0575	-0.213	0.0445	-0.109
+g__Girardia	g__Girardia	0.373217807185454	g__Girardia	0.4124	black	-0.14	0.106	-0.0293	-0.0531	-0.119	-0.0929	-0.0455	-0.112	0.0766	0.0717
+g__Hymeniacidon	g__Hymeniacidon	0.21179296702829603	g__Hymeniacidon	0.3811	black	-0.106	-0.0357	-0.0978	-0.0701	-0.165	-0.295	-0.326	0.187	0.0587	-0.0765
+g__Laccaria	g__Laccaria	1.12488358526325	g__Laccaria	0.4933	black	-0.0442	0.246	-0.036	-0.055	-0.0928	-0.273	-0.0129	-0.0968	-0.0053	-0.0754
+g__Lessonia	g__Lessonia	1.15173953494235	g__Lessonia	0.5269	black	-0.168	-0.128	-0.0746	-0.243	-0.159	0.0605	0.18	-0.254	0.264	0.114
+g__Leuctra	g__Leuctra	0.302124104196924	g__Leuctra	0.3852	black	-0.0691	-0.236	-0.0462	-0.153	-0.136	0.192	0.0874	-0.147	0.104	-0.189
+g__Longinebela	g__Longinebela	6.00553611891604	g__Longinebela	0.6809	black	0.204	0.0589	-0.0343	0.0518	0.225	-0.149	0.0743	0.0219	-0.0876	-0.0721
+g__Mawia	g__Mawia	0.7756462459891529	g__Mawia	0.483	black	-0.106	0.287	0.0107	-0.0885	-0.134	-0.252	-0.331	0.177	-0.168	0.125
+g__Melicertum	g__Melicertum	0.5298127353387501	g__Melicertum	0.4404	black	0.0375	0.0776	-0.0632	0.0383	-0.0167	-0.0117	-0.0623	-0.0583	0.0279	0.177
+g__Microsporum	g__Microsporum	7.0889831652226505	g__Microsporum	0.7027	black	-0.267	-0.188	-0.0645	-0.239	-0.141	0.214	0.14	-0.263	0.352	0.159
+g__Micrura	g__Micrura	6.805872789246969	g__Micrura	0.6864	black	-0.0904	0.166	0.0065	-0.0071	-0.0175	-0.184	-0.074	0.109	0.0487	0.352
+g__Millepora	g__Millepora	2.10284880565712	g__Millepora	0.5734	black	-0.242	0.141	-0.0329	-0.0956	-0.0051	-0.0381	0.112	-0.121	0.0377	0.258
+g__Myriotrichia	g__Myriotrichia	0.559823426785835	g__Myriotrichia	0.4569	black	-0.0395	0.326	-0.0382	0.0519	-0.13	-0.311	-0.323	0.294	-0.236	0.282
+g__Nannizziopsis	g__Nannizziopsis	11.566943542951801	g__Nannizziopsis	0.7755	black	-0.118	-0.0839	-0.048	-0.0792	-0.0848	0.164	0.0654	-0.145	0.0227	0.0929
+g__Negombata	g__Negombata	1.3774359448837301	g__Negombata	0.5245	black	-0.0545	-0.252	-0.0407	-0.0923	-0.142	0.111	0.0271	-0.202	0.0931	-0.196
+g__norank_f__Holophagaceae	g__norank_f__Holophagaceae	7.92192324763968	g__norank_f__Holophagaceae	0.7066	black	0.147	0.0594	-0.0004	0.202	-0.0628	-0.359	-0.305	0.401	-0.0633	0.0258
+g__norank_f__Micavibrionaceae	g__norank_f__Micavibrionaceae	0.7628313509484179	g__norank_f__Micavibrionaceae	0.4787	black	-0.0781	-0.181	-0.0174	-0.156	-0.105	0.14	0.36	-0.139	0.271	0.0911
+g__norank_f__Rhodothermaceae	g__norank_f__Rhodothermaceae	0.6593561897959289	g__norank_f__Rhodothermaceae	0.4581	black	0.352	0.132	-0.0495	0.116	0.0182	-0.0107	0.0126	-0.0131	-0.075	-0.0701
+g__norank_o__Caenarcaniphilales	g__norank_o__Caenarcaniphilales	0.6806080352787839	g__norank_o__Caenarcaniphilales	0.4606	black	0.517	0.127	-0.0532	0.23	0.157	-0.188	-0.133	0.077	-0.0889	-0.136
+g__norank_o__Candidatus_Kerfeldbacteria	g__norank_o__Candidatus_Kerfeldbacteria	3.0163509082618396	g__norank_o__Candidatus_Kerfeldbacteria	0.5999	black										
+g__Ochromonas	g__Ochromonas	0.983616848021239	g__Ochromonas	0.5009	black	-0.131	0.334	-0.0655	-0.0519	-0.0629	-0.0444	-0.0422	0.248	-0.187	0.179
+g__Paracyclops	g__Paracyclops	2.49254922434147	g__Paracyclops	0.5972	black	-0.153	0.241	-0.0463	-0.0468	-0.0763	-0.176	0.0169	-0.104	-0.008	0.174
+g__Parastagonospora	g__Parastagonospora	1.8990049140086498	g__Parastagonospora	0.5612	black	-0.114	-0.153	-0.055	-0.123	-0.12	0.15	0.0003	-0.058	0.0781	0.0035
+g__Phitymophora	g__Phitymophora	2.39402253111058	g__Phitymophora	0.574	black	-0.0901	0.217	-0.0455	-0.0311	-0.0667	0.323	0.269	0.107	-0.166	-0.168
+g__Physella	g__Physella	14.4927945671946	g__Physella	0.8154	black	-0.152	0.108	-0.0321	-0.0324	-0.0113	0.0034	0.0267	-0.0849	0.0503	0.287
+g__Plagiopyxis	g__Plagiopyxis	4.1091106594581	g__Plagiopyxis	0.6353	black	-0.16	0.271	-0.0381	-0.0584	-0.058	-0.154	0.0178	-0.108	0.0417	-0.0719
+g__Pneumocystis	g__Pneumocystis	0.34313237877385305	g__Pneumocystis	0.4189	black	-0.0448	0.0888	-0.0794	-0.0734	-0.0809	-0.34	-0.337	0.245	-0.0934	-0.0998
+g__Porterinema	g__Porterinema	1.15321402569587	g__Porterinema	0.5198	black	-0.0351	0.111	-0.0281	-0.0354	-0.111	-0.0079	0.141	-0.0948	-0.0842	0.127
+g__Proamphiporus	g__Proamphiporus	1.04194476465779	g__Proamphiporus	0.5087	black	-0.0633	-0.175	-0.0343	-0.128	-0.0772	0.0965	0.0376	-0.132	0.16	-0.137
+g__Salisapilia	g__Salisapilia	2.04110497740643	g__Salisapilia	0.5663	black	0.0347	-0.136	-0.0243	-0.191	-0.273	0.145	0.123	-0.188	0.174	-0.0481
+g__Sphagnum	g__Sphagnum	0.498914002094611	g__Sphagnum	0.4403	black	-0.223	0.162	-0.0734	-0.106	-0.0684	-0.18	-0.017	-0.0069	0.002	0.31
+g__Sphingoaurantiacus	g__Sphingoaurantiacus	0.138646006061158	g__Sphingoaurantiacus	0.3339	black	-0.139	-0.217	-0.0073	-0.244	-0.18	0.225	0.0431	-0.148	0.0013	-0.212
+g__Stachybotrys	g__Stachybotrys	3.41526379265297	g__Stachybotrys	0.6324	black	-0.148	-0.0724	-0.0439	-0.121	-0.175	-0.24	-0.28	0.252	0.0356	-0.132
+g__Striaria	g__Striaria	2.18326097316602	g__Striaria	0.5792	black	0.0103	-0.172	-0.0637	-0.0286	0.025	0.0839	0.0661	-0.0541	-0.0364	-0.183
+g__Syntrophobacter	g__Syntrophobacter	4.07800447012502	g__Syntrophobacter	0.6291	black	0.185	0.101	-0.0464	0.0646	0.325	-0.0926	-0.0535	0.0506	-0.0445	0.119
+s__Acanthopagrus_latus	s__Acanthopagrus_latus	1.1840846836719199	s__Acanthopagrus_latus	0.4532	black	-0.108	-0.393	-0.0241	-0.156	-0.199	0.181	0.171	-0.223	0.231	-0.196
+s__Homatula_potanini	s__Homatula_potanini	2.57718001243788	s__Homatula_potanini	0.5996	black	-0.168	-0.42	-0.0631	-0.238	-0.224	0.237	-0.112	-0.168	0.346	-0.216
+s__Konosirus_punctatus	s__Konosirus_punctatus	5.4775713172985805	s__Konosirus_punctatus	0.572	black										
+g__norank_f__Chroococcidiopsaceae	g__norank_f__Chroococcidiopsaceae	13.1642706057405	g__norank_f__Chroococcidiopsaceae	0.777	black										
+g__Scherffelia	g__Scherffelia	57.0133992344999	g__Scherffelia	0.9876	black										
+g__Lobosphaera	g__Lobosphaera	0.7976246752010541	g__Lobosphaera	0.4436	black										
+g__Jaagichlorella	g__Jaagichlorella	20.299310906903802	g__Jaagichlorella	0.8373	black										
+g__Acanthophora	g__Acanthophora	21.772786915332603	g__Acanthophora	0.8558	black										
+g__Farlowia	g__Farlowia	15.348323015912198	g__Farlowia	0.8033	black										
+g__Endocladia	g__Endocladia	57.0133992344999	g__Endocladia	0.9876	black										
+g__Polyides	g__Polyides	57.0133992344999	g__Polyides	0.9876	black										
+g__Cryptonemia	g__Cryptonemia	57.0133992344999	g__Cryptonemia	0.9876	black										
+g__Pachymenia	g__Pachymenia	3.69502311919252	g__Pachymenia	0.6066	black										
+g__Nemastoma	g__Nemastoma	57.0133992344999	g__Nemastoma	0.9876	black										
+g__Glaucosphaera	g__Glaucosphaera	57.0133992344999	g__Glaucosphaera	0.9876	black										
+g__Pogotrichum	g__Pogotrichum	40.212087351330204	g__Pogotrichum	0.9402	black										
+g__Bifurcaria	g__Bifurcaria	57.0133992344999	g__Bifurcaria	0.9876	black										
+g__Haplospora	g__Haplospora	2.97472312011186	g__Haplospora	0.5913	black										
+g__Entomoneis	g__Entomoneis	57.0133992344999	g__Entomoneis	0.9876	black										
+g__Candidatus_Limnoluna	g__Candidatus_Limnoluna	57.0133992344999	g__Candidatus_Limnoluna	0.9876	black										
+g__norank_o__Dehalococcoidales	g__norank_o__Dehalococcoidales	57.0133992344999	g__norank_o__Dehalococcoidales	0.9876	black										
+g__norank_o__vadinBA26	g__norank_o__vadinBA26	57.0133992344999	g__norank_o__vadinBA26	0.9876	black										
+g__norank_o__Candidatus_Adlerbacteria	g__norank_o__Candidatus_Adlerbacteria	57.0133992344999	g__norank_o__Candidatus_Adlerbacteria	0.9876	black										
+g__norank_o__Candidatus_Giovannonibacteria	g__norank_o__Candidatus_Giovannonibacteria	57.0133992344999	g__norank_o__Candidatus_Giovannonibacteria	0.9876	black										
+g__norank_o__Candidatus_Wolfebacteria	g__norank_o__Candidatus_Wolfebacteria	57.0133992344999	g__norank_o__Candidatus_Wolfebacteria	0.9876	black										
+g__Telmatospirillum	g__Telmatospirillum	57.0133992344999	g__Telmatospirillum	0.9876	black										
+g__Thiovirga	g__Thiovirga	57.0133992344999	g__Thiovirga	0.9876	black										
+g__norank_f__Leptospiraceae	g__norank_f__Leptospiraceae	57.0133992344999	g__norank_f__Leptospiraceae	0.9876	black										
+s__Stolephorus_commersonnii	s__Stolephorus_commersonnii	7.396936376067241	s__Stolephorus_commersonnii	0.6399	black										
+s__Gnathopogon_elongatus	s__Gnathopogon_elongatus	21.5485044785044	s__Gnathopogon_elongatus	0.8506	black										
+s__Squalidus_mantschuricus	s__Squalidus_mantschuricus	25.546587365994302	s__Squalidus_mantschuricus	0.8815	black										
+s__Gerres_filamentosus	s__Gerres_filamentosus	8.687201353723461	s__Gerres_filamentosus	0.6629	black										
+s__Acanthogobius_hasta	s__Acanthogobius_hasta	6.201272378477251	s__Acanthogobius_hasta	0.5943	black										
+s__Mugilogobius_abei	s__Mugilogobius_abei	3.6058310904741697	s__Mugilogobius_abei	0.5057	black										
+s__Ambassis_gymnocephalus	s__Ambassis_gymnocephalus	7.70423758056901	s__Ambassis_gymnocephalus	0.6415	black										
+s__Moolgarda_perusii	s__Moolgarda_perusii	3.9761902182415896	s__Moolgarda_perusii	0.5203	black										
+g__Stagonosporopsis	g__Stagonosporopsis	57.0133992344999	g__Stagonosporopsis	0.9876	black										
+g__Phyllopsora	g__Phyllopsora	24.9794125691093	g__Phyllopsora	0.8685	black										
+g__Chrysoporthe	g__Chrysoporthe	32.6291540724913	g__Chrysoporthe	0.9159	black										
+g__Niveomyces	g__Niveomyces	28.1249739603962	g__Niveomyces	0.8861	black										
+g__Hirsutella	g__Hirsutella	57.0133992344999	g__Hirsutella	0.9876	black										
+g__Procladius	g__Procladius	2.35960828968926	g__Procladius	0.5791	black										
+g__Centromacronema	g__Centromacronema	57.0133992344999	g__Centromacronema	0.9876	black										
+g__Macronema	g__Macronema	57.0133992344999	g__Macronema	0.9876	black										
+g__Euplectella	g__Euplectella	40.9273956040799	g__Euplectella	0.943	black										
+g__Globulidrilus	g__Globulidrilus	57.0133992344999	g__Globulidrilus	0.9876	black										
+g__Paralacydonia	g__Paralacydonia	57.0133992344999	g__Paralacydonia	0.9876	black										
+g__Barrukia	g__Barrukia	13.2555544500844	g__Barrukia	0.7845	black										
+g__Tomopteris	g__Tomopteris	2.69418479406889	g__Tomopteris	0.5977	black										
+g__Spiophanes	g__Spiophanes	57.0133992344999	g__Spiophanes	0.9876	black										
+g__Ophelina	g__Ophelina	57.0133992344999	g__Ophelina	0.9876	black										
+g__Cratera	g__Cratera	57.0133992344999	g__Cratera	0.9876	black										
+g__Fennerogalathea	g__Fennerogalathea	57.0133992344999	g__Fennerogalathea	0.9876	black										
+g__Austruca	g__Austruca	57.0133992344999	g__Austruca	0.9876	black										
+g__Tiwaripotamon	g__Tiwaripotamon	19.5063650642984	g__Tiwaripotamon	0.845	black										
+g__Trichodactylus	g__Trichodactylus	57.0133992344999	g__Trichodactylus	0.9876	black										
+g__Lanceola	g__Lanceola	25.905208074140702	g__Lanceola	0.8757	black										
+g__Tubipora	g__Tubipora	57.0133992344999	g__Tubipora	0.9876	black										
+g__Fergusobia	g__Fergusobia	29.966209804650802	g__Fergusobia	0.8963	black										
+g__Marshallagia	g__Marshallagia	21.4247130371043	g__Marshallagia	0.8374	black										
+g__Prosadenoporus	g__Prosadenoporus	57.0133992344999	g__Prosadenoporus	0.9876	black										
+g__Malandena	g__Malandena	57.0133992344999	g__Malandena	0.9876	black										
+g__Parmavitrina	g__Parmavitrina	12.995981955854699	g__Parmavitrina	0.7686	black										
+g__Iberus	g__Iberus	57.0133992344999	g__Iberus	0.9876	black										
+g__Neoturris	g__Neoturris	6.386165840302629	g__Neoturris	0.6977	black										
+g__Gymnangium	g__Gymnangium	57.0133992344999	g__Gymnangium	0.9876	black										
+g__Eutima	g__Eutima	2.01240672312799	g__Eutima	0.5483	black										
+g__Eutonina	g__Eutonina	57.0133992344999	g__Eutonina	0.9876	black										
+g__Cassidula	g__Cassidula	7.25384746735588	g__Cassidula	0.6946	black										
+g__Pleuroloba	g__Pleuroloba	57.0133992344999	g__Pleuroloba	0.9876	black										
+g__Heleobia	g__Heleobia	57.0133992344999	g__Heleobia	0.9876	black										
+g__Tudorella	g__Tudorella	4.55000612405011	g__Tudorella	0.6369	black										
+g__Lacunopsis	g__Lacunopsis	37.424762329619	g__Lacunopsis	0.9351	black										
+g__Falsimohnia	g__Falsimohnia	5.280371903894809	g__Falsimohnia	0.6817	black										
+g__Clathroterebra	g__Clathroterebra	57.0133992344999	g__Clathroterebra	0.9876	black										
+g__Pleurobranchaea	g__Pleurobranchaea	57.0133992344999	g__Pleurobranchaea	0.9876	black										
+g__Gundlachia	g__Gundlachia	53.4274016874756	g__Gundlachia	0.982	black										
+g__Awerintzewia	g__Awerintzewia	45.4403379208999	g__Awerintzewia	0.9544	black										
+g__Peltogasterella	g__Peltogasterella	57.0133992344999	g__Peltogasterella	0.9876	black										
+g__Lepidochitona	g__Lepidochitona	57.0133992344999	g__Lepidochitona	0.9876	black										
+g__Halistemma	g__Halistemma	3.05655553002262	g__Halistemma	0.5753	black										
+g__Dendrogramma	g__Dendrogramma	40.9634254281914	g__Dendrogramma	0.9493	black										
+g__Wilsoniana	g__Wilsoniana	40.3281443551698	g__Wilsoniana	0.9348	black										
+g__Bathyteuthis	g__Bathyteuthis	57.0133992344999	g__Bathyteuthis	0.9876	black										
+g__Badhamia	g__Badhamia	57.0133992344999	g__Badhamia	0.9876	black										
+g__Spongospora	g__Spongospora	57.0133992344999	g__Spongospora	0.9876	black										
+g__Jakoba	g__Jakoba	57.0133992344999	g__Jakoba	0.9876	black										
+g__Palpitomonas	g__Palpitomonas	3.77509166706617	g__Palpitomonas	0.6361	black										

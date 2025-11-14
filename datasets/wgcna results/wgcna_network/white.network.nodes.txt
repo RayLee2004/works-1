@@ -1,0 +1,35 @@
+id	name	connectivity	gene_id	kme	module	TN_corr	Temperature_corr	NH3N_corr	TP_corr	TUB_corr	DO_corr	pH_corr	COD_corr	EC_corr	V_corr
+g__Adineta	g__Adineta	6.107426665130731	g__Adineta	0.815	white	0.0376	0.0589	-0.0343	0.0616	0.0968	0.0342	-0.0793	0.0108	0.0886	0.0911
+g__Cyclophorus	g__Cyclophorus	2.29161011685823	g__Cyclophorus	0.6963	white	0.132	0.174	-0.0189	0.0111	-0.0085	-0.275	-0.1	0.133	0.0249	0.2
+g__Echinodictyum	g__Echinodictyum	2.59452707753319	g__Echinodictyum	0.7092	white	-0.0632	0.108	-0.0343	-0.0457	-0.0127	-0.133	0.0927	-0.0641	-0.0943	-0.105
+g__Hapsidospora	g__Hapsidospora	7.946577936436549	g__Hapsidospora	0.8537	white	-0.11	-0.245	-0.0336	-0.065	-0.107	0.0267	-0.357	0.248	0.12	-0.0394
+g__Luteimonas	g__Luteimonas	3.1560467995055097	g__Luteimonas	0.7201	white	-0.11	-0.245	-0.0336	-0.065	-0.107	0.0267	-0.357	0.248	0.12	-0.0394
+g__Michthyops	g__Michthyops	4.76185412402808	g__Michthyops	0.7817	white	0.0552	0.0845	-0.0228	0.19	0.205	-0.0448	0.0192	0.394	-0.472	-0.118
+g__Mitrella	g__Mitrella	6.4700817143855	g__Mitrella	0.8236	white	-0.247	-0.0482	-0.0367	-0.072	-0.0524	0.102	0.0763	-0.212	0.177	0.27
+g__norank_c__Lineage_IIa	g__norank_c__Lineage_IIa	2.72633905621084	g__norank_c__Lineage_IIa	0.7133	white	0.368	0.0712	-0.0187	0.242	0.0533	0.0213	-0.189	-0.0015	-0.069	-0.0721
+g__Scenedesmus	g__Scenedesmus	1.03246037479443	g__Scenedesmus	0.6047	white	0.35	0.0951	-0.0457	0.0119	0.0286	-0.243	-0.075	0.0793	-0.0482	-0.102
+g__Smittia	g__Smittia	1.81127679939096	g__Smittia	0.6625	white	-0.173	0.195	-0.0183	-0.0282	-0.0206	-0.129	-0.0338	0.0174	0.0708	0.457
+g__Scytonema_PCC-7110	g__Scytonema_PCC-7110	21.0285222153651	g__Scytonema_PCC-7110	0.9967	white										
+g__Spongonema	g__Spongonema	21.0285222153651	g__Spongonema	0.9967	white										
+g__norank_f__SR-FBR-L83	g__norank_f__SR-FBR-L83	21.0285222153651	g__norank_f__SR-FBR-L83	0.9967	white										
+g__Anaerostignum	g__Anaerostignum	21.0285222153651	g__Anaerostignum	0.9967	white										
+g__Peptoclostridium	g__Peptoclostridium	21.0285222153651	g__Peptoclostridium	0.9967	white										
+g__Byssovorax	g__Byssovorax	21.0285222153651	g__Byssovorax	0.9967	white										
+g__norank_o__Candidatus_Zambryskibacteria	g__norank_o__Candidatus_Zambryskibacteria	2.59452707753319	g__norank_o__Candidatus_Zambryskibacteria	0.7092	white										
+g__norank_f__Saccharimonadaceae	g__norank_f__Saccharimonadaceae	21.0285222153651	g__norank_f__Saccharimonadaceae	0.9967	white										
+g__Providencia	g__Providencia	21.0285222153651	g__Providencia	0.9967	white										
+g__norank_o__Omnitrophales	g__norank_o__Omnitrophales	21.0285222153651	g__norank_o__Omnitrophales	0.9967	white										
+g__norank_f__Chthoniobacteraceae	g__norank_f__Chthoniobacteraceae	21.0285222153651	g__norank_f__Chthoniobacteraceae	0.9967	white										
+s__Takifugu_fasciatus	s__Takifugu_fasciatus	21.0285222153651	s__Takifugu_fasciatus	0.9967	white										
+g__Sporothrix	g__Sporothrix	7.7543678137379	g__Sporothrix	0.8469	white										
+g__Suillus	g__Suillus	21.0285222153651	g__Suillus	0.9967	white										
+g__Placobdella	g__Placobdella	21.0285222153651	g__Placobdella	0.9967	white										
+g__Acantholobulus	g__Acantholobulus	5.546936501486321	g__Acantholobulus	0.8047	white										
+g__Atopochetus	g__Atopochetus	21.0285222153651	g__Atopochetus	0.9967	white										
+g__Nesometra	g__Nesometra	21.0285222153651	g__Nesometra	0.9967	white										
+g__Bradybaena	g__Bradybaena	21.0285222153651	g__Bradybaena	0.9967	white										
+g__Halopteris	g__Halopteris	21.0285222153651	g__Halopteris	0.9967	white										
+g__Curvella	g__Curvella	1.41920205637763	g__Curvella	0.6256	white										
+g__Stylocheilus	g__Stylocheilus	21.0285222153651	g__Stylocheilus	0.9967	white										
+g__Anabathron	g__Anabathron	21.0285222153651	g__Anabathron	0.9967	white										
+g__Pustula	g__Pustula	13.035637283091098	g__Pustula	0.9241	white										

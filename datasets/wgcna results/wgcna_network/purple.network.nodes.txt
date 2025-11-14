@@ -1,0 +1,114 @@
+id	name	connectivity	gene_id	kme	module	TN_corr	Temperature_corr	NH3N_corr	TP_corr	TUB_corr	DO_corr	pH_corr	COD_corr	EC_corr	V_corr
+g__Agalma	g__Agalma	1.68478055465671	g__Agalma	0.6637	purple	-0.47	-0.452	-0.077	-0.225	-0.21	0.284	0.275	-0.255	0.377	-0.0549
+g__Anaeromyxobacter	g__Anaeromyxobacter	1.08307135200738	g__Anaeromyxobacter	0.6179	purple	0.0807	0.0568	-0.0337	0.0227	0.185	-0.107	-0.357	0.293	-0.242	0.0879
+g__Apolemia	g__Apolemia	3.49982674378519	g__Apolemia	0.7177	purple	-0.26	-0.623	-0.113	-0.335	-0.375	0.393	0.213	-0.364	0.399	-0.113
+g__Ascocyclus	g__Ascocyclus	1.4673205935272	g__Ascocyclus	0.6758	purple	0.0615	0.156	-0.0461	-0.0396	0.0384	-0.217	-0.0269	-0.0322	0.0043	-0.145
+g__Asterionellopsis	g__Asterionellopsis	1.27977085333583	g__Asterionellopsis	0.6249	purple	-0.218	-0.398	-0.16	-0.17	-0.17	0.121	0.265	-0.221	0.205	-0.367
+g__BD1-7_clade	g__BD1-7_clade	3.66346237299985	g__BD1-7_clade	0.7106	purple	-0.132	-0.585	-0.143	-0.353	-0.346	0.279	0.0996	-0.456	0.418	-0.19
+g__BIyi10	g__BIyi10	4.31056762987467	g__BIyi10	0.7831	purple	-0.242	-0.413	-0.111	-0.39	-0.389	0.315	0.192	-0.477	0.274	-0.179
+g__Brevilegnia	g__Brevilegnia	3.07368355323151	g__Brevilegnia	0.7666	purple	-0.153	-0.193	-0.139	-0.265	-0.311	0.113	0.0025	-0.159	0.0459	-0.153
+g__Candidatus_Bealeia	g__Candidatus_Bealeia	4.54302339382075	g__Candidatus_Bealeia	0.7969	purple	0.423	0.235	-0.043	0.155	0.043	-0.199	-0.208	0.0866	-0.0416	0.136
+g__Chlamydomonas	g__Chlamydomonas	0.80110340753255	g__Chlamydomonas	0.545	purple	-0.183	-0.146	0.0982	-0.291	-0.319	-0.0209	0.0866	-0.21	0.282	-0.0541
+g__Choricystis	g__Choricystis	3.1849870225846	g__Choricystis	0.76	purple	-0.111	0.133	0.0163	0.0041	-0.03	-0.269	-0.104	0.0604	-0.12	0.15
+g__CL500-3	g__CL500-3	3.05097777518307	g__CL500-3	0.7391	purple	-0.0099	-0.279	-0.147	-0.0969	-0.23	0.243	0.272	-0.321	0.286	-0.272
+g__Cladophialophora	g__Cladophialophora	1.26016004010666	g__Cladophialophora	0.6499	purple	-0.26	-0.0835	-0.116	-0.256	-0.176	0.0102	0.121	-0.292	0.202	0.0967
+g__Clavulina	g__Clavulina	0.9873328057695391	g__Clavulina	0.6126	purple	-0.245	-0.0594	-0.124	-0.147	-0.246	-0.131	-0.192	0.0812	0.0951	-0.0374
+g__Coxiella	g__Coxiella	2.17792544875103	g__Coxiella	0.6933	purple	0.0359	-0.208	0.0365	-0.229	-0.254	0.25	0.221	-0.382	0.195	-0.434
+g__Cuspidothrix_LMECYA_163	g__Cuspidothrix_LMECYA_163	1.33294175642793	g__Cuspidothrix_LMECYA_163	0.5759	purple	0.355	0.214	0.159	0.164	0.156	-0.266	-0.278	0.194	-0.253	0.0161
+g__Defluviicoccus	g__Defluviicoccus	2.26774857178637	g__Defluviicoccus	0.6206	purple	-0.0062	-0.243	0.0222	-0.103	-0.096	0.16	0.0039	-0.194	0.0781	-0.122
+g__DEV114	g__DEV114	2.36650023786121	g__DEV114	0.7457	purple	0.142	-0.229	-0.109	0.0304	0.062	0.0455	-0.0523	-0.0044	-0.101	-0.411
+g__Dolichomastix	g__Dolichomastix	2.34551908718132	g__Dolichomastix	0.726	purple	0.0398	-0.159	-0.0064	0.167	0.0877	0.136	0.145	-0.089	0.111	0.172
+g__Ectocarpus	g__Ectocarpus	0.689094719883601	g__Ectocarpus	0.5689	purple	-0.315	-0.0842	-0.163	-0.152	-0.123	0.0244	0.0772	-0.273	0.179	-0.0658
+g__Ellin6067	g__Ellin6067	1.96162078936026	g__Ellin6067	0.5635	purple	0.307	0.749	0.134	0.469	0.434	-0.459	-0.187	0.475	-0.525	0.101
+g__Elongisporangium	g__Elongisporangium	2.3414681456097	g__Elongisporangium	0.7262	purple	-0.004	0.0932	-0.119	0.243	0.254	-0.139	0.101	-0.0135	0.0005	0.0998
+g__Gefionella	g__Gefionella	2.02252265777226	g__Gefionella	0.706	purple	0.0036	0.135	-0.107	0.209	0.151	-0.0574	0.186	-0.0887	0.073	-0.141
+g__Gemmatimonas	g__Gemmatimonas	1.3620966055261499	g__Gemmatimonas	0.5578	purple	-0.243	-0.304	-0.155	-0.194	-0.224	0.219	0.138	-0.347	0.278	0.0254
+g__Gonium	g__Gonium	1.7348571670778001	g__Gonium	0.6292	purple	-0.378	0.279	-0.104	-0.21	-0.165	-0.206	-0.0453	-0.093	0.0154	0.162
+g__GOUTA6	g__GOUTA6	3.33141237943346	g__GOUTA6	0.7435	purple	0.221	-0.317	0.0589	0.126	-0.0238	0.264	0.226	-0.223	0.132	-0.149
+g__Guillardia	g__Guillardia	0.8102798691271229	g__Guillardia	0.5426	purple	-0.396	-0.0508	-0.117	-0.418	-0.36	0.0914	-0.0157	-0.153	0.114	0.044
+g__hgcI_clade	g__hgcI_clade	2.6931921478051604	g__hgcI_clade	0.6164	purple	-0.284	-0.448	-0.268	-0.263	-0.278	0.282	0.204	-0.388	0.341	0.01
+g__IMCC26134	g__IMCC26134	4.32339762988808	g__IMCC26134	0.8286	purple	-0.0848	0.118	-0.0589	-0.0148	-0.113	0.12	0.143	-0.1	-0.209	-0.238
+g__Labrys	g__Labrys	3.3585101798618995	g__Labrys	0.7567	purple	0.44	0.231	-0.112	0.243	0.257	-0.0584	0.007	0.0328	-0.164	-0.0844
+g__Lecanicillium	g__Lecanicillium	1.83400294662215	g__Lecanicillium	0.6939	purple	-0.0412	-0.0056	-0.0597	0.14	0.249	-0.0469	0.149	-0.059	0.0653	-0.0813
+g__Limnothrix	g__Limnothrix	2.15815896590444	g__Limnothrix	0.6317	purple	0.209	0.386	-0.0668	0.378	0.308	-0.383	-0.138	0.376	-0.364	0.289
+g__Lytocarpia	g__Lytocarpia	0.9521236919003141	g__Lytocarpia	0.6109	purple	-0.224	0.184	-0.154	-0.118	-0.208	0.289	0.264	-0.128	-0.13	-0.17
+g__Macrothrix	g__Macrothrix	2.8257859020468996	g__Macrothrix	0.7532	purple	-0.107	0.111	0.23	-0.0486	-0.0954	-0.179	-0.17	-0.0714	-0.135	-0.12
+g__marine_group	g__marine_group	0.914375447584915	g__marine_group	0.3504	purple	-0.229	-0.526	-0.173	-0.366	-0.414	0.389	0.15	-0.477	0.426	-0.22
+g__Mesospora	g__Mesospora	1.1298270512756399	g__Mesospora	0.5574	purple	-0.191	0.0674	-0.0919	-0.158	-0.0971	-0.0083	0.0131	-0.144	-0.0159	-0.194
+g__Methylomonas	g__Methylomonas	1.17642740900207	g__Methylomonas	0.6063	purple	0.215	0.182	-0.0892	0.179	0.167	-0.0658	0.0345	-0.0025	-0.0441	-0.044
+g__Microcystis_PCC-7914	g__Microcystis_PCC-7914	1.4343752255149902	g__Microcystis_PCC-7914	0.5079	purple	0.237	0.585	0.0861	0.43	0.211	-0.273	-0.093	0.569	-0.506	0.0274
+g__MND1	g__MND1	3.29588525218108	g__MND1	0.6625	purple	-0.008	-0.764	-0.071	-0.331	-0.355	0.35	0.0799	-0.306	0.423	-0.391
+g__Nitrosomonas	g__Nitrosomonas	2.5362248987574505	g__Nitrosomonas	0.6786	purple	0.0604	-0.345	0.0691	-0.142	-0.233	0.289	0.162	-0.279	0.156	-0.274
+g__Nitrospira	g__Nitrospira	4.1340985567800095	g__Nitrospira	0.6913	purple	-0.11	-0.616	-0.0482	-0.3	-0.354	0.422	0.231	-0.493	0.377	-0.373
+g__norank_c__BD2-11_terrestrial_group	g__norank_c__BD2-11_terrestrial_group	1.3133452192261101	g__norank_c__BD2-11_terrestrial_group	0.6163	purple	0.0928	0.0663	-0.0306	0.127	0.353	-0.016	0.0322	0.0468	-0.0231	0.156
+g__norank_c__Gammaproteobacteria	g__norank_c__Gammaproteobacteria	3.84387770347132	g__norank_c__Gammaproteobacteria	0.7525	purple	0.162	0.192	-0.0603	-0.0363	0.0097	-0.0566	-0.0292	0.0711	-0.252	-0.143
+g__norank_c__OM190	g__norank_c__OM190	3.64375695267302	g__norank_c__OM190	0.7719	purple	0.331	0.271	0.0728	0.408	0.25	0.0309	0.15	0.203	-0.311	-0.0788
+g__norank_c__Sericytochromatia	g__norank_c__Sericytochromatia	2.7906714554620295	g__norank_c__Sericytochromatia	0.7393	purple	-0.0932	0.31	-0.106	0.0103	0.095	-0.144	-0.0079	0.0041	-0.16	0.146
+g__norank_f__Acetobacteraceae	g__norank_f__Acetobacteraceae	0.8727239270833321	g__norank_f__Acetobacteraceae	0.5844	purple	0.106	-0.0897	-0.0365	-0.0372	-0.252	0.2	0.0132	0.0325	-0.137	-0.205
+g__norank_f__AKYH767	g__norank_f__AKYH767	3.15455767536949	g__norank_f__AKYH767	0.7564	purple	0.0984	-0.0518	0.0501	0.0734	0.0473	0.0534	0.103	-0.245	0.044	0.0656
+g__norank_f__Azospirillaceae	g__norank_f__Azospirillaceae	2.11601648495609	g__norank_f__Azospirillaceae	0.6991	purple	0.0928	0.145	0.038	0.0554	0.0406	0.201	0.18	-0.099	-0.0627	-0.158
+g__norank_f__Chitinophagaceae	g__norank_f__Chitinophagaceae	1.86860595415384	g__norank_f__Chitinophagaceae	0.6412	purple	-0.0587	-0.257	-0.22	0.0796	0.0654	-0.0327	0.0159	-0.113	0.256	-0.0222
+g__norank_f__EF100-94H03	g__norank_f__EF100-94H03	3.76628459138123	g__norank_f__EF100-94H03	0.7657	purple	-0.0963	-0.195	-0.0695	-0.115	-0.16	0.212	0.0514	-0.165	-0.0539	-0.286
+g__norank_f__env.OPS_17	g__norank_f__env.OPS_17	2.9104349578814195	g__norank_f__env.OPS_17	0.7502	purple	-0.0426	-0.23	0.0942	-0.105	-0.134	0.156	-0.0901	-0.3	0.132	0.0105
+g__norank_f__Fimbriimonadaceae	g__norank_f__Fimbriimonadaceae	1.6245040405271	g__norank_f__Fimbriimonadaceae	0.6357	purple	0.178	0.205	0.178	0.0326	0.0496	-0.104	-0.0085	-0.0149	-0.0993	-0.196
+g__norank_f__Gemmatimonadaceae	g__norank_f__Gemmatimonadaceae	3.7208124898455095	g__norank_f__Gemmatimonadaceae	0.6768	purple	-0.255	-0.48	-0.104	-0.205	-0.195	0.177	0.0723	-0.375	0.366	-0.102
+g__norank_f__Holosporaceae	g__norank_f__Holosporaceae	1.36255084154598	g__norank_f__Holosporaceae	0.6352	purple	0.284	0.0738	-0.0615	0.162	-0.0232	-0.0511	-0.0931	0.224	-0.138	-0.162
+g__norank_f__Hydrogenedensaceae	g__norank_f__Hydrogenedensaceae	1.43745137404189	g__norank_f__Hydrogenedensaceae	0.6485	purple	0.183	0.0716	0.168	0.0348	-0.0204	-0.189	-0.132	0.0031	-0.139	-0.152
+g__norank_f__Magnetospiraceae	g__norank_f__Magnetospiraceae	3.1452152421461297	g__norank_f__Magnetospiraceae	0.6628	purple	0.049	-0.434	-0.0461	-0.143	-0.272	0.276	0.115	-0.271	0.112	-0.373
+g__norank_f__Methylococcaceae	g__norank_f__Methylococcaceae	1.2823341816511398	g__norank_f__Methylococcaceae	0.6295	purple	0.342	0.0419	0.0552	0.239	0.0488	-0.113	-0.137	0.11	-0.168	-0.284
+g__norank_f__Methylophilaceae	g__norank_f__Methylophilaceae	2.19011242848005	g__norank_f__Methylophilaceae	0.6159	purple	0.169	0.676	0.0529	0.351	0.292	-0.502	-0.138	0.212	-0.351	0.243
+g__norank_f__Micropepsaceae	g__norank_f__Micropepsaceae	2.39451180002205	g__norank_f__Micropepsaceae	0.6651	purple	0.0627	-0.36	0.119	-0.104	-0.156	0.181	0.0139	-0.309	0.0648	-0.262
+g__norank_f__Microscillaceae	g__norank_f__Microscillaceae	3.30875538132887	g__norank_f__Microscillaceae	0.7414	purple	0.0991	0.298	0.14	0.11	0.196	-0.138	-0.0315	0.0314	-0.278	0.0273
+g__norank_f__Nitrosomonadaceae	g__norank_f__Nitrosomonadaceae	4.961115546694581	g__norank_f__Nitrosomonadaceae	0.8154	purple	0.0587	-0.186	0.13	0.0525	0.0087	0.0241	0.0103	-0.0882	0.0093	-0.159
+g__norank_f__Pedosphaeraceae	g__norank_f__Pedosphaeraceae	2.23848837370741	g__norank_f__Pedosphaeraceae	0.6753	purple	0.212	-0.562	-0.179	-0.0751	-0.126	0.158	0.0659	-0.236	0.22	-0.45
+g__norank_f__Rhodocyclaceae	g__norank_f__Rhodocyclaceae	2.9222501601459996	g__norank_f__Rhodocyclaceae	0.7357	purple	0.0634	0.303	0.225	0.425	0.403	-0.259	0.041	0.121	-0.0062	0.151
+g__norank_f__Rhodospirillaceae	g__norank_f__Rhodospirillaceae	4.945375768510161	g__norank_f__Rhodospirillaceae	0.7577	purple	-0.0351	-0.487	-0.108	-0.152	-0.196	0.252	0.105	-0.253	0.0937	-0.424
+g__norank_f__Silvanigrellaceae	g__norank_f__Silvanigrellaceae	1.26106684543497	g__norank_f__Silvanigrellaceae	0.6089	purple	0.0924	0.336	-0.0783	0.088	0.0818	-0.167	0.0945	0.105	-0.244	0.0464
+g__norank_f__Sneathiellaceae	g__norank_f__Sneathiellaceae	4.11682557357377	g__norank_f__Sneathiellaceae	0.7676	purple	0.0516	-0.139	0.0843	-0.122	-0.168	0.147	0.0519	-0.209	0.0168	-0.271
+g__norank_f__TRA3-20	g__norank_f__TRA3-20	3.3820451189043097	g__norank_f__TRA3-20	0.652	purple	-0.112	-0.411	-0.123	-0.191	-0.248	0.103	-0.0083	-0.398	0.374	-0.0803
+g__norank_o__0319-6G20	g__norank_o__0319-6G20	2.7747308030405597	g__norank_o__0319-6G20	0.6895	purple	0.273	0.508	0.13	0.232	0.215	-0.0344	0.135	0.0901	-0.319	0.063
+g__norank_o__053A03-B-DI-P58	g__norank_o__053A03-B-DI-P58	3.93724832804429	g__norank_o__053A03-B-DI-P58	0.7845	purple	-0.151	-0.407	-0.0944	-0.293	-0.264	0.194	0.103	-0.397	0.355	-0.339
+g__norank_o__AT-s3-44	g__norank_o__AT-s3-44	1.9190017379064899	g__norank_o__AT-s3-44	0.6082	purple	0.102	-0.487	-0.0122	-0.0905	-0.228	0.341	0.0294	-0.192	0.098	-0.199
+g__norank_o__Defluviicoccales	g__norank_o__Defluviicoccales	4.42710496612147	g__norank_o__Defluviicoccales	0.7182	purple	0.101	-0.484	-0.0308	-0.127	-0.303	0.343	0.0855	-0.246	0.223	-0.275
+g__norank_o__Elsterales	g__norank_o__Elsterales	2.37851441894245	g__norank_o__Elsterales	0.6101	purple	0.0307	-0.609	-0.0055	-0.165	-0.213	0.296	0.0588	-0.397	0.334	-0.252
+g__norank_o__Ga0077536	g__norank_o__Ga0077536	4.394473591671829	g__norank_o__Ga0077536	0.7679	purple	-0.308	-0.525	-0.115	-0.368	-0.458	0.526	0.244	-0.485	0.294	-0.2
+g__norank_o__JTB23	g__norank_o__JTB23	2.14289222247143	g__norank_o__JTB23	0.6572	purple	-0.0243	-0.192	-0.0498	-0.117	-0.22	0.22	0.155	-0.287	0.122	-0.238
+g__norank_o__Kapabacteriales	g__norank_o__Kapabacteriales	2.58290437648604	g__norank_o__Kapabacteriales	0.6293	purple	-0.272	-0.386	-0.183	-0.134	-0.192	0.141	0.0945	-0.246	0.318	0.0855
+g__norank_o__KI89A_clade	g__norank_o__KI89A_clade	5.995798590517559	g__norank_o__KI89A_clade	0.8429	purple	-0.003	-0.443	-0.0644	-0.105	-0.222	0.345	0.119	-0.266	0.169	-0.175
+g__norank_o__PB19	g__norank_o__PB19	1.29337828646569	g__norank_o__PB19	0.6077	purple	0.0997	0.12	0.0629	0.174	0.0001	0.114	0.117	0.137	-0.092	-0.0651
+g__norank_o__Rhodospirillales	g__norank_o__Rhodospirillales	2.4055954359950498	g__norank_o__Rhodospirillales	0.7208	purple	0.117	0.0221	0.0086	-0.138	-0.116	0.106	-0.0593	-0.144	-0.121	-0.246
+g__norank_o__Zavarziniales	g__norank_o__Zavarziniales	0.83752162203328	g__norank_o__Zavarziniales	0.476	purple	0.0095	-0.146	-0.0486	0.0239	-0.0154	-0.0179	0.0284	-0.0821	0.121	-0.021
+g__norank_p__Latescibacterota	g__norank_p__Latescibacterota	3.36632752986456	g__norank_p__Latescibacterota	0.7804	purple	0.0993	-0.187	-0.0871	-0.0883	0.0022	0.0298	-0.0606	-0.097	-0.0363	-0.255
+g__norank_p__Margulisbacteria	g__norank_p__Margulisbacteria	3.6060830129396098	g__norank_p__Margulisbacteria	0.6966	purple	-0.0429	-0.582	-0.0852	-0.353	-0.366	0.249	0.086	-0.403	0.229	-0.425
+g__norank_p__NB1-j	g__norank_p__NB1-j	0.88105965242448	g__norank_p__NB1-j	0.5677	purple	0.0557	-0.0378	0.186	-0.151	-0.027	-0.08	-0.0992	-0.0551	0.0048	-0.0195
+g__OM27_clade	g__OM27_clade	0.9244322042631021	g__OM27_clade	0.5724	purple	-0.29	-0.322	0.0134	-0.489	-0.499	0.32	0.102	-0.325	0.292	-0.283
+g__Orthocladius	g__Orthocladius	2.20208494500242	g__Orthocladius	0.6601	purple	-0.0536	-0.577	-0.0224	-0.198	-0.358	0.191	-0.187	-0.0435	0.208	-0.27
+g__Pandorina	g__Pandorina	1.24795466838866	g__Pandorina	0.578	purple	-0.3	0.122	-0.0967	-0.092	-0.0991	-0.0577	-0.0115	0.123	-0.131	0.377
+g__Petalonia	g__Petalonia	3.7526226312353903	g__Petalonia	0.7868	purple	-0.199	-0.0376	-0.121	-0.185	-0.263	0.0603	0.0409	-0.0021	0.0824	-0.244
+g__Phaselicystis	g__Phaselicystis	2.36285814855829	g__Phaselicystis	0.6796	purple	0.0841	-0.0388	-0.0708	-0.0141	0.18	-0.0212	0.0092	-0.146	0.148	-0.0041
+g__Planktothrix_NIVA-CYA_15	g__Planktothrix_NIVA-CYA_15	1.65123722573454	g__Planktothrix_NIVA-CYA_15	0.5301	purple	0.319	0.48	0.208	0.321	0.274	-0.47	-0.234	0.473	-0.446	-0.0989
+g__Prochlorothrix_PCC-9006	g__Prochlorothrix_PCC-9006	2.7935842346797597	g__Prochlorothrix_PCC-9006	0.7106	purple	0.279	0.166	0.0675	0.258	0.353	-0.263	-0.137	0.248	-0.371	-0.0932
+g__Proteomonas	g__Proteomonas	1.6962080679646498	g__Proteomonas	0.6551	purple	-0.507	-0.272	-0.135	-0.375	-0.292	0.103	0.0545	-0.283	0.373	0.138
+g__Pseudogymnoascus	g__Pseudogymnoascus	0.680795421938539	g__Pseudogymnoascus	0.5578	purple	0.0559	-0.0984	-0.0627	0.0621	0.0766	0.0058	0.0397	-0.0738	-0.026	-0.211
+g__Pulveroboletus	g__Pulveroboletus	2.29851901186652	g__Pulveroboletus	0.6742	purple	-0.202	-0.617	-0.117	-0.192	-0.211	0.366	0.161	-0.328	0.452	-0.154
+g__Rhodophyllis	g__Rhodophyllis	1.5359332325663702	g__Rhodophyllis	0.5908	purple	-0.119	0.544	-0.149	0.0721	0.079	-0.283	0.0376	0.11	-0.178	0.139
+g__Sinocalanus	g__Sinocalanus	3.9265670638688	g__Sinocalanus	0.773	purple	-0.187	-0.651	-0.0725	-0.334	-0.393	0.391	0.0715	-0.452	0.338	-0.257
+g__Sulcospira	g__Sulcospira	1.78100229698478	g__Sulcospira	0.6596	purple	-0.252	-0.491	-0.168	-0.314	-0.272	0.291	0.187	-0.351	0.334	-0.241
+g__Terrimonas	g__Terrimonas	1.65953117845905	g__Terrimonas	0.5527	purple	0.288	0.37	0.238	0.0225	0.166	-0.112	-0.0186	0.0658	-0.22	-0.0539
+g__Thraustochytrium	g__Thraustochytrium	1.23360305818483	g__Thraustochytrium	0.5747	purple	-0.12	-0.0949	-0.0701	-0.0978	-0.0743	-0.0106	-0.267	0.0823	-0.0232	-0.231
+g__Ulnaria	g__Ulnaria	3.8151294257016004	g__Ulnaria	0.7967	purple	-0.114	0.0331	-0.119	0.0598	0.0399	-0.291	-0.184	0.163	-0.152	-0.0391
+g__Variovorax	g__Variovorax	2.4384908490371604	g__Variovorax	0.6409	purple	0.359	0.266	0.169	0.356	0.461	0.0003	0.007	0.102	-0.0531	0.0615
+s__Hemiculter_leucisculus	s__Hemiculter_leucisculus	1.05327975848807	s__Hemiculter_leucisculus	0.5593	purple	-0.236	-0.426	0.0072	-0.521	-0.425	0.232	0.0741	-0.561	0.501	-0.284
+s__Tachysurus_nitidus	s__Tachysurus_nitidus	1.5303545598989499	s__Tachysurus_nitidus	0.6136	purple	-0.284	0.27	-0.0417	-0.0734	-0.112	-0.151	-0.12	-0.0288	-0.025	0.442
+s__Xenocypris_davidi	s__Xenocypris_davidi	5.421587655089331	s__Xenocypris_davidi	0.8146	purple	-0.024	-0.558	-0.044	-0.22	-0.293	0.309	0.131	-0.323	0.288	-0.277
+s__Xenocypris_yunnanensis	s__Xenocypris_yunnanensis	2.88369725064327	s__Xenocypris_yunnanensis	0.7277	purple	-0.154	-0.543	-0.108	-0.276	-0.185	0.305	0.0987	-0.373	0.431	-0.28
+g__Eisenia	g__Eisenia	4.57453032799624	g__Eisenia	0.7642	purple										
+g__norank_o__Thalassobaculales	g__norank_o__Thalassobaculales	2.9450542360266	g__norank_o__Thalassobaculales	0.7046	purple										
+g__norank_f__Opitutaceae	g__norank_f__Opitutaceae	2.2225959623667797	g__norank_f__Opitutaceae	0.6352	purple										
+s__Coilia_mystus	s__Coilia_mystus	2.7537037141855896	s__Coilia_mystus	0.6914	purple										
+s__Acrossocheilus_jishouensis	s__Acrossocheilus_jishouensis	1.70082505525462	s__Acrossocheilus_jishouensis	0.5347	purple										
+s__Yunnanilus_nigromaculatus	s__Yunnanilus_nigromaculatus	3.2704385216935496	s__Yunnanilus_nigromaculatus	0.7195	purple										
+s__Parajulis_poecilepterus	s__Parajulis_poecilepterus	1.85694053944702	s__Parajulis_poecilepterus	0.6003	purple										
+s__Cubiceps_squamiceps	s__Cubiceps_squamiceps	1.41079833958493	s__Cubiceps_squamiceps	0.5196	purple										
+s__Hippocampus_trimaculatus	s__Hippocampus_trimaculatus	1.03396882957158	s__Hippocampus_trimaculatus	0.6035	purple										
+s__Planiliza_affinis	s__Planiliza_affinis	6.33576021967293	s__Planiliza_affinis	0.8807	purple										

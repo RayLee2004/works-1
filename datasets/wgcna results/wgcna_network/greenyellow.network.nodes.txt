@@ -1,0 +1,107 @@
+id	name	connectivity	gene_id	kme	module	TN_corr	Temperature_corr	NH3N_corr	TP_corr	TUB_corr	DO_corr	pH_corr	COD_corr	EC_corr	V_corr
+g__Apophysomyces	g__Apophysomyces	0.26443270643494504	g__Apophysomyces	0.3916	greenyellow	-0.399	-0.316	-0.104	-0.353	-0.32	0.102	-0.0152	-0.219	0.369	-0.0717
+g__Ascomorpha	g__Ascomorpha	1.41782793971698	g__Ascomorpha	0.5513	greenyellow	-0.015	0.188	-0.0794	0.0145	0.0394	-0.0931	0.0299	0.16	-0.289	-0.222
+g__Chondracanthus	g__Chondracanthus	22.909791664429196	g__Chondracanthus	0.8855	greenyellow	-0.161	0.0889	-0.0206	-0.065	-0.0964	-0.314	-0.366	0.369	-0.0789	-0.0394
+g__Cyanea	g__Cyanea	2.29465532153804	g__Cyanea	0.5938	greenyellow	-0.0997	0.12	-0.0803	-0.137	-0.165	-0.002	0.061	0.0123	0.0304	-0.137
+g__Cyerce	g__Cyerce	1.24378266915555	g__Cyerce	0.534	greenyellow	-0.219	0.324	-0.0891	-0.0597	-0.0719	0.0032	0.161	-0.148	-0.105	0.24
+g__Daphnia	g__Daphnia	7.21470698338603	g__Daphnia	0.7267	greenyellow	-0.0829	-0.094	-0.0459	-0.126	-0.111	-0.0289	0.0192	-0.118	0.0844	-0.14
+g__Ectopleura	g__Ectopleura	3.6457550644358303	g__Ectopleura	0.6419	greenyellow	0.202	-0.316	0.0019	0.182	0.0065	0.148	0.123	-0.099	0.101	-0.309
+g__Halammohydra	g__Halammohydra	2.87074369095524	g__Halammohydra	0.6079	greenyellow	-0.142	-0.0236	-0.0648	-0.106	-0.16	0.181	0.0208	-0.0106	0.0633	-0.195
+g__Histiona	g__Histiona	0.754116542140161	g__Histiona	0.4794	greenyellow	-0.3	-0.37	-0.0909	-0.327	-0.27	0.203	0.163	-0.297	0.371	-0.15
+g__Karlodinium	g__Karlodinium	7.34161784286278	g__Karlodinium	0.7218	greenyellow	-0.0852	0.134	-0.0339	-0.0579	0.0405	-0.134	0.0068	-0.0797	0.0127	-0.124
+g__Leathesia	g__Leathesia	3.33087424919447	g__Leathesia	0.6332	greenyellow	-0.0568	-0.0103	-0.026	0.488	0.488	-0.0931	0.169	0.172	0.0193	0.133
+g__Lewinella	g__Lewinella	0.208506178677895	g__Lewinella	0.3863	greenyellow	0.2	0.159	-0.0612	0.0151	0.0006	-0.138	0.049	-0.0445	-0.132	-0.139
+g__Melampus	g__Melampus	4.14390824236699	g__Melampus	0.6486	greenyellow	-0.0904	0.166	0.0065	-0.0071	-0.0175	-0.184	-0.074	0.109	0.0487	0.352
+g__Monodopsis	g__Monodopsis	10.3166321868296	g__Monodopsis	0.7578	greenyellow										
+g__Moorebdellina	g__Moorebdellina	0.623098569443606	g__Moorebdellina	0.472	greenyellow	-0.108	-0.116	-0.0295	-0.154	-0.107	0.112	0.34	-0.152	0.257	0.196
+g__Nemopsis	g__Nemopsis	1.1243557772156798	g__Nemopsis	0.527	greenyellow	0.238	-0.151	0.0611	0.113	-0.152	0.23	0.171	0.0319	-0.121	-0.243
+g__norank_f__Balneolaceae	g__norank_f__Balneolaceae	8.90513403966315	g__norank_f__Balneolaceae	0.7214	greenyellow	0.13	0.0407	-0.0319	0.181	0.222	-0.0618	0.0482	0.0642	-0.0457	-0.0721
+g__norank_o__Candidatus_Liptonbacteria	g__norank_o__Candidatus_Liptonbacteria	2.76607958760144	g__norank_o__Candidatus_Liptonbacteria	0.6063	greenyellow	0.275	0.0773	-0.0329	0.0227	0.0057	-0.201	-0.0662	0.0763	-0.0139	-0.0721
+g__norank_o__Candidatus_Staskawiczbacteria	g__norank_o__Candidatus_Staskawiczbacteria	1.30202069586738	g__norank_o__Candidatus_Staskawiczbacteria	0.5192	greenyellow	0.217	0.0762	-0.0336	0.0018	0.0681	-0.152	-0.0796	0.0515	-0.0259	0.0258
+g__norank_o__SZB7	g__norank_o__SZB7	9.053322123684561	g__norank_o__SZB7	0.7382	greenyellow	0.13	0.0407	-0.0319	0.181	0.222	-0.0618	0.0482	0.0642	-0.0457	-0.0721
+g__norank_p__PAUC34f	g__norank_p__PAUC34f	0.31421227612788105	g__norank_p__PAUC34f	0.3678	greenyellow	-0.0046	0.0342	-0.0269	0.0501	0.0547	0.0093	-0.173	0.2	-0.478	-0.0721
+g__Oscarella	g__Oscarella	16.2470244240725	g__Oscarella	0.822	greenyellow	-0.0615	-0.152	-0.0343	-0.116	-0.115	0.0295	-0.0215	-0.0993	0.135	-0.105
+g__Peltigera	g__Peltigera	1.5125596260562102	g__Peltigera	0.5362	greenyellow	-0.0237	-0.175	-0.026	-0.0243	-0.101	0.0751	-0.0197	-0.148	0.0276	-0.163
+g__Phorbas	g__Phorbas	8.31025599025421	g__Phorbas	0.7321	greenyellow	-0.0904	0.134	-0.0342	-0.0223	-0.0251	-0.046	0.0117	-0.0578	0.011	0.287
+g__Plakinastrella	g__Plakinastrella	5.93975692509749	g__Plakinastrella	0.687	greenyellow	0.0678	0.149	-0.0398	-0.0366	-0.0398	-0.166	-0.0274	-0.0901	-0.012	0.0467
+g__Polystrata	g__Polystrata	2.9949770277845498	g__Polystrata	0.6054	greenyellow	-0.231	0.0727	-0.0357	-0.0485	-0.0205	0.0494	0.103	-0.119	0.0359	0.41
+g__Ptilota	g__Ptilota	6.67377502027874	g__Ptilota	0.6969	greenyellow	0.12	0.0981	-0.0271	-0.0294	-0.0316	-0.161	-0.0362	-0.071	-0.0188	-0.0916
+g__Rhodopeltis	g__Rhodopeltis	1.72740999460688	g__Rhodopeltis	0.5583	greenyellow	-0.203	0.0338	-0.0169	-0.0689	-0.0034	0.0385	0.16	-0.078	0.0663	0.287
+g__Ruminiclostridium	g__Ruminiclostridium	0.5490796872836621	g__Ruminiclostridium	0.4557	greenyellow	0.0301	-0.0287	0.55	-0.0764	0.0713	-0.0573	0.161	-0.104	0.115	-0.0031
+g__Setoutiphycus	g__Setoutiphycus	8.816296448722289	g__Setoutiphycus	0.7269	greenyellow	0.185	0.0581	-0.0456	0.259	0.317	-0.0884	0.0688	0.0918	-0.0654	0.0136
+g__Splachnidium	g__Splachnidium	8.58251470190816	g__Splachnidium	0.7316	greenyellow	-0.0459	-0.185	-0.0341	-0.112	-0.0933	0.199	0.108	-0.114	0.0479	-0.157
+g__Sulfurimonas	g__Sulfurimonas	4.63472379779314	g__Sulfurimonas	0.6502	greenyellow	-0.0596	-0.184	-0.0329	-0.123	-0.0992	0.0833	0.0738	-0.137	0.12	-0.105
+g__Thuretia	g__Thuretia	3.58535460819615	g__Thuretia	0.6361	greenyellow	-0.0844	-0.239	-0.0372	-0.173	-0.131	0.129	0.2	-0.18	0.211	-0.0652
+g__Velkovrhia	g__Velkovrhia	7.86527684242726	g__Velkovrhia	0.7341	greenyellow	-0.119	-0.0903	-0.062	-0.111	-0.0894	0.0681	-0.039	-0.0616	-0.113	-0.118
+g__Vimineoleathesia	g__Vimineoleathesia	9.17711471652664	g__Vimineoleathesia	0.7446	greenyellow	-0.152	0.19	-0.0564	-0.0417	-0.0365	-0.0577	0.0104	-0.132	0.0308	0.283
+s__Liobagrus_nigricauda	s__Liobagrus_nigricauda	11.2990204056235	s__Liobagrus_nigricauda	0.7705	greenyellow	-0.159	-0.0651	-0.0435	-0.12	-0.0738	0.119	0.0302	-0.156	0.218	0.0882
+s__Tachysurus_vachellii	s__Tachysurus_vachellii	0.588066659259262	s__Tachysurus_vachellii	0.4628	greenyellow	-0.278	-0.356	-0.0321	-0.358	-0.333	0.205	-0.0546	-0.233	0.31	0.0288
+g__Pseudanabaena_NgrPSln22	g__Pseudanabaena_NgrPSln22	0.6203569741979711	g__Pseudanabaena_NgrPSln22	0.457	greenyellow										
+g__Ballia	g__Ballia	51.2401602872957	g__Ballia	0.9903	greenyellow										
+g__Pantoneura	g__Pantoneura	51.2401602872957	g__Pantoneura	0.9903	greenyellow										
+g__Gymnogongrus	g__Gymnogongrus	51.2401602872957	g__Gymnogongrus	0.9903	greenyellow										
+g__Acrodiscus	g__Acrodiscus	22.0254581733457	g__Acrodiscus	0.8666	greenyellow										
+g__Lesleigha	g__Lesleigha	51.2401602872957	g__Lesleigha	0.9903	greenyellow										
+g__Pylaiella	g__Pylaiella	11.9981051754372	g__Pylaiella	0.7861	greenyellow										
+g__Gymnodinium	g__Gymnodinium	11.7454349425684	g__Gymnodinium	0.7586	greenyellow										
+g__MWH-Ta3	g__MWH-Ta3	51.2401602872957	g__MWH-Ta3	0.9903	greenyellow										
+g__norank_f__Z4MB62	g__norank_f__Z4MB62	51.2401602872957	g__norank_f__Z4MB62	0.9903	greenyellow										
+g__Aneurinibacillus	g__Aneurinibacillus	51.2401602872957	g__Aneurinibacillus	0.9903	greenyellow										
+g__norank_o__RF39	g__norank_o__RF39	51.2401602872957	g__norank_o__RF39	0.9903	greenyellow										
+g__Thermicanus	g__Thermicanus	51.2401602872957	g__Thermicanus	0.9903	greenyellow										
+g__Clostridium_sensu_stricto_6	g__Clostridium_sensu_stricto_6	51.2401602872957	g__Clostridium_sensu_stricto_6	0.9903	greenyellow										
+g__Syntrophomonas	g__Syntrophomonas	51.2401602872957	g__Syntrophomonas	0.9903	greenyellow										
+g__norank_o__Candidatus_Falkowbacteria	g__norank_o__Candidatus_Falkowbacteria	51.2401602872957	g__norank_o__Candidatus_Falkowbacteria	0.9903	greenyellow										
+g__norank_o__Candidatus_Abawacabacteria	g__norank_o__Candidatus_Abawacabacteria	51.2401602872957	g__norank_o__Candidatus_Abawacabacteria	0.9903	greenyellow										
+g__Methylobacillus	g__Methylobacillus	4.67537289936804	g__Methylobacillus	0.6312	greenyellow										
+g__Chujaibacter	g__Chujaibacter	51.2401602872957	g__Chujaibacter	0.9903	greenyellow										
+s__Hemibarbus_barbus	s__Hemibarbus_barbus	51.2401602872957	s__Hemibarbus_barbus	0.9903	greenyellow										
+s__Hemibarbus_labeo	s__Hemibarbus_labeo	23.6990442226056	s__Hemibarbus_labeo	0.8893	greenyellow										
+s__Hemibarbus_longirostris	s__Hemibarbus_longirostris	51.2401602872957	s__Hemibarbus_longirostris	0.9903	greenyellow										
+s__Hemibarbus_maculatus	s__Hemibarbus_maculatus	5.82998750784418	s__Hemibarbus_maculatus	0.6907	greenyellow										
+s__Bostrychus_sinensis	s__Bostrychus_sinensis	3.7707284448083103	s__Bostrychus_sinensis	0.6057	greenyellow										
+s__Periophthalmus_argentilineatus	s__Periophthalmus_argentilineatus	7.80529160950708	s__Periophthalmus_argentilineatus	0.7219	greenyellow										
+s__Pseudogobius_javanicus	s__Pseudogobius_javanicus	5.957662418012051	s__Pseudogobius_javanicus	0.678	greenyellow										
+g__Phlebia	g__Phlebia	12.519017187948801	g__Phlebia	0.7745	greenyellow										
+g__Melanopsichium	g__Melanopsichium	0.654697040178422	g__Melanopsichium	0.4249	greenyellow										
+g__Synarmostes	g__Synarmostes	51.2401602872957	g__Synarmostes	0.9903	greenyellow										
+g__Ficalbia	g__Ficalbia	51.2401602872957	g__Ficalbia	0.9903	greenyellow										
+g__Procloeon	g__Procloeon	51.2401602872957	g__Procloeon	0.9903	greenyellow										
+g__Leptonema	g__Leptonema	51.2401602872957	g__Leptonema	0.9903	greenyellow										
+g__Hamacantha	g__Hamacantha	51.2401602872957	g__Hamacantha	0.9903	greenyellow										
+g__Pseudocorticium	g__Pseudocorticium	51.2401602872957	g__Pseudocorticium	0.9903	greenyellow										
+g__Caspiobdella	g__Caspiobdella	51.2401602872957	g__Caspiobdella	0.9903	greenyellow										
+g__Eurysyllis	g__Eurysyllis	51.2401602872957	g__Eurysyllis	0.9903	greenyellow										
+g__Osedax	g__Osedax	51.2401602872957	g__Osedax	0.9903	greenyellow										
+g__Choeradoplana	g__Choeradoplana	51.2401602872957	g__Choeradoplana	0.9903	greenyellow										
+g__Heterolepidoderma	g__Heterolepidoderma	3.3110190262354497	g__Heterolepidoderma	0.6338	greenyellow										
+g__Opecarcinus	g__Opecarcinus	51.2401602872957	g__Opecarcinus	0.9903	greenyellow										
+g__Taliepus	g__Taliepus	51.2401602872957	g__Taliepus	0.9903	greenyellow										
+g__Scyllarus	g__Scyllarus	51.2401602872957	g__Scyllarus	0.9903	greenyellow										
+g__Awacaris	g__Awacaris	51.2401602872957	g__Awacaris	0.9903	greenyellow										
+g__Heteroxynema	g__Heteroxynema	6.5114016577566805	g__Heteroxynema	0.6822	greenyellow										
+g__Meloidogyne	g__Meloidogyne	51.2401602872957	g__Meloidogyne	0.9903	greenyellow										
+g__Phallocephale	g__Phallocephale	51.2401602872957	g__Phallocephale	0.9903	greenyellow										
+g__Thyonidium	g__Thyonidium	51.2401602872957	g__Thyonidium	0.9903	greenyellow										
+g__Astracme	g__Astracme	27.176182435984302	g__Astracme	0.9075	greenyellow										
+g__Elatonitor	g__Elatonitor	51.2401602872957	g__Elatonitor	0.9903	greenyellow										
+g__Pravonitor	g__Pravonitor	51.2401602872957	g__Pravonitor	0.9903	greenyellow										
+g__Asyncoryne	g__Asyncoryne	21.334293601469103	g__Asyncoryne	0.8589	greenyellow										
+g__Mitrocomella	g__Mitrocomella	6.80935090645125	g__Mitrocomella	0.7077	greenyellow										
+g__Amastra	g__Amastra	51.2401602872957	g__Amastra	0.9903	greenyellow										
+g__Anguispira	g__Anguispira	51.2401602872957	g__Anguispira	0.9903	greenyellow										
+g__Leiostyla	g__Leiostyla	20.3368716924514	g__Leiostyla	0.8622	greenyellow										
+g__Chelidonura	g__Chelidonura	31.012576705374798	g__Chelidonura	0.9245	greenyellow										
+g__Iberozospeum	g__Iberozospeum	51.2401602872957	g__Iberozospeum	0.9903	greenyellow										
+g__Licina	g__Licina	51.2401602872957	g__Licina	0.9903	greenyellow										
+g__Stramonita	g__Stramonita	19.549228356272103	g__Stramonita	0.8505	greenyellow										
+g__Dermatobranchus	g__Dermatobranchus	9.9013635809458	g__Dermatobranchus	0.7512	greenyellow										
+g__Doriopsilla	g__Doriopsilla	51.2401602872957	g__Doriopsilla	0.9903	greenyellow										
+g__Jorunna	g__Jorunna	51.2401602872957	g__Jorunna	0.9903	greenyellow										
+g__Ziminella	g__Ziminella	20.855571500024897	g__Ziminella	0.8602	greenyellow										
+g__Gerstfeldtiancylus	g__Gerstfeldtiancylus	9.3220555623565	g__Gerstfeldtiancylus	0.7307	greenyellow										
+g__Cerithium	g__Cerithium	51.2401602872957	g__Cerithium	0.9903	greenyellow										
+g__Resomia	g__Resomia	51.2401602872957	g__Resomia	0.9903	greenyellow										
+g__Colobonema	g__Colobonema	45.01055032113971	g__Colobonema	0.9725	greenyellow										
+g__Sepioteuthis	g__Sepioteuthis	11.7454349425684	g__Sepioteuthis	0.7586	greenyellow										
+g__Lobonemoides	g__Lobonemoides	51.2401602872957	g__Lobonemoides	0.9903	greenyellow										

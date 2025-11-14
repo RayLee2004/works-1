@@ -1,0 +1,137 @@
+id	name	connectivity	gene_id	kme	module	TN_corr	Temperature_corr	NH3N_corr	TP_corr	TUB_corr	DO_corr	pH_corr	COD_corr	EC_corr	V_corr
+g__Actinophrys	g__Actinophrys	0.118547914267839	g__Actinophrys	0.317	magenta	-0.334	0.0374	-0.114	-0.229	-0.187	0.357	0.411	-0.236	0.063	-0.075
+g__Amplirhagada	g__Amplirhagada	10.648920625304301	g__Amplirhagada	0.7257	magenta	0.0435	-0.16	-0.0488	0.0482	-0.011	0.0135	-0.0263	-0.0365	0.0271	-0.251
+g__Anaerostipes	g__Anaerostipes	1.72443962906625	g__Anaerostipes	0.4622	magenta	-0.0633	-0.175	-0.0343	-0.128	-0.0772	0.0965	0.0376	-0.132	0.16	-0.137
+g__Anisolpidium	g__Anisolpidium	3.52308899358137	g__Anisolpidium	0.6029	magenta	-0.149	-0.125	-0.0585	-0.17	-0.162	-0.108	-0.0942	-0.0253	0.0839	-0.19
+g__Bossiella	g__Bossiella	11.713231303885	g__Bossiella	0.7374	magenta	-0.208	-0.0657	-0.0329	-0.128	-0.0445	0.0849	0.157	-0.138	0.143	0.171
+g__Bulimulus	g__Bulimulus	0.162361433995449	g__Bulimulus	0.3041	magenta	-0.161	0.0889	-0.0206	-0.065	-0.0964	-0.314	-0.366	0.369	-0.0789	-0.0394
+g__Cenolia	g__Cenolia	1.83629066136951	g__Cenolia	0.5117	magenta	-0.255	-0.246	-0.0329	-0.122	-0.106	0.137	0.135	-0.261	0.263	0.0085
+g__Cercospora	g__Cercospora	3.11530717633533	g__Cercospora	0.5886	magenta	-0.114	-0.164	0.145	-0.146	-0.0199	0.0727	-0.0281	-0.157	0.0953	0.0173
+g__Chondrophycus	g__Chondrophycus	16.5741793065417	g__Chondrophycus	0.7848	magenta	0.13	0.0407	-0.0319	0.181	0.222	-0.0618	0.0482	0.0642	-0.0457	-0.0721
+g__Comanthus	g__Comanthus	9.70917024350752	g__Comanthus	0.7045	magenta	-0.0632	0.108	-0.0343	-0.0457	-0.0127	-0.133	0.0927	-0.0641	-0.0943	-0.105
+g__Dichotomaria	g__Dichotomaria	3.58591899832344	g__Dichotomaria	0.6036	magenta	-0.0517	-0.176	-0.0751	-0.0872	-0.0235	0.0739	0.0436	-0.154	0.223	-0.126
+g__Exiligada	g__Exiligada	1.13611009840281	g__Exiligada	0.4842	magenta	-0.174	0.197	-0.004	-0.132	-0.121	-0.0212	-0.0269	-0.0726	-0.0734	0.323
+g__Flaviaesturariibacter	g__Flaviaesturariibacter	0.258034708104822	g__Flaviaesturariibacter	0.34	magenta	-0.0825	0.115	0.004	-0.142	-0.101	-0.0782	-0.0959	-0.0634	-0.0406	-0.016
+g__Fusibacter	g__Fusibacter	7.640827576862151	g__Fusibacter	0.6616	magenta	0.0376	0.0589	-0.0343	0.0616	0.0968	0.0342	-0.0793	0.0108	0.0886	0.0911
+g__Gongolaria	g__Gongolaria	0.36592638826848	g__Gongolaria	0.3405	magenta	0.18	0.14	-0.0468	0.0065	-0.0094	-0.194	-0.0489	0.0315	-0.0054	0.101
+g__Halecium	g__Halecium	4.6366194296946395	g__Halecium	0.5973	magenta	0.13	0.0407	-0.0319	0.181	0.222	-0.0618	0.0482	0.0642	-0.0457	-0.0721
+g__Haloplegma	g__Haloplegma	12.2356619212144	g__Haloplegma	0.7387	magenta	0.0437	0.179	-0.0175	-0.0347	-0.0852	-0.235	-0.0663	-0.0683	0.028	-0.131
+g__Helicotheca	g__Helicotheca	3.5891983733522896	g__Helicotheca	0.5999	magenta	-0.11	-0.203	-0.0158	-0.241	-0.173	0.164	-0.0168	-0.159	-0.0503	-0.166
+g__Heterostelium	g__Heterostelium	16.7843048355209	g__Heterostelium	0.779	magenta	-0.1	0.12	-0.0343	-0.0355	-0.0599	-0.104	0.0409	-0.0902	-0.0548	0.0911
+g__Hincksia	g__Hincksia	0.0769634867200761	g__Hincksia	0.3068	magenta	0.119	-0.24	-0.0488	-0.0491	-0.0946	0.184	0.0056	-0.0889	-0.0467	-0.0944
+g__Hydrosmittia	g__Hydrosmittia	8.99731183350503	g__Hydrosmittia	0.7	magenta	0.275	0.0773	-0.0329	0.0227	0.0057	-0.201	-0.0662	0.0763	-0.0139	-0.0721
+g__Leptarma	g__Leptarma	2.94742881321373	g__Leptarma	0.5792	magenta	-0.0744	0.319	-0.0726	-0.0275	-0.116	0.248	0.25	-0.0234	-0.179	-0.109
+g__Ligia	g__Ligia	4.56157750967663	g__Ligia	0.6281	magenta	-0.136	0.0944	-0.0396	-0.0036	-0.0301	0.0206	-0.0134	-0.0992	-0.0135	0.341
+g__Microplana	g__Microplana	3.14407011070104	g__Microplana	0.5857	magenta	0.0064	-0.237	-0.0049	-0.0816	-0.115	0.204	0.0469	-0.11	0.129	0.0913
+g__Nannarrup	g__Nannarrup	0.7268664779004109	g__Nannarrup	0.4569	magenta	0.136	-0.436	0.0375	-0.0641	-0.208	0.345	0.265	-0.159	0.223	-0.0773
+g__Neoconidiobolus	g__Neoconidiobolus	1.67759217904152	g__Neoconidiobolus	0.5281	magenta	0.0354	0.0962	-0.0243	-0.167	-0.205	0.0332	-0.0202	-0.0824	-0.0472	-0.132
+g__Neoparamoeba	g__Neoparamoeba	0.399702207618569	g__Neoparamoeba	0.3483	magenta	-0.0084	0.227	0.0587	-0.0615	-0.0936	-0.0875	-0.208	0.0816	-0.171	0.156
+g__Nocturama	g__Nocturama	12.3218173766259	g__Nocturama	0.7398	magenta	-0.085	-0.0751	-0.0052	-0.202	-0.0508	0.0248	-0.0828	-0.104	-0.0385	-0.164
+g__norank_f__Beijerinckiaceae	g__norank_f__Beijerinckiaceae	14.3575562601437	g__norank_f__Beijerinckiaceae	0.7564	magenta	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__norank_o__Dadabacteriales	g__norank_o__Dadabacteriales	9.258524213309109	g__norank_o__Dadabacteriales	0.6988	magenta	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__Paludicola	g__Paludicola	23.7850128334451	g__Paludicola	0.8244	magenta	-0.0632	0.108	-0.0343	-0.0457	-0.0127	-0.133	0.0927	-0.0641	-0.0943	-0.105
+g__Parabathynellidae_gen._A_MTG-2007	g__Parabathynellidae_gen._A_MTG-2007	9.24011688828623	g__Parabathynellidae_gen._A_MTG-2007	0.7054	magenta	-0.0854	-0.179	-0.0337	-0.135	-0.0937	0.168	0.0439	-0.123	0.146	0.124
+g__Pelvetia	g__Pelvetia	13.6301806127927	g__Pelvetia	0.7517	magenta	-0.0237	-0.175	-0.026	-0.0243	-0.101	0.0751	-0.0197	-0.148	0.0276	-0.163
+g__Periphylla	g__Periphylla	42.521612385109	g__Periphylla	0.9091	magenta										
+g__Plationus	g__Plationus	4.76491317969423	g__Plationus	0.6369	magenta	-0.221	0.207	-0.051	-0.0406	-0.0325	-0.141	-0.0384	0.148	-0.17	0.253
+g__Plesiomonas	g__Plesiomonas	7.57825882049036	g__Plesiomonas	0.6792	magenta	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__Probuccinum	g__Probuccinum	0.19994816343611	g__Probuccinum	0.3274	magenta	-0.0049	0.156	-0.0545	-0.0219	0.0041	-0.14	-0.0926	-0.0393	-0.193	-0.2
+g__Pseudorhodoplanes	g__Pseudorhodoplanes	3.56713882211363	g__Pseudorhodoplanes	0.5891	magenta	0.211	0.0845	-0.0421	-0.0361	0.113	-0.129	-0.113	0.0291	-0.0581	0.002
+g__Sarika	g__Sarika	3.66157472125776	g__Sarika	0.5982	magenta	-0.066	0.142	-0.0457	-0.0343	-0.0613	-0.118	0.007	-0.121	-0.0495	-0.0351
+g__Schizymenia	g__Schizymenia	23.0538976177447	g__Schizymenia	0.8226	magenta	0.12	0.0981	-0.0271	-0.0294	-0.0316	-0.161	-0.0362	-0.071	-0.0188	-0.0916
+g__Scopulariopsis	g__Scopulariopsis	2.68955544556333	g__Scopulariopsis	0.5814	magenta	-0.145	-0.342	-0.0607	-0.243	-0.193	0.162	0.174	-0.267	0.279	-0.218
+g__Shewanella	g__Shewanella	0.524079001380197	g__Shewanella	0.4073	magenta	-0.155	-0.234	-0.0586	-0.152	-0.137	0.0747	-0.164	0.0526	0.137	0.0137
+g__Sphaerodoropsis	g__Sphaerodoropsis	15.7674345369681	g__Sphaerodoropsis	0.7722	magenta	-0.152	0.108	-0.0321	-0.0324	-0.0113	0.0034	0.0267	-0.0849	0.0503	0.287
+g__Sporosarcina	g__Sporosarcina	0.517684473836248	g__Sporosarcina	0.4276	magenta	-0.106	0.202	-0.0343	-0.0274	-0.0601	0.419	0.332	0.176	-0.184	-0.118
+g__Staurocladia	g__Staurocladia	0.47468537655609705	g__Staurocladia	0.4191	magenta	-0.156	-0.143	-0.0117	-0.196	-0.191	0.116	-0.0049	-0.197	0.164	0.0254
+g__Thyroscyphus	g__Thyroscyphus	39.3661011221317	g__Thyroscyphus	0.8989	magenta	-0.161	0.0889	-0.0206	-0.065	-0.0964	-0.314	-0.366	0.369	-0.0789	-0.0394
+g__Tomocerina	g__Tomocerina	0.0608333105077619	g__Tomocerina	0.3015	magenta	0.0052	-0.373	0.0095	-0.0675	-0.189	0.107	0.133	-0.184	0.172	-0.308
+g__UCG-002	g__UCG-002	1.33349562580248	g__UCG-002	0.4043	magenta	-0.0633	-0.175	-0.0343	-0.128	-0.0772	0.0965	0.0376	-0.132	0.16	-0.137
+s__Parabramis_pekinensis	s__Parabramis_pekinensis	2.80723485504838	s__Parabramis_pekinensis	0.5767	magenta	-0.19	-0.152	-0.0698	-0.15	-0.0973	0.0956	0.0458	-0.165	0.274	0.181
+g__Bangia	g__Bangia	73.1014927599405	g__Bangia	0.9968	magenta										
+g__Wildemania	g__Wildemania	21.718491420634397	g__Wildemania	0.8129	magenta										
+g__Metagoniolithon	g__Metagoniolithon	73.1014927599405	g__Metagoniolithon	0.9968	magenta										
+g__Amphiplexia	g__Amphiplexia	15.1909882027265	g__Amphiplexia	0.7341	magenta										
+g__Antrocentrum	g__Antrocentrum	73.1014927599405	g__Antrocentrum	0.9968	magenta										
+g__Austroclonium	g__Austroclonium	73.1014927599405	g__Austroclonium	0.9968	magenta										
+g__Pterocladiophila	g__Pterocladiophila	73.1014927599405	g__Pterocladiophila	0.9968	magenta										
+g__Polyopes	g__Polyopes	73.1014927599405	g__Polyopes	0.9968	magenta										
+g__Pseudoralfsia	g__Pseudoralfsia	73.1014927599405	g__Pseudoralfsia	0.9968	magenta										
+g__Lithoderma	g__Lithoderma	73.1014927599405	g__Lithoderma	0.9968	magenta										
+g__Amphiprora	g__Amphiprora	73.1014927599405	g__Amphiprora	0.9968	magenta										
+g__Azadinium	g__Azadinium	73.1014927599405	g__Azadinium	0.9968	magenta										
+g__norank_f__Acidobacteriaceae_Subgroup_1	g__norank_f__Acidobacteriaceae_Subgroup_1	73.1014927599405	g__norank_f__Acidobacteriaceae_Subgroup_1	0.9968	magenta										
+g__norank_c__Subgroup_20	g__norank_c__Subgroup_20	73.1014927599405	g__norank_c__Subgroup_20	0.9968	magenta										
+g__Atopobium	g__Atopobium	73.1014927599405	g__Atopobium	0.9968	magenta										
+g__Marinoscillum	g__Marinoscillum	73.1014927599405	g__Marinoscillum	0.9968	magenta										
+g__norank_f__S15A-MN91	g__norank_f__S15A-MN91	73.1014927599405	g__norank_f__S15A-MN91	0.9968	magenta										
+g__norank_f__Bacteriovoracaceae	g__norank_f__Bacteriovoracaceae	73.1014927599405	g__norank_f__Bacteriovoracaceae	0.9968	magenta										
+g__norank_f__WCHB1-02	g__norank_f__WCHB1-02	73.1014927599405	g__norank_f__WCHB1-02	0.9968	magenta										
+g__norank_o__FS117-23B-02	g__norank_o__FS117-23B-02	73.1014927599405	g__norank_o__FS117-23B-02	0.9968	magenta										
+g__Thermosporothrix	g__Thermosporothrix	73.1014927599405	g__Thermosporothrix	0.9968	magenta										
+g__Deferrisoma	g__Deferrisoma	12.883421614407	g__Deferrisoma	0.7319	magenta										
+g__Trichlorobacter	g__Trichlorobacter	73.1014927599405	g__Trichlorobacter	0.9968	magenta										
+g__Sarcina	g__Sarcina	73.1014927599405	g__Sarcina	0.9968	magenta										
+g__norank_f__Syntrophomonadaceae	g__norank_f__Syntrophomonadaceae	73.1014927599405	g__norank_f__Syntrophomonadaceae	0.9968	magenta										
+g__norank_f__Nannocystaceae	g__norank_f__Nannocystaceae	25.8812579531576	g__norank_f__Nannocystaceae	0.828	magenta										
+g__Inquilinus	g__Inquilinus	73.1014927599405	g__Inquilinus	0.9968	magenta										
+g__Pelagibacterium	g__Pelagibacterium	27.6638608626759	g__Pelagibacterium	0.8443	magenta										
+g__Pseudogulbenkiania	g__Pseudogulbenkiania	73.1014927599405	g__Pseudogulbenkiania	0.9968	magenta										
+g__IS-44	g__IS-44	73.1014927599405	g__IS-44	0.9968	magenta										
+g__Azovibrio	g__Azovibrio	73.1014927599405	g__Azovibrio	0.9968	magenta										
+g__Methyloglobulus	g__Methyloglobulus	19.895759283655398	g__Methyloglobulus	0.7987	magenta										
+g__Ellin517	g__Ellin517	73.1014927599405	g__Ellin517	0.9968	magenta										
+s__Aphyocypris_moltrechti	s__Aphyocypris_moltrechti	73.1014927599405	s__Aphyocypris_moltrechti	0.9968	magenta										
+s__Sebastes_fasciatus	s__Sebastes_fasciatus	73.1014927599405	s__Sebastes_fasciatus	0.9968	magenta										
+s__Sebastes_koreanus	s__Sebastes_koreanus	73.1014927599405	s__Sebastes_koreanus	0.9968	magenta										
+s__Sebastes_norvegicus	s__Sebastes_norvegicus	63.9313896978979	s__Sebastes_norvegicus	0.9754	magenta										
+s__Sebastes_schlegelii	s__Sebastes_schlegelii	64.47311219113949	s__Sebastes_schlegelii	0.9796	magenta										
+s__Sebastes_steindachneri	s__Sebastes_steindachneri	73.1014927599405	s__Sebastes_steindachneri	0.9968	magenta										
+s__Sebastes_trivittatus	s__Sebastes_trivittatus	73.1014927599405	s__Sebastes_trivittatus	0.9968	magenta										
+s__Sebastes_variabilis	s__Sebastes_variabilis	73.1014927599405	s__Sebastes_variabilis	0.9968	magenta										
+g__Zymoseptoria	g__Zymoseptoria	16.296190674834	g__Zymoseptoria	0.773	magenta										
+g__Arthroderma	g__Arthroderma	73.1014927599405	g__Arthroderma	0.9968	magenta										
+g__Epichloe	g__Epichloe	73.1014927599405	g__Epichloe	0.9968	magenta										
+g__Hexanchorus	g__Hexanchorus	73.1014927599405	g__Hexanchorus	0.9968	magenta										
+g__Fallceon	g__Fallceon	73.1014927599405	g__Fallceon	0.9968	magenta										
+g__Lysmus	g__Lysmus	8.88214184069534	g__Lysmus	0.6871	magenta										
+g__Isoptena	g__Isoptena	15.1909882027265	g__Isoptena	0.7341	magenta										
+g__Chondrilla	g__Chondrilla	73.1014927599405	g__Chondrilla	0.9968	magenta										
+g__Gelliodes	g__Gelliodes	15.875823191761501	g__Gelliodes	0.7726	magenta										
+g__Paratimea	g__Paratimea	26.797872510459598	g__Paratimea	0.8422	magenta										
+g__Fragilonemertes	g__Fragilonemertes	73.1014927599405	g__Fragilonemertes	0.9968	magenta										
+g__Nasima	g__Nasima	73.1014927599405	g__Nasima	0.9968	magenta										
+g__Sicyonia	g__Sicyonia	73.1014927599405	g__Sicyonia	0.9968	magenta										
+g__Haliporoides	g__Haliporoides	73.1014927599405	g__Haliporoides	0.9968	magenta										
+g__Cyphocaris	g__Cyphocaris	73.1014927599405	g__Cyphocaris	0.9968	magenta										
+g__Vibilia	g__Vibilia	73.1014927599405	g__Vibilia	0.9968	magenta										
+g__Nannaria	g__Nannaria	15.1909882027265	g__Nannaria	0.7341	magenta										
+g__Anthostella	g__Anthostella	73.1014927599405	g__Anthostella	0.9968	magenta										
+g__Caenorhabditis	g__Caenorhabditis	73.1014927599405	g__Caenorhabditis	0.9968	magenta										
+g__Paracentrotus	g__Paracentrotus	73.1014927599405	g__Paracentrotus	0.9968	magenta										
+g__Urodasys	g__Urodasys	26.999408529059302	g__Urodasys	0.8479	magenta										
+g__Planorbula	g__Planorbula	73.1014927599405	g__Planorbula	0.9968	magenta										
+g__Faustina	g__Faustina	23.0413022791874	g__Faustina	0.8157	magenta										
+g__Malagazzia	g__Malagazzia	4.5778315604083	g__Malagazzia	0.6184	magenta										
+g__Placostylus	g__Placostylus	32.4190375616669	g__Placostylus	0.8667	magenta										
+g__Oophana	g__Oophana	73.1014927599405	g__Oophana	0.9968	magenta										
+g__Catinella	g__Catinella	63.47957972084371	g__Catinella	0.9749	magenta										
+g__Mekongia	g__Mekongia	30.2199960247359	g__Mekongia	0.8609	magenta										
+g__Viviparus	g__Viviparus	18.1247488543732	g__Viviparus	0.7786	magenta										
+g__Haloa	g__Haloa	3.67152702017404	g__Haloa	0.5956	magenta										
+g__Phanerophthalmus	g__Phanerophthalmus	73.1014927599405	g__Phanerophthalmus	0.9968	magenta										
+g__Chondrothyra	g__Chondrothyra	73.1014927599405	g__Chondrothyra	0.9968	magenta										
+g__Fluviopupa	g__Fluviopupa	73.1014927599405	g__Fluviopupa	0.9968	magenta										
+g__Truncatella	g__Truncatella	73.1014927599405	g__Truncatella	0.9968	magenta										
+g__Nipponaphera	g__Nipponaphera	73.1014927599405	g__Nipponaphera	0.9968	magenta										
+g__Bullia	g__Bullia	67.1357629948877	g__Bullia	0.9825	magenta										
+g__Hastula	g__Hastula	73.1014927599405	g__Hastula	0.9968	magenta										
+g__Ardeadoris	g__Ardeadoris	73.1014927599405	g__Ardeadoris	0.9968	magenta										
+g__Phyllodesmium	g__Phyllodesmium	61.428766744622706	g__Phyllodesmium	0.9686	magenta										
+g__Bolma	g__Bolma	73.1014927599405	g__Bolma	0.9968	magenta										
+g__Murchisonella	g__Murchisonella	73.1014927599405	g__Murchisonella	0.9968	magenta										
+g__Certesella	g__Certesella	12.8121556894754	g__Certesella	0.7123	magenta										
+g__Pontostratiotes	g__Pontostratiotes	39.41444139353921	g__Pontostratiotes	0.9002	magenta										
+g__Cytheridella	g__Cytheridella	73.1014927599405	g__Cytheridella	0.9968	magenta										
+g__Philodina	g__Philodina	51.1944079878075	g__Philodina	0.9415	magenta										
+g__Squamamoeba	g__Squamamoeba	73.1014927599405	g__Squamamoeba	0.9968	magenta										

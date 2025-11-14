@@ -1,0 +1,53 @@
+id	name	connectivity	gene_id	kme	module	TN_corr	Temperature_corr	NH3N_corr	TP_corr	TUB_corr	DO_corr	pH_corr	COD_corr	EC_corr	V_corr
+g__Acetoanaerobium	g__Acetoanaerobium	9.22348464267992	g__Acetoanaerobium	0.8207	salmon	-0.193	-0.175	-0.0193	-0.0683	-0.0619	0.14	0.08	-0.212	0.198	0.0911
+g__Agathobacter	g__Agathobacter	1.20530949120445	g__Agathobacter	0.5911	salmon	-0.0633	-0.175	-0.0343	-0.128	-0.0772	0.0965	0.0376	-0.132	0.16	-0.137
+g__Arthrothamnus	g__Arthrothamnus	0.24341092795124802	g__Arthrothamnus	0.4501	salmon										
+g__Candidatus_Jidaibacter	g__Candidatus_Jidaibacter	0.7335034669609329	g__Candidatus_Jidaibacter	0.519	salmon	0.16	0.0751	-0.0343	-0.019	0.131	-0.104	-0.093	0.0268	-0.038	0.0258
+g__Clostridium_sensu_stricto_14	g__Clostridium_sensu_stricto_14	1.4781292965308899	g__Clostridium_sensu_stricto_14	0.6062	salmon										
+g__Delamarea	g__Delamarea	4.178115519596981	g__Delamarea	0.7213	salmon	-0.0632	0.108	-0.0343	-0.0457	-0.0127	-0.133	0.0927	-0.0641	-0.0943	-0.105
+g__Desulfovibrio	g__Desulfovibrio	0.934599635356107	g__Desulfovibrio	0.5635	salmon	0.0821	-0.0182	0.331	-0.0309	0.0432	-0.0718	-0.149	-0.089	-0.0185	-0.0974
+g__Labrundinia	g__Labrundinia	2.72513592555412	g__Labrundinia	0.6676	salmon	-0.0744	0.189	-0.0482	-0.0899	-0.0516	-0.359	-0.233	0.129	-0.0501	-0.151
+g__norank_f__Deinococcaceae	g__norank_f__Deinococcaceae	1.9783725676936001	g__norank_f__Deinococcaceae	0.6384	salmon	-0.0487	-0.185	-0.032	-0.14	-0.112	0.123	0.105	-0.15	0.162	-0.105
+g__norank_f__T34	g__norank_f__T34	10.6162197090121	g__norank_f__T34	0.8417	salmon	-0.0084	0.227	0.0587	-0.0615	-0.0936	-0.0875	-0.208	0.0816	-0.171	0.156
+g__Paludibacter	g__Paludibacter	0.599952879312566	g__Paludibacter	0.5174	salmon	-0.0358	-0.293	-0.0872	-0.221	-0.0654	0.196	0.182	-0.221	0.325	-0.0283
+g__Parabacteroides	g__Parabacteroides	5.632818438658401	g__Parabacteroides	0.7592	salmon	0.275	0.0773	-0.0329	0.0227	0.0057	-0.201	-0.0662	0.0763	-0.0139	-0.0721
+g__Rivicola	g__Rivicola	0.6991480218278431	g__Rivicola	0.5243	salmon	-0.173	-0.0361	0.17	0.0701	0.0626	-0.0589	0.0613	-0.0875	0.102	0.133
+g__Ruminococcus	g__Ruminococcus	5.500515110317039	g__Ruminococcus	0.7483	salmon	-0.0313	0.0538	0.0112	-0.0777	-0.1	-0.0374	-0.104	-0.0653	0.0227	0.135
+g__Tinocladia	g__Tinocladia	0.43813237130258204	g__Tinocladia	0.4169	salmon	-0.21	0.232	-0.0012	-0.0951	-0.0764	0.189	0.181	0.0644	-0.12	0.237
+s__Micropterus_salmoides	s__Micropterus_salmoides	0.267146868852499	s__Micropterus_salmoides	0.4482	salmon	0.14	-0.188	-0.058	-0.0704	-0.134	0.0499	-0.0465	-0.0469	-0.141	-0.0949
+s__Silurus_meridionalis	s__Silurus_meridionalis	4.0038384989462	s__Silurus_meridionalis	0.7042	salmon	-0.0904	0.134	-0.0342	-0.0223	-0.0251	-0.046	0.0117	-0.0578	0.011	0.287
+g__Chalicogloea_CCALA_975	g__Chalicogloea_CCALA_975	29.5728724253499	g__Chalicogloea_CCALA_975	0.9962	salmon										
+g__Benzaitenia	g__Benzaitenia	29.5728724253499	g__Benzaitenia	0.9962	salmon										
+g__Schmitzia	g__Schmitzia	29.5728724253499	g__Schmitzia	0.9962	salmon										
+g__Stereocladon	g__Stereocladon	1.20226521221794	g__Stereocladon	0.5928	salmon										
+g__norank_f__Actinomycetaceae	g__norank_f__Actinomycetaceae	29.5728724253499	g__norank_f__Actinomycetaceae	0.9962	salmon										
+g__norank_f__M2PB4-65_termite_group	g__norank_f__M2PB4-65_termite_group	29.5728724253499	g__norank_f__M2PB4-65_termite_group	0.9962	salmon										
+g__norank_f__Rikenellaceae	g__norank_f__Rikenellaceae	29.5728724253499	g__norank_f__Rikenellaceae	0.9962	salmon										
+g__norank_o__Bacteroidales	g__norank_o__Bacteroidales	29.5728724253499	g__norank_o__Bacteroidales	0.9962	salmon										
+g__norank_o__Campylobacterales	g__norank_o__Campylobacterales	29.5728724253499	g__norank_o__Campylobacterales	0.9962	salmon										
+g__Fibrobacter	g__Fibrobacter	29.5728724253499	g__Fibrobacter	0.9962	salmon										
+g__Butyrivibrio	g__Butyrivibrio	29.5728724253499	g__Butyrivibrio	0.9962	salmon										
+g__Eubacterium_xylanophilum_group	g__Eubacterium_xylanophilum_group	29.5728724253499	g__Eubacterium_xylanophilum_group	0.9962	salmon										
+g__Lachnospiraceae_NK4A136_group	g__Lachnospiraceae_NK4A136_group	29.5728724253499	g__Lachnospiraceae_NK4A136_group	0.9962	salmon										
+g__Lachnospiraceae_XPB1014_group	g__Lachnospiraceae_XPB1014_group	29.5728724253499	g__Lachnospiraceae_XPB1014_group	0.9962	salmon										
+g__XBB1006	g__XBB1006	11.6121198043549	g__XBB1006	0.8567	salmon										
+g__UCG-009	g__UCG-009	29.5728724253499	g__UCG-009	0.9962	salmon										
+g__UCG-005	g__UCG-005	29.5728724253499	g__UCG-005	0.9962	salmon										
+g__norank_f__UCG-010	g__norank_f__UCG-010	29.5728724253499	g__norank_f__UCG-010	0.9962	salmon										
+g__Amnipila	g__Amnipila	29.5728724253499	g__Amnipila	0.9962	salmon										
+g__Saccharofermentans	g__Saccharofermentans	29.5728724253499	g__Saccharofermentans	0.9962	salmon										
+g__norank_f__Leptotrichiaceae	g__norank_f__Leptotrichiaceae	29.5728724253499	g__norank_f__Leptotrichiaceae	0.9962	salmon										
+g__Methylosarcina	g__Methylosarcina	29.5728724253499	g__Methylosarcina	0.9962	salmon										
+g__Moraxella	g__Moraxella	29.5728724253499	g__Moraxella	0.9962	salmon										
+g__Aminomonas	g__Aminomonas	29.5728724253499	g__Aminomonas	0.9962	salmon										
+g__Lactivibrio	g__Lactivibrio	29.5728724253499	g__Lactivibrio	0.9962	salmon										
+s__Tridentiger_bifasciatus	s__Tridentiger_bifasciatus	3.89668489474153	s__Tridentiger_bifasciatus	0.7027	salmon										
+g__Gliomastix	g__Gliomastix	0.929932009248032	g__Gliomastix	0.5636	salmon										
+g__Gelasimus	g__Gelasimus	3.82552715743209	g__Gelasimus	0.71	salmon										
+g__Phyllangia	g__Phyllangia	29.5728724253499	g__Phyllangia	0.9962	salmon										
+g__Koerneria	g__Koerneria	29.5728724253499	g__Koerneria	0.9962	salmon										
+g__Litoditis	g__Litoditis	29.5728724253499	g__Litoditis	0.9962	salmon										
+g__Nodulabium	g__Nodulabium	3.11578961466902	g__Nodulabium	0.6982	salmon										
+g__Halitholus	g__Halitholus	29.5728724253499	g__Halitholus	0.9962	salmon										
+g__Perdicella	g__Perdicella	22.6504698765988	g__Perdicella	0.961	salmon										
+g__Stephanomia	g__Stephanomia	16.8977298009939	g__Stephanomia	0.909	salmon										
