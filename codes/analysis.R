@@ -1,6 +1,6 @@
 # Editor: Li Ruihong (Department of Environmental Science, Chongqing University)
 # this file includes: (1-2) richness, diversity, synchrony and stability of taxonomic groups 
-#                     (3) meta-web metrics (4) pSEM (5) model compensating effects
+#                     (3) meta-web metrics (4) pSEM (5) model compensating effects (6) LLM
 
 # Load packages
 packages <- c(
@@ -349,7 +349,7 @@ deleted_species <- read.table(
 )[, 1]
 data <- data[!data[, 1] %in% deleted_species, ]
 
-# Repeat meta-web metrics calculation (as in Part.1)
+# Repeat meta-web metrics calculation (as in Part.3)
 species_col <- 'species'
 for (colname in names(data)[-1]) {
   tmp <- data[data[[colname]] != 0, species_col, drop = FALSE]
@@ -607,3 +607,4 @@ model <- lmer(vulnerability ~ Temperature + pH + DO + COD + NH3N + TP + TN + EC+
 summary(model)
 car::vif(model) # Collinearity of the independent variables
 performance::r2(model)# R2 statistic value
+
