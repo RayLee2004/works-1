@@ -652,7 +652,7 @@ ggsave(
 ## Fish - Algae
 # Read data
 rm(list = ls())
-load('C:/Users/23926/Desktop/works/#1 datasets and codes/datasets/merged datasets.Rdata')
+load('C:/Users/23926/Desktop/works/#1 datasets and codes/datasets/merged_datasets.Rdata')
 
 # Standardize datasets and extract pcoa coordinates
 transpose <- function(y) {
@@ -1909,4 +1909,5 @@ p <- ggplot() +
 ggsave(
   'C:/Users/23926/Desktop/works/#1 datasets and codes/codes/figures/Robustness.png', 
   plot = p, width = 9, height = 6, dpi = 300
+
 )
