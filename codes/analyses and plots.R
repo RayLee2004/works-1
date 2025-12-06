@@ -1,18 +1,18 @@
-#     CONTENT OF THIS R CODE SCRIPTS
+#     CONTENT OF THIS R CODE SCRIPT
 #  1. Richness, Shannon diversity, Synchrony and Stability Calculating 
 #  2. Meta-Network Metrics Calculating
 #  3. Piecewise Structural Equation Models (pSEM) Fitting
 #  4. Beta Diversity Decomposition of Taxonomic Groups
 #  5. Model Compensating Effects Analysis
 #  6. Model Compensating Effects Plots
-#  7. Linear Mixed Effects Models (LLM) Fitting of Env/Eco Factors
+#  7. Linear Mixed Effects Models (LLM) Fitting of Taxonomic Groups - Environment
 #  8. RDA Analysis and Plot of Taxonomic Groups - Environment
 #  9. PCoA & Ecotraj Analysis and Plot of Taxonomic Groups
-# 10. PCoA & Path Length of Multiple Ecological Indices 
+# 10. PCoA & Ecotraj Analysis and Plot of Multiple Ecological Indices 
 # 11. Procrustes Analysis for Pairings of Taxonomic Groups
 
-
 # Editor: Li Ruihong (Department of Environmental Science, Chongqing University)
+# R verison: 4.5.0
 
 ###### ================================================================= ######
 ######         Load the packages required for this script to run         ######
@@ -31,7 +31,7 @@ installed <- installed.packages()[, "Package"]
 # download uninstalled packages
 install.packages(pre.packages[!pre.packages %in% installed], dependencies = TRUE) 
 # load all packages
-lapply(pre.packages, library, character.only = TRUE) 
+lapply(pre.packages, library) 
 
 ###### ================================================================= ######
 ######   1. Richness, Shannon diversity, Synchrony and Stability Calculating 
@@ -668,86 +668,89 @@ write.xlsx(yellow.module.comp, 'C:/Users/23926/Desktop/works/#1 datasets and cod
 rm(list = ls()) # clear the R-environment
 
 # save horizontal line and CV values of each index
-{
-  metrics <- list(
-    list(
-      name = "Mean Path Length",
-      baseline_values = c(1.162488958, 1.233940422, 1.468541456, 1.294841298),
-      legend_labels = c(
-        "2022" = "2022  CV=0.005", 
-        "2023" = "2023  CV=0.007",
-        "2024" = "2024  CV=0.019",  
-        "2025" = "2025  CV=0.007"
-      ),
-      y_limits = c(1.14, 1.5)
+
+metrics <- list(
+  list(
+    name = "Mean Path Length",
+    baseline_values = c(1.16272009090935, 1.23505188710532, 1.46331047802431, 1.29341513036376),
+    legend_labels = c(
+      "2022" = "2022  CV=0.005", 
+      "2023" = "2023  CV=0.007",
+      "2024" = "2024  CV=0.019",  
+      "2025" = "2025  CV=0.007"
     ),
-    list(
-      name = "Connectance",
-      baseline_values = c(0.1373143333, 0.1222612264, 0.06741378756, 0.09476242467),
-      legend_labels = c(
-        "2022" = "2022  CV=0.019", 
-        "2023" = "2023  CV=0.021",
-        "2024" = "2024  CV=0.170",  
-        "2025" = "2025  CV=0.028"
-      ),
-      y_limits = c(0.05, 0.16)
+    y_limits = c(1.14, 1.5)
+  ),
+  list(
+    name = "Connectance",
+    baseline_values = c(0.137263512862, 0.122235676972, 0.06992300223778, 0.09501930418573),
+    legend_labels = c(
+      "2022" = "2022  CV=0.019", 
+      "2023" = "2023  CV=0.021",
+      "2024" = "2024  CV=0.170",  
+      "2025" = "2025  CV=0.028"
     ),
-    list(
-      name = "Modularity",
-      baseline_values = c(0.05526768333, 0.08118164028, 0.124806275, 0.05914249222),
-      legend_labels = c(
-        "2022" = "2022  CV=0.038", 
-        "2023" = "2023  CV=0.048",
-        "2024" = "2024  CV=0.071",  
-        "2025" = "2025  CV=0.057"
-      ),
-      y_limits = c(0.04, 0.145)
+    y_limits = c(0.05, 0.16)
+  ),
+  list(
+    name = "Modularity",
+    baseline_values = c(0.0563191399657, 0.07898734621891, 0.12499501647558, 0.06054647852362),
+    legend_labels = c(
+      "2022" = "2022  CV=0.038", 
+      "2023" = "2023  CV=0.048",
+      "2024" = "2024  CV=0.071",  
+      "2025" = "2025  CV=0.057"
     ),
-    list(
-      name = "Nestedness",
-      baseline_values = c(84.87469389, 85.62822939, 82.36244733),
-      legend_labels = c(
-        "2022" = "2022  CV=0.009", 
-        "2023" = "2023  CV=0.008",
-        "2024" = "2024  CV=0.007",  
-        "2025" = "2025  CV=0.007"
-      ),
-      y_limits = c(80, 88)
+    y_limits = c(0.04, 0.145)
+  ),
+  list(
+    name = "Nestedness",
+    baseline_values = c(85.5267598191022,84.8799086788977,85.5215038792, 82.4325188965589),
+    legend_labels = c(
+      "2022" = "2022  CV=0.009", 
+      "2023" = "2023  CV=0.008",
+      "2024" = "2024  CV=0.007",  
+      "2025" = "2025  CV=0.007"
     ),
-    list(
-      name = "Vulnerability",
-      baseline_values = c(214.3640539, 119.9470125, 279.8278948),
-      legend_labels = c(
-        "2022" = "2022  CV=0.043", 
-        "2023" = "2023  CV=0.054",
-        "2024" = "2024  CV=0.043",  
-        "2025" = "2025  CV=0.048"
-      ),
-      y_limits = c(105, 300)
+    y_limits = c(80, 88)
+  ),
+  list(
+    name = "Vulnerability",
+    baseline_values = c(208.395311918981,209.234801431571, 117.213695958597, 272.665115513709),
+    legend_labels = c(
+      "2022" = "2022  CV=0.043", 
+      "2023" = "2023  CV=0.054",
+      "2024" = "2024  CV=0.043",  
+      "2025" = "2025  CV=0.048"
     ),
-    list(
-      name = "Robustness",
-      baseline_values = c(0.4424948867, 0.4356060338, 0.2837738379, 0.3604388324),
-      legend_labels = c(
-        "2022" = "2022  CV=0.009", 
-        "2023" = "2023  CV=0.015",
-        "2024" = "2024  CV=0.059",  
-        "2025" = "2025  CV=0.016"
-      ),
-      y_limits = c(0.2, 0.455)
-    )
+    y_limits = c(105, 300)
+  ),
+  list(
+    name = "Robustness",
+    baseline_values = c(0.43999832075221, 0.43377311183886, 0.28600024465684, 0.3573629107423),
+    legend_labels = c(
+      "2022" = "2022  CV=0.009", 
+      "2023" = "2023  CV=0.015",
+      "2024" = "2024  CV=0.059",  
+      "2025" = "2025  CV=0.016"
+    ),
+    y_limits = c(0.2, 0.455)
   )
-}
+)
+
 
 colors <- c("2022" = "#647ADD",
             "2023" = "#C0C0C0",
             "2024" = "#FFDF69",
             "2025" = "#F5664D")
 
+
+
 # define the functions for batch analysis and plotting
+# 需先加载dplyr（分组求和用），若未加载请先运行：library(dplyr)
 plot_metric <- function(metric_info) {
   # clear redundant objects
-  rm(list = setdiff(ls(), c("metric_info", "colors")))
+  rm(list = setdiff(ls(), c("metric_info", "colors", "plot_metric", "metrics")))
   
   # read data sets
   file_path <- paste0(
@@ -755,33 +758,104 @@ plot_metric <- function(metric_info) {
     tolower(gsub(" ", "_", metric_info$name)), 
     '.xlsx'
   )
+  
   data_ave <- read.xlsx(file_path, 1)
   data_range <- read.xlsx(file_path, 2)
-  module_levels <- unique(data_ave$module)
-  data_ave$module_id <- as.numeric(factor(data_ave$module, levels = module_levels))
-  data_range$module_id <- as.numeric(factor(data_range$module, levels = module_levels))
   
-  # plot
+  # 确保数据格式正确
+  data_ave$year <- as.factor(data_ave$year)
+  data_range$year <- as.factor(data_range$year)
+  
+  # 获取模块顺序并转换为因子
+  module_levels <- unique(data_ave$module)
+  data_ave$module <- factor(data_ave$module, levels = module_levels)
+  data_range$module <- factor(data_range$module, levels = module_levels)
+  
+  # 创建数值ID用于y轴
+  data_ave$module_id <- as.numeric(data_ave$module)
+  data_range$module_id <- as.numeric(data_range$module)
+  
+  # 关键：准备竖直基线数据（每个组对应自己的基线x坐标）
+  baseline_data <- data.frame(
+    year = unique(data_ave$year),
+    baseline_x = metric_info$baseline_values,  # 每个year对应一个基线x坐标
+    ymin = 1-0.1,
+    ymax = length(module_levels) + 0.1
+  )
+  
+  # ========== 核心新增：计算偏差百分比 ==========
+  # 1. 将基线值合并到data_ave（匹配year）
+  data_ave <- merge(data_ave, baseline_data[, c("year", "baseline_x")], by = "year", all.x = TRUE)
+  # 2. 计算偏差百分比（|(实际值-基线值)/基线值| * 100）
+  # 处理基线值为0的情况（避免除0错误）
+  data_ave$deviation_pct <- ifelse(
+    data_ave$baseline_x == 0,
+    abs(data_ave$value) * 100,  # 基线为0时，偏差=|实际值|*100
+    abs((data_ave$value - data_ave$baseline_x) / data_ave$baseline_x) * 100
+  )
+  # 3. 标记单个点是否>5%
+  data_ave$deviation_group <- ifelse(data_ave$deviation_pct > 5, "large", "small")
+  
+  # ========== 核心新增：按模块判断是否有大偏差点 ==========
+  # 分组规则：只要模块内有1个点>5%，标记为TRUE
+  module_deviation <- data_ave %>%
+    group_by(module) %>%
+    summarise(
+      has_large_deviation = any(deviation_group == "large"),  # 模块级大偏差标记
+      .groups = "drop"  # 取消分组
+    )
+  # 将模块级标记合并回原数据
+  data_ave <- merge(data_ave, module_deviation, by = "module", all.x = TRUE)
+  
   p <- ggplot() +
-    geom_ribbon(
-      data = data_range,
-      aes(x = module_id, ymin = MIN, ymax = MAX, fill = factor(year)),
-      alpha = 0.2 
+    # ========== 核心修改：水平线透明度按模块标记映射 ==========
+  geom_segment(
+    data = data_ave,
+    aes(
+      x = 0, xend = value, y = module_id, yend = module_id,
+      alpha = has_large_deviation  # 映射模块是否有大偏差到透明度
+    ),
+    size = 0.575,  
+    color = "black"  # 移除固定alpha，改为映射
+  ) +
+    # ========== 新增：手动指定透明度值 ==========
+  scale_alpha_manual(
+    values = c("TRUE" = 0.6, "FALSE" = 0.05),  # 有大偏差=0.3，无=0.05
+    guide = "none"  # 隐藏透明度图例
+  ) +
+    # ========== 核心修改：根据偏差设置点大小 ==========
+  geom_point(
+    data = data_ave,
+    aes(
+      x = value, 
+      y = module_id, 
+      color = year,
+      size = deviation_group  # 映射偏差分组到点大小
+    )
+  ) +
+    # ========== 新增：手动指定点大小 ==========
+  scale_size_manual(
+    values = c(large = 3.75, small = 1.3),  
+    guide = "none"  # 隐藏大小图例（只保留颜色图例）
+  ) +
+    # Y轴配置
+    scale_y_continuous(
+      breaks = 1:length(module_levels),
+      labels = module_levels,
+      expand = c(0.02, 0)
     ) +
-    geom_line(
-      data = data_ave,
-      aes(x = module_id, y = value, color = factor(year)),
-      size = 1.25
-    ) +
-    geom_point(
-      data = data_ave,
-      aes(x = module_id, y = value, color = factor(year)),
-      size = 3
-    ) +
+    # X轴配置
     scale_x_continuous(
-      breaks = 1:length(module_levels), 
-      labels = module_levels
+      breaks = pretty(metric_info$y_limits, n = 5),
+      labels = function(x) {
+        if (max(metric_info$baseline_values) > 10) {
+          return(as.character(round(x)))
+        } else {
+          return(sprintf("%.3f", x))
+        }
+      }
     ) +
+    # 配色（统一年份的颜色映射）
     scale_fill_manual(
       values = colors,
       labels = metric_info$legend_labels
@@ -790,57 +864,65 @@ plot_metric <- function(metric_info) {
       values = colors,
       labels = metric_info$legend_labels
     ) +
-    scale_y_continuous(
-      breaks = metric_info$baseline_values, 
-      labels = function(x) {  
-        sprintf("%.3f", x)
-      }
-    ) +
-    coord_cartesian(ylim = metric_info$y_limits) +
+    # X轴范围控制
+    coord_cartesian(xlim = metric_info$y_limits) +
+    # 主题与标签
     theme_bw() +
+    labs(
+      x = metric_info$name,
+      y = "Module"
+    ) +
     theme(
-      axis.text.x = element_text(size = 13, angle = 60, hjust = 1),
-      axis.text.y = element_text(size = 15),                    
-      axis.title = element_blank(),                                 
+      axis.text.x = element_text(size = 9.5),
+      axis.text.y = element_text(size = 9,face = "italic"),
+      axis.title.x = element_blank(),
+      axis.title.y = element_blank(),
       plot.title = element_text(size = 34, hjust = 0.5),
-      plot.background = element_rect(fill = "white", color = NA), 
-      panel.grid = element_blank(),                       
-      strip.text = element_text(size = 12),         
-      legend.position = c(0.08, 0.05), 
-      legend.justification = c(0.35, 0.15),  
-      legend.background = element_rect(fill = NA, color = NA),  
-      legend.key = element_blank(),     
-      legend.title = element_text(size = 13), 
-      legend.text = element_text(size = 13)   
+      plot.background = element_rect(fill = "white", color = NA),
+      panel.grid.major.y = element_blank(),
+      panel.grid.minor.y = element_blank(),
+      panel.grid.major.x = element_blank(),
+      panel.grid.minor.x = element_blank(),
+      strip.text = element_text(size = 12),
+      legend.position = "bottom",
+      legend.justification = c(1, 0.5),
+      legend.background = element_rect(fill = NA, color = NA),
+      legend.key = element_blank(),
+      legend.title = element_blank(),
+      legend.text = element_text(size = 8.5),
+      legend.box.margin = margin(t = -5, r = 0, b = 0, l = 0, unit = "mm"), 
+      plot.margin = unit(c(0.2, 0.2, 0.05, 0.2), 'cm')
+    ) +
+    # 图例调整
+    guides(
+      color = guide_legend(override.aes = list(size = 3, linetype = "solid")),
+      fill = "none",  # 隐藏填充图例（无实际作用）
+      size = "none"   # 确保大小图例不显示
     )
   
-  # add horizontal line
-  for (value in metric_info$baseline_values) {
-    p <- p + geom_hline(
-      yintercept = value, 
-      color = "black", 
-      linetype = "dashed", 
-      size = 0.7, 
-      alpha = 0.35
-    )
-  }
-  
-  # save plot
+  # 保存图片
   output_path <- paste0(
     'C:/Users/23926/Desktop/works/#1 datasets and codes/codes/figures/', 
     metric_info$name, 
-    '.png'
+    '_horizontal.png'
   )
-  ggsave(output_path, plot = p, width = 9, height = 6, dpi = 300)
+  ggsave(output_path, plot = p, width = 5, height = 5, dpi = 400)
+  
+  print(paste("已保存:", output_path))
+  return(p)
 }
 
-# conduct batch analysis
+# 批量绘图
 results <- list()
 for (i in seq_along(metrics)) {
   metric_info <- metrics[[i]]
   tryCatch({
     result <- plot_metric(metric_info)
-    results[[length(results) + 1]] <- result
+    if (!is.null(result)) {
+      results[[length(results) + 1]] <- result
+    }
+  }, error = function(e) {
+    warning(paste("处理", metric_info$name, "时出错:", e$message))
   })
 }
 
@@ -2470,7 +2552,8 @@ perform_procrustes <- function(name1, name2, data1, data2) {
       legend.title = element_text(size = 23.5, face = 'bold'),
       legend.text = element_text(size = 23.5),
       legend.background = element_rect(color = 'transparent', fill = alpha('white', 0.1)),
-      legend.key = element_rect(fill = 'transparent', color = 'transparent')
+      legend.key = element_rect(fill = 'transparent', color = 'transparent'),
+      plot.margin = unit(c(0.55, 0.55, 0.55, 0.55), 'cm')
     ) +
     annotate(
       'text',
@@ -2479,7 +2562,7 @@ perform_procrustes <- function(name1, name2, data1, data2) {
       y = Inf,
       hjust = 1.2,
       vjust = 1.35,
-      size = 11.75
+      size = 20
     )
   
   # save plot
